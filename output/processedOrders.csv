@@ -1,0 +1,1001 @@
+TransactionID,TransactionDate,ProductName,ExpiryDate,Quantity,UnitPrice,TotalPrice,Channel,PaymentMethod,AppliedDiscounts,EffectiveDiscount,FinalPrice
+ab5a546f-d947-4068-94be-b0e7d1ac39f5,2023-04-18,Wine - White Pinot Grigio,2023-06-10,6,122.46999999999998,734.8199999999999,Store,Visa,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,698.079
+633a0121-b293-44da-bccb-c71ede631e18,2023-04-09,Pepper - Red Thai,2023-05-22,5,23.18,115.9,Store,Cash,"",0.0,115.9
+c2f59e93-2e53-4ff0-9019-6597d012a653,2023-05-09,Wine - Chardonnay Mondavi,2023-08-04,7,189.74,1328.18,Store,Cash,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:5.0%",5.0,1261.771
+57af65d1-07ac-41aa-bbb0-7668f66a6efa,2023-04-09,External Supplier,2023-05-23,14,9.92,138.88,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,123.6032
+1aed0fd7-898b-402e-895b-fc7e0f08e3d8,2023-03-27,Beans - Black Bean Preserved,2023-05-28,13,145.85,1896.05,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,1763.3265
+930ce434-e3b2-4dfb-936a-2ef7df68efa4,2023-04-27,Beef - Inside Round,2023-07-18,9,247.62,2228.58,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,2117.151
+926ee264-2394-4963-b3c0-a577eaaa163f,2023-05-02,Bread - Calabrese Baguette,2023-05-28,1,111.21,111.21,Store,Visa,"Expiration Discount:4.0%;Visa Card Promotion:5.0%",4.5,106.20554999999999
+afc5763f-3b63-4877-91a1-f5e23d59bd10,2023-03-17,Zucchini - Mini Green,2023-05-05,15,146.75,2201.25,Store,Visa,"Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,2036.15625
+a7a4d33b-b9f2-427b-829e-f90976b4fdba,2023-03-22,Eggs - Extra Large,2023-04-08,16,48.05,768.8,App,Visa,"Expiration Discount:13.0%;Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",16.5,641.948
+9fd0e640-ed77-4aea-84da-d94ff9083f59,2023-05-11,Pork - Liver,2023-07-20,17,191.13,3249.21,Store,Visa,"Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,3005.5192500000003
+2164aac5-7ae0-4b5c-b38f-7c2c4fe8635c,2023-04-04,Sesame Seed,2023-06-08,4,62.69,250.76,Store,Cash,"",0.0,250.76
+6bd7f51a-cf1d-47ad-a642-d1c37263fec8,2023-04-14,Tuna - Yellowfin,2023-05-23,9,183.3,1649.7,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,1567.215
+ff8249ed-9e45-4185-997a-f7bb77424d52,2023-04-23,Wine - Magnotta - Belpaese,2023-05-12,9,101.36,912.24,Store,Cash,"Expiration Discount:11.0%;Cheese/Wine Discount:5.0%;Bulk Purchase Discount:5.0%",8.0,839.2608
+394c1627-d812-4e73-a170-666653f8b973,2023-04-26,Bar Bran Honey Nut,2023-07-20,15,13.21,198.15,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,178.335
+b4db1f85-3540-4efb-b0f6-0235cfc6923a,2023-04-23,Cake - French Pear Tart,2023-07-11,12,215.63,2587.56,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2406.4307999999996
+238a60bb-273e-43b8-87cb-87f334f71975,2023-04-24,Carbonated Water - Wildberry,2023-07-19,2,19.31,38.62,Store,Cash,"",0.0,38.62
+abb937bf-8a49-4402-a2d4-383e9cef3681,2023-04-06,Pork - Ham Virginia,2023-06-18,14,208.26,2915.64,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2711.5451999999996
+57a3b096-bb78-42e8-ac13-52653ac4ac5f,2023-04-30,Wine - Prosecco Valdobienne,2023-06-01,15,221.11,3316.65,Store,Visa,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,3067.9012500000003
+0f3c117d-3135-4f23-bf67-1e83cdd72c52,2023-04-23,Lettuce - Boston Bib - Organic,2023-06-13,6,96.43,578.58,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,549.6510000000001
+7100c7d5-47b5-4fc1-957d-e0592063f583,2023-04-05,Wine - Marlbourough Sauv Blanc,2023-04-10,4,233.83,935.32,App,Visa,"Expiration Discount:25.0%;Cheese/Wine Discount:5.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",15.0,795.022
+5fcef69a-364c-4c49-ba06-533c50fb4c37,2023-04-13,Longos - Chicken Cordon Bleu,2023-05-28,16,193.04,3088.64,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,2779.776
+8e75c171-539c-4db1-8066-574ebf318170,2023-04-19,Beef Striploin Aaa,2023-06-06,9,81.77,735.93,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,699.1334999999999
+3af32f7b-816e-424d-8abd-c7782cef25b2,2023-04-29,Sauce - Oyster,2023-05-15,2,69.06,138.12,App,Visa,"Expiration Discount:14.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",9.5,124.99860000000001
+459e13a4-eea1-473d-ba30-a34fc0b8d9eb,2023-04-03,Barley - Pearl,2023-05-29,3,94.98,284.94,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,270.693
+10162d33-6e21-4d07-b042-63bd985812fc,2023-05-09,Cheese Cloth No 60,2023-06-20,16,49.41,790.56,App,Visa,"Cheese/Wine Discount:10.0%;Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,671.9759999999999
+713adeec-454f-4450-be6d-107c5290572e,2023-03-25,Cut Wakame - Hanawakaba,2023-06-17,16,190.34,3045.44,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,2740.896
+3f3bfb94-c1dc-43f7-b2c3-6ed4b0dd3e48,2023-05-12,Kolrabi,2023-05-20,14,29.13,407.82,App,Visa,"Expiration Discount:22.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",18.5,332.3733
+b5a22d43-c35f-49b7-98a4-727b25301ae9,2023-05-03,Coffee - Espresso,2023-05-31,12,61.91,742.92,App,Visa,"Expiration Discount:2.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,661.1988
+f84123df-348a-459e-809a-42e7eeed602b,2023-04-29,Beef - Kindney Whole,2023-04-30,14,7.410000000000001,103.74000000000001,Store,Visa,"Expiration Discount:29.0%;Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",18.0,85.06680000000001
+aa0cb49d-9223-4d63-9ff1-f280e29f8df6,2023-05-10,Honey - Comb,2023-07-03,3,97.54,292.62,Store,Visa,"Visa Card Promotion:5.0%",5.0,277.989
+40b9990d-8b9a-4f39-8b66-05c13f5520f8,2023-04-19,Soup Campbells Turkey Veg.,2023-04-24,1,1.86,1.86,Store,Cash,"Expiration Discount:25.0%",25.0,1.395
+cb12dcf3-e94d-4175-9822-89b1790e3a2c,2023-04-15,Syrup - Monin - Blue Curacao,2023-04-19,9,62.849999999999994,565.65,Store,Visa,"Expiration Discount:26.0%;Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",15.5,477.97425
+e98970f8-2211-420d-9d17-3900aa4404d1,2023-04-21,Coffee Beans - Chocolate,2023-07-15,15,29.33,439.95,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,395.955
+c98ef301-30ec-424c-b11f-1de57cae8d3a,2023-04-13,Wine - Vidal Icewine Magnotta,2023-05-29,17,220.37,3746.29,App,Visa,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,3184.3465
+b5e2ff94-36f1-4e2e-a841-bb700e811c6d,2023-03-29,Island Oasis - Peach Daiquiri,2023-06-18,16,128.13,2050.08,Store,Visa,"Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,1896.324
+76bc6666-359a-4dcd-999b-a4d84a9d753e,2023-04-04,Lychee,2023-07-01,4,16.08,64.32,Store,Cash,"",0.0,64.32
+c5b86533-5028-4655-93af-1ef3b87e9295,2023-03-17,Contreau,2023-04-16,11,222.63,2448.93,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,2179.5477
+9366b2c4-1913-400a-afe4-6ad0cf454fd0,2023-04-08,Cheese - Taleggio D.o.p.,2023-04-27,1,205.18,205.18,Store,Visa,"Expiration Discount:11.0%;Cheese/Wine Discount:10.0%;Visa Card Promotion:5.0%",10.5,183.6361
+3beeb519-e5af-42de-b076-5b6e3c1acfda,2023-03-30,Persimmons,2023-05-01,14,80.81000000000002,1131.3400000000001,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,1052.1462000000001
+d83b822e-0b87-4c46-a1ea-04494b7a6858,2023-03-29,Towels - Paper / Kraft,2023-05-02,7,17.24,120.67999999999999,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,114.64599999999999
+d3c33abf-d800-4817-9203-4d9276f64903,2023-03-27,Pastry - Cheese Baked Scones,2023-06-08,11,232.08,2552.88,App,Visa,"Cheese/Wine Discount:10.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",12.5,2233.77
+5372d50d-b988-4220-82ae-6b496ac534b8,2023-04-07,Honey - Liquid,2023-07-01,16,103.96,1663.36,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,1497.024
+a9cf4658-5d30-4247-a32f-6ca58c64739f,2023-04-09,Veal - Bones,2023-06-30,14,48.36,677.04,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,602.5656
+693d8b9b-c11a-4366-bc58-fed3734995a3,2023-04-08,Beets,2023-04-15,16,108.46,1735.36,Store,Cash,"Expiration Discount:23.0%;Bulk Purchase Discount:10.0%",16.5,1449.0256
+1bb5ac1a-90f2-425a-b1db-995d662f77c0,2023-04-25,Wine - Saint Emilion Calvet,2023-06-05,5,31.559999999999995,157.79999999999998,App,Visa,"Cheese/Wine Discount:5.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,149.90999999999997
+aed7f340-275f-4971-82c6-b49c80609127,2023-04-13,Coffee - Ristretto Coffee Capsule,2023-06-23,12,234.0,2808.0,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,2639.52
+8ca912ab-9491-4073-ab5f-5a21dada0e16,2023-03-21,Beef - Tenderlion Center Cut,2023-04-08,7,245.12000000000003,1715.8400000000001,Store,Visa,"Expiration Discount:12.0%;Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",8.5,1569.9936000000002
+10bd4211-1dd0-4fc6-af9d-80c33aa9ba79,2023-04-12,Pails With Lids,2023-07-08,5,156.56,782.8,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,743.66
+f765b161-ac8b-4042-bbea-01548ead6fc0,2023-04-22,Wine - Cousino Macul Antiguas,2023-05-26,1,78.82,78.82,Store,Visa,"Cheese/Wine Discount:5.0%;Visa Card Promotion:5.0%",5.0,74.87899999999999
+bf29081c-16d7-498a-93b6-4b550750a4fd,2023-03-25,Puree - Mango,2023-06-20,7,236.95,1658.6499999999999,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,1575.7174999999997
+437a90ed-0079-413f-9e60-55106d92e203,2023-04-15,Soup - Campbells Chili,2023-06-13,3,167.22,501.65999999999997,Store,Cash,"",0.0,501.65999999999997
+2458d286-b233-4b08-b144-0dc70f5204aa,2023-04-02,Table Cloth 91x91 Colour,2023-05-11,1,132.54,132.54,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,125.91299999999998
+6df8f3c8-4f13-4af1-85f1-3fc2c3aa29bd,2023-05-01,Apron,2023-07-17,6,139.54,837.24,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,795.3779999999999
+7965242c-8fa1-44e7-a2b4-69003e13aca6,2023-04-17,Chocolate - Mi - Amere Semi,2023-07-04,6,227.37,1364.22,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,1261.9035000000001
+6b393aae-4d31-4c52-85ce-a86d415bea20,2023-04-05,Tomatoes - Plum Canned,2023-05-31,10,68.25,682.5,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,634.7249999999999
+a375b459-582e-42ea-97e0-83ebf6f087fb,2023-04-14,Oysters - Smoked,2023-07-08,15,66.86,1002.9,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",12.5,877.5375
+c84c7896-988e-41ba-b053-70ac3923e66a,2023-04-19,Pork - Chop Frenched,2023-05-07,2,154.51,309.02,Store,Cash,"Expiration Discount:12.0%",12.0,271.9376
+354e265a-9d44-4f89-86c5-ca24fa807b98,2023-05-10,Pastry - Baked Cinnamon Stick,2023-05-16,12,64.08,768.96,App,Visa,"Expiration Discount:24.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",19.5,619.0128
+2be37c66-4820-4f96-be9c-8a712a45eed3,2023-04-03,Bread Foccacia Whole,2023-04-18,1,198.9,198.9,App,Visa,"Expiration Discount:15.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",10.0,179.01000000000002
+5e2d5046-4bd5-4843-9275-683ab19c790a,2023-04-07,Tuna - Loin,2023-06-16,7,26.01,182.07000000000002,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,168.41475000000003
+d105ff4d-4846-4ee6-ae34-fe2118e083e2,2023-04-02,Corn Syrup,2023-04-27,8,124.55,996.4,App,Visa,"Expiration Discount:5.0%;Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,921.6700000000001
+886b6d34-54c3-4d2d-a6b8-bc4e3d7a032a,2023-05-05,Wine - Bouchard La Vignee Pinot,2023-05-06,5,202.72,1013.6,App,Visa,"Expiration Discount:29.0%;Cheese/Wine Discount:5.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",17.0,841.288
+c096bc1e-67aa-4b20-973d-1dcf01999e90,2023-04-20,Lamb - Pieces Diced,2023-06-12,5,85.41,427.04999999999995,Store,Cash,"",0.0,427.04999999999995
+353f3282-7561-4804-a5f9-edfb5a31ed81,2023-04-08,Cocoa Butter,2023-04-10,3,149.72,449.15999999999997,App,Visa,"Expiration Discount:28.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",16.5,375.04859999999996
+b850bc0c-54cb-4b49-8fcb-de82028ab932,2023-03-30,Juice - Apple 284ml,2023-05-12,2,24.63,49.26,Store,Cash,"",0.0,49.26
+7da67fae-200e-465f-a3c5-eebd7feb2173,2023-04-03,Tomato - Plum With Basil,2023-06-25,3,71.15,213.45000000000002,Store,Cash,"",0.0,213.45000000000002
+5e45324f-52e7-4aba-bb3e-252bc01ef24a,2023-04-18,Wine - Magnotta White,2023-06-12,4,136.58,546.32,Store,Cash,"Cheese/Wine Discount:5.0%",5.0,519.004
+f7d0228c-c226-42a3-91dc-f48d17e2a948,2023-04-01,Veal - Knuckle,2023-05-10,10,186.71,1867.1000000000001,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,1736.403
+d8ef4062-f03e-4bc4-aeb1-22c678a8c3d7,2023-04-12,Sugar - Brown,2023-04-28,13,218.79,2844.27,App,Visa,"Expiration Discount:14.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",14.5,2431.85085
+5baef7b6-e459-4754-b6ed-b6f1de96df9a,2023-04-03,Mix - Cocktail Ice Cream,2023-05-29,15,94.51,1417.65,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,1275.8850000000002
+8e7216da-bf6a-485d-be82-4b68a58aac03,2023-04-11,Bread Base - Gold Formel,2023-04-17,6,83.09,498.54,App,Visa,"Expiration Discount:24.0%;Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",17.0,413.7882
+5ce24883-74e5-48f4-8c69-e2244030f7a0,2023-04-25,Salmon - Whole 4 - 6 Pounds,2023-06-09,9,188.02,1692.18,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,1607.571
+3aa14060-f8f4-4cb0-9fc5-5350095468cc,2023-04-27,Lettuce - Radicchio,2023-06-26,12,227.89,2734.68,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2543.2524
+d57c9bc2-c377-4bb1-a62b-471d8ddce887,2023-03-21,Wood Chips - Regular,2023-06-06,17,191.65,3258.05,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,2769.3425
+c704122a-f9c2-493f-a6d0-9bbcbe89ab4e,2023-04-04,Pails With Lids,2023-06-01,1,88.1,88.1,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,83.695
+09c14d70-2d7f-4361-8ac2-e881ad281179,2023-04-29,Strawberries,2023-05-28,2,148.88,297.76,App,Visa,"Expiration Discount:1.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,282.87199999999996
+caba3ab4-1fca-4357-a4cb-9c821533d0c9,2023-05-01,Bread - Pita,2023-05-10,2,130.58,261.16,Store,Cash,"Expiration Discount:21.0%",21.0,206.31640000000002
+57daf96e-ac25-4769-afab-37fb41d7f3ea,2023-04-12,Hand Towel,2023-05-01,12,219.89,2638.68,Store,Cash,"Expiration Discount:11.0%;Bulk Purchase Discount:7.0%",9.0,2401.1988
+209a0ec4-5494-4709-a130-2896d911244c,2023-04-12,Ice Cream - Chocolate,2023-05-30,6,175.97,1055.82,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,976.6335
+a9e46388-7e1b-4dec-8390-fcc3d657efa3,2023-04-16,Lid - 16 Oz And 32 Oz,2023-04-17,10,105.72999999999999,1057.3,Store,Cash,"Expiration Discount:29.0%;Bulk Purchase Discount:7.0%",18.0,866.986
+98db3b02-1953-4cbb-81e9-238b5d32c302,2023-03-17,Mayonnaise,2023-03-22,12,100.57,1206.84,Store,Cash,"Expiration Discount:25.0%;Bulk Purchase Discount:7.0%",16.0,1013.7455999999999
+89ec4594-cf87-46ac-98b5-a636cadde339,2023-04-06,Tarts Assorted,2023-06-26,3,172.63,517.89,Store,Visa,"Visa Card Promotion:5.0%",5.0,491.99549999999994
+f8023dac-5f5e-499b-ba17-8ffad2b1dca4,2023-05-04,Butter - Salted,2023-06-13,14,105.08,1471.12,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,1368.1415999999997
+eaef94b7-2ab2-4658-b4ba-d6efcec94140,2023-03-27,Amaretto,2023-05-28,13,6.89,89.57,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,83.30009999999999
+34e83371-4061-4122-a31d-3e4e604bc0f2,2023-04-03,Bread - White Mini Epi,2023-06-21,17,21.35,362.95000000000005,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,326.65500000000003
+e243da45-8fca-4404-a96c-db3f4af250e3,2023-04-12,Lamb - Bones,2023-06-13,16,111.07,1777.12,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,1510.552
+6df9756b-e629-4879-aa24-53b0a18ec229,2023-04-26,Bagelers - Cinn / Brown Sugar,2023-06-23,12,210.78,2529.36,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2352.3048
+2641b582-6d4f-456b-a083-58a18fe308ed,2023-05-04,Soup - Campbells Beef Barley,2023-05-28,17,206.53,3511.01,Store,Visa,"Expiration Discount:6.0%;Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",8.0,3230.1292000000003
+99771e25-c0a9-4c83-9bbc-204d2cbfca4e,2023-03-24,Pasta - Fettuccine Egg Fresh,2023-06-02,6,166.99,1001.94,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,951.843
+d8a7e956-edc4-4c0a-8cfe-f8d6bc048bed,2023-05-03,Nut - Almond Blanched Whole,2023-07-14,9,53.84,484.56000000000006,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,460.33200000000005
+0a073e67-f761-4d24-8305-9572a743e6f6,2023-03-17,Wine - White Schroder And Schyl,2023-03-23,13,165.67000000000002,2153.71,Store,Cash,"Expiration Discount:24.0%;Cheese/Wine Discount:5.0%;Bulk Purchase Discount:7.0%",15.5,1819.88495
+4821c382-dbe7-443e-8985-3fb83a4c148b,2023-05-02,Soup - Knorr Chicken Gumbo,2023-05-11,3,236.76,710.28,Store,Cash,"Expiration Discount:21.0%",21.0,561.1212
+03e8871c-e1db-4086-bd6a-38644db9bafc,2023-04-26,Wine - Red Colio Cabernet,2023-04-27,14,150.82,2111.48,Store,Visa,"Expiration Discount:29.0%;Cheese/Wine Discount:5.0%;Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",18.0,1731.4136
+4c028258-0ffa-4c94-932c-9b92b374400e,2023-05-02,Thyme - Lemon Fresh,2023-05-29,14,88.35,1236.8999999999999,Store,Cash,"Expiration Discount:3.0%;Bulk Purchase Discount:7.0%",5.0,1175.0549999999998
+076f116b-5b16-4889-a15b-8523cfababa2,2023-03-13,Honey - Lavender,2023-04-13,1,11.79,11.79,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,11.200499999999998
+6b0f8d31-892d-4660-b0d2-ed81ba82f66d,2023-05-05,Cake - Bande Of Fruit,2023-05-10,11,43.91,483.01,App,Visa,"Expiration Discount:25.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",20.0,386.408
+2cc9bdc8-438c-425a-8a12-de52da70dd2a,2023-04-08,Veal - Insides Provini,2023-04-26,11,40.81,448.91,App,Visa,"Expiration Discount:12.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",13.5,388.30715000000004
+de06189d-da4f-4fc3-a26f-c5824616ff27,2023-03-20,Cheese - Taleggio D.o.p.,2023-03-25,10,194.85,1948.5,Store,Visa,"Expiration Discount:25.0%;Cheese/Wine Discount:10.0%;Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",17.5,1607.5124999999998
+2a229fe3-7a42-48f0-972b-590426b4922f,2023-04-20,Table Cloth 54x54 Colour,2023-07-03,15,186.31,2794.65,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,2515.185
+6bb10dd7-5a7a-476e-88c9-ad7353368b1b,2023-03-18,Nut - Walnut Chopped,2023-05-03,14,180.3,2524.2000000000003,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,2246.5380000000005
+516040be-894c-4d28-b4cc-510e181960ea,2023-04-26,Turkey - Whole Fresh,2023-06-17,17,138.43,2353.31,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,2117.979
+4514c881-8fc2-466e-b55f-bf586586c89f,2023-04-12,Ocean Spray - Ruby Red,2023-07-02,5,148.87,744.35,Store,Cash,"",0.0,744.35
+819f2284-622c-4963-abe5-d026520e148b,2023-04-24,Nantucket - Orange Mango Cktl,2023-06-05,6,161.12,966.72,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,918.384
+038c5691-23da-4e7d-a795-aba6c6fa9261,2023-04-12,Flower - Carnations,2023-05-21,6,229.61,1377.66,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,1308.777
+fe9d85a9-db13-4ad2-b63f-de375d1cb550,2023-04-29,Tequila - Sauza Silver,2023-06-30,3,24.27,72.81,Store,Cash,"",0.0,72.81
+0ff1224c-85aa-4558-9c1c-24c7b4ee1762,2023-04-17,Soup - Base Broth Beef,2023-05-21,14,55.81,781.34,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,734.4596
+c2e2ef35-c902-4ffb-98bd-25972184b1bd,2023-05-04,Mikes Hard Lemonade,2023-05-24,5,62.32000000000001,311.6,Store,Cash,"Expiration Discount:10.0%",10.0,280.44000000000005
+174a1b1f-6988-4f33-9cb6-0c58d871469e,2023-03-31,Pasta - Lasagna Dry,2023-06-01,12,8.24,98.88,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,92.9472
+d04a0cb4-681f-48ae-8198-8d195ac50a38,2023-04-06,Ginsing - Fresh,2023-06-19,9,92.93,836.3700000000001,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,794.5515
+93bd871e-aff3-4423-beb5-4573f6860cdc,2023-05-03,Capon - Breast Wing On,2023-07-27,9,171.96,1547.64,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,1431.5670000000002
+7f234ae0-234b-4084-8f3c-2d97ef366881,2023-05-07,Chocolate - Semi Sweet Calets,2023-07-30,15,197.52,2962.8,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,2666.5200000000004
+ed15f70c-71db-4d7b-8d1a-9587837cc591,2023-03-20,Tray - 16in Rnd Blk,2023-06-16,12,7.88,94.56,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,84.1584
+c5be6b6c-2634-409f-bdb8-b8f7c655df4c,2023-05-08,Coffee - Frthy Coffee Crisp,2023-05-31,16,22.75,364.0,App,Visa,"Expiration Discount:7.0%;Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,309.4
+a404c0db-486a-4c5e-9f52-4b594209f8d9,2023-05-04,Schnappes Peppermint - Walker,2023-05-20,6,19.59,117.53999999999999,App,Visa,"Expiration Discount:14.0%;Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",12.0,103.4352
+350d43d1-38fa-4596-804e-dfd32683dc13,2023-03-20,Wine - White Lindemans Bin 95,2023-04-19,9,182.21,1639.89,Store,Cash,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:5.0%",5.0,1557.8955
+fcce101c-41c6-4cef-a243-c3d71780c12d,2023-05-08,Coffee Cup 12oz 5342cd,2023-07-15,10,130.1,1301.0,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",8.5,1190.415
+ea16a594-6dfd-486b-b77f-5c5ffc01d18c,2023-03-21,Paper - Brown Paper Mini Cups,2023-06-05,6,5.63,33.78,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,32.091
+21e492d1-00a6-4f72-9e00-aa8776a26c74,2023-04-30,Coffee - Frthy Coffee Crisp,2023-07-17,15,177.35,2660.25,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,2394.225
+499d5818-9e6f-4b57-bd57-8decdba67f96,2023-05-03,Tea - Orange Pekoe,2023-05-20,1,71.36,71.36,App,Visa,"Expiration Discount:13.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",9.0,64.9376
+4b1e73fc-baa8-4835-ae00-18eabaf1a2e3,2023-05-02,Muffin Mix - Raisin Bran,2023-06-29,11,171.22,1883.42,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,1676.2438000000002
+e7a137e3-df54-4133-8337-289b1c6ac181,2023-03-23,Jack Daniels,2023-06-14,17,210.22,3573.74,Store,Cash,"March 23 Special:50.0%;Bulk Purchase Discount:10.0%",30.0,2501.6179999999995
+707ccb09-bbf3-4d66-be8e-f32e9f20c53f,2023-04-22,Beef - Ground Medium,2023-07-05,14,174.09,2437.26,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,2169.1614000000004
+d5729319-5021-4a32-b870-337798cd2eb4,2023-04-25,Onion Powder,2023-05-03,15,136.9,2053.5,Store,Cash,"Expiration Discount:22.0%;Bulk Purchase Discount:10.0%",16.0,1724.9399999999998
+bf7cb6dc-1044-482c-92a2-cdbb0e32e5c3,2023-04-02,Tomatoes - Grape,2023-06-28,13,164.11,2133.4300000000003,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,1898.7527000000002
+82c08893-528c-4546-9c95-588fc9235e55,2023-03-22,Wine - Chenin Blanc K.w.v.,2023-06-07,11,184.55,2030.0500000000002,App,Visa,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,1806.7445000000002
+e48fd563-ec88-40da-a0e6-7dd58baabff1,2023-04-04,Quail - Eggs Fresh,2023-04-28,13,222.23,2888.99,Store,Cash,"Expiration Discount:6.0%;Bulk Purchase Discount:7.0%",6.5,2701.20565
+4ccdb033-e56d-4a53-add7-560ba42ebaff,2023-04-16,Bread - Pumpernickel,2023-05-12,11,182.41,2006.51,Store,Cash,"Expiration Discount:4.0%;Bulk Purchase Discount:7.0%",5.5,1896.15195
+054c2900-2047-4b5b-9149-3fdfa82ebed5,2023-03-16,Apples - Spartan,2023-06-06,6,127.75,766.5,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,728.175
+cb31708e-03e8-4933-95c6-d92940feb63e,2023-04-05,Snails - Large Canned,2023-06-10,8,158.15,1265.2,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,1201.94
+5acb8881-6feb-429a-afe1-0e135efb3aa7,2023-03-13,Eggplant - Baby,2023-04-18,3,241.88,725.64,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,689.358
+3e9192b2-4cd1-4b2c-a05d-90d7cd728e24,2023-04-13,Wine - Rioja Campo Viejo,2023-05-10,15,165.9,2488.5,App,Visa,"Expiration Discount:3.0%;Cheese/Wine Discount:5.0%;Bulk Purchase Discount:10.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",12.5,2177.4375
+c2c89365-0459-4df2-b797-36891fddab3e,2023-04-20,Wine - Rosso Toscano Igt,2023-04-25,1,188.66,188.66,App,Visa,"Expiration Discount:25.0%;Cheese/Wine Discount:5.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",15.0,160.361
+c20cdc47-4be3-44ca-a9f2-49ac50b41e26,2023-04-06,Wine - Blue Nun Qualitatswein,2023-04-08,7,228.35,1598.45,Store,Cash,"Expiration Discount:28.0%;Cheese/Wine Discount:5.0%;Bulk Purchase Discount:5.0%",16.5,1334.70575
+7e8c8e2c-8f39-48ad-902c-0e56bf242387,2023-04-11,Ecolab Crystal Fusion,2023-07-07,5,90.56,452.8,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,430.15999999999997
+ab30260d-ede5-458a-b7e9-23cf8d62e86a,2023-04-24,Ecolab Crystal Fusion,2023-07-23,9,92.27,830.43,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,788.9084999999999
+dc7c6323-ba8a-4c22-b818-c8975f7c1ca1,2023-03-28,Sauce - White Mix,2023-05-02,13,194.21,2524.73,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,2247.0097
+128ed857-476e-4aa1-aa35-4f2f82b95c19,2023-04-15,Lobak,2023-06-11,15,91.02,1365.3,Store,Visa,"Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,1262.9025
+cd03541c-d618-4d4f-826f-75dede3f4cf3,2023-04-09,Pasta - Shells Medium Dry,2023-04-11,3,212.35,637.05,App,Visa,"Expiration Discount:28.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",16.5,531.93675
+2b4c6808-d514-4947-a581-0bd8cfb66147,2023-05-10,Tomatoes Tear Drop Yellow,2023-06-03,13,45.47,591.11,Store,Visa,"Expiration Discount:6.0%;Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.5,552.68785
+792a8499-8296-4508-83ad-0bffe2a48e57,2023-05-05,Melon - Honey Dew,2023-07-27,12,167.18,2006.16,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,1865.7287999999999
+549a46a9-9506-4f89-aec7-7aca30c90cbe,2023-03-23,Dried Cranberries,2023-04-25,16,166.28,2660.48,Store,Visa,"March 23 Special:50.0%;Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",30.0,1862.3359999999998
+a08e6fb6-1e31-419e-b154-3fbb27ec3d5f,2023-03-26,Bagels Poppyseed,2023-05-10,8,80.83,646.64,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,598.142
+7a7d4395-74a0-4732-aaf0-5fb0d8939cb3,2023-04-23,Mushroom - Crimini,2023-06-08,15,217.8,3267.0,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",12.5,2858.625
+70256e4b-2be8-4ff3-adda-c55078032d47,2023-04-28,Spice - Peppercorn Melange,2023-06-16,7,234.14000000000001,1638.98,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,1516.0565000000001
+676a8bc5-ec62-437f-8903-145942b997e2,2023-03-19,Fruit Salad Deluxe,2023-05-22,4,148.25,593.0,Store,Visa,"Visa Card Promotion:5.0%",5.0,563.35
+b4345472-b78d-4da7-86dc-148016000372,2023-03-25,Mountain Dew,2023-04-07,13,62.12,807.56,Store,Cash,"Expiration Discount:17.0%;Bulk Purchase Discount:7.0%",12.0,710.6528
+896f1a6c-5b5d-46e0-a406-eb902a83006e,2023-03-19,Pur Value,2023-04-12,4,9.19,36.76,App,Visa,"Expiration Discount:6.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.5,34.7382
+afc13e20-915e-44c0-a09b-2d9aaaf11c8c,2023-03-18,Remy Red Berry Infusion,2023-05-26,7,38.18,267.26,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,247.2155
+34025d77-4530-405a-b5cb-d367d008c75e,2023-04-27,Chestnuts - Wholecanned,2023-06-14,9,38.44,345.96,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,320.013
+252398db-a029-4ab0-baeb-07e453520044,2023-03-20,Pork - Sausage Medium,2023-04-06,6,233.63,1401.78,Store,Cash,"Expiration Discount:13.0%;Bulk Purchase Discount:5.0%",9.0,1275.6198
+0ea21a51-a9bf-490e-861a-271404778ac0,2023-03-17,Apple - Royal Gala,2023-05-03,10,235.0,2350.0,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2185.5
+6208abf8-a095-4c93-920e-295e6437f26a,2023-04-24,Oil - Cooking Spray,2023-05-30,14,83.2,1164.8,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,1036.672
+c65dced6-2fc8-4b84-a722-5e6d45bf7827,2023-04-26,Tuna - Bluefin,2023-05-02,5,9.57,47.85,Store,Cash,"Expiration Discount:24.0%",24.0,36.366
+e27a070f-bfe5-44b8-be18-d78a9b1fd5d9,2023-03-22,Pepper - Green Thai,2023-04-22,1,64.88,64.88,Store,Cash,"",0.0,64.88
+63544b0b-635a-4fa9-bfc3-c9acfb1d08e0,2023-05-06,Mustard - Individual Pkg,2023-07-29,14,161.8,2265.2000000000003,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2106.636
+5c8d9578-3ba8-4e08-bf03-a185813ea8fd,2023-05-12,Pepper - Julienne Frozen,2023-07-20,10,135.67,1356.6999999999998,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",8.5,1241.3805
+89ded6b5-74e9-4164-a4ef-d1f49e9b9b1a,2023-04-25,Hummus - Spread,2023-05-03,17,135.48,2303.16,Store,Cash,"Expiration Discount:22.0%;Bulk Purchase Discount:10.0%",16.0,1934.6544
+6b845029-8f01-44fc-b38d-d711f4a65a9d,2023-03-13,Absolut Citron,2023-05-25,9,62.419999999999995,561.78,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,533.6909999999999
+4fcc7df8-bd88-4bea-b5ee-b818ab4666e2,2023-05-10,Salad Dressing,2023-05-24,6,150.28,901.6800000000001,Store,Cash,"Expiration Discount:16.0%;Bulk Purchase Discount:5.0%",10.5,807.0036000000001
+e7ad938d-5692-48d0-8ca1-28f30695d60f,2023-03-21,Yogurt - Assorted Pack,2023-05-06,11,64.81,712.9100000000001,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,634.4899
+029abc46-2f20-4680-9794-d1b1a38f3df8,2023-04-21,Soap - Hand Soap,2023-05-26,6,83.29,499.74,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,474.753
+2a3775a7-efb1-462e-909c-09ceff9c1624,2023-05-04,Barley - Pearl,2023-06-30,2,123.76,247.52,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,235.144
+e193b1cb-4f49-452a-bb96-72a6fc88b592,2023-04-20,Appetizer - Sausage Rolls,2023-06-25,8,75.13,601.04,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,570.9879999999999
+119e0796-b996-47aa-acab-543b2e0c17b3,2023-03-16,Lemons,2023-03-31,17,247.41999999999996,4206.139999999999,App,Visa,"Expiration Discount:15.0%;Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",17.5,3470.0654999999992
+757f4d4a-baf5-4d2c-a571-25b92c9d747b,2023-04-28,Cake - Miini Cheesecake Cherry,2023-05-31,12,127.02,1524.24,Store,Cash,"Cheese/Wine Discount:10.0%;Bulk Purchase Discount:7.0%",8.5,1394.6796000000002
+dd441ccc-c3e7-4439-9545-852a6624dfd7,2023-04-05,Table Cloth 72x144 White,2023-06-27,17,229.19,3896.23,Store,Visa,"Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,3604.0127500000003
+b19f7e90-d8ff-4ee2-8122-ab75e09c839e,2023-03-17,Sword Pick Asst,2023-04-15,1,204.31,204.31,Store,Visa,"Expiration Discount:1.0%;Visa Card Promotion:5.0%",3.0,198.1807
+4288560e-2f5e-4f6e-9d18-916cb859a071,2023-03-18,Cake - Sheet Strawberry,2023-05-29,4,72.27,289.08,Store,Cash,"",0.0,289.08
+5786d2b1-a6ed-4388-8acc-ae9040ba66e3,2023-03-19,Tuna - Sushi Grade,2023-05-09,14,40.61,568.54,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,528.7421999999999
+4657abd3-e56d-4fdb-bc6a-de8f07f078fd,2023-05-02,Wine - Vovray Sec Domaine Huet,2023-05-27,4,41.5,166.0,App,Visa,"Expiration Discount:5.0%;Cheese/Wine Discount:5.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,157.7
+726054ee-707d-4396-b41a-b06ab9ba3781,2023-03-21,Watercress,2023-04-21,14,227.82,3189.48,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,2998.1112
+9ed3b369-d81b-44ca-9cf8-3c5e59b40bc2,2023-03-29,V8 Splash Strawberry Banana,2023-06-07,13,42.39,551.07,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,512.4951
+f9fd18a9-ce84-466f-ba17-0790d6cac4bc,2023-03-18,Syrup - Monin - Blue Curacao,2023-05-27,10,121.04,1210.4,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,1125.672
+e7836633-0f4c-4fb7-8291-05ce5c37eff8,2023-05-04,Sprouts - China Rose,2023-05-06,10,58.63000000000001,586.3000000000001,Store,Cash,"Expiration Discount:28.0%;Bulk Purchase Discount:7.0%",17.5,483.69750000000005
+02a8768d-f2a4-4614-a0c1-92085185d81c,2023-03-19,Pears - Bosc,2023-04-19,15,46.72,700.8,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",12.5,613.1999999999999
+97d41c5e-b7b5-4001-aedf-9802425c06fa,2023-03-23,Beef - Ox Tongue,2023-05-06,3,152.52,457.56000000000006,Store,Cash,"March 23 Special:50.0%",50.0,228.78000000000003
+3e7f739a-ddcf-42d4-9739-99df56cea601,2023-04-10,Buttons,2023-05-16,5,80.87,404.35,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,384.1325
+9d7b9e03-c598-4e60-8e5e-c00af89e7add,2023-03-23,The Pop Shoppe - Root Beer,2023-05-18,15,226.37,3395.55,Store,Visa,"March 23 Special:50.0%;Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",30.0,2376.8849999999998
+06d27f92-c0b8-4684-ad67-e8b71d9b618a,2023-03-30,Pork - Ground,2023-04-14,1,189.55,189.55,Store,Cash,"Expiration Discount:15.0%",15.0,161.1175
+324c1e2d-c17c-4369-940c-e54c81fc03ce,2023-04-08,Wasabi Powder,2023-05-03,1,24.63,24.63,App,Visa,"Expiration Discount:5.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,23.3985
+13bb4ad1-44e4-470b-adbb-e4864a0efd50,2023-03-17,Milk 2% 500 Ml,2023-05-15,14,229.53,3213.42,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,2859.9438
+bb2585e2-71ff-4afe-a1dd-fd39713a403f,2023-03-23,Flavouring - Orange,2023-04-05,14,183.47,2568.58,Store,Visa,"Expiration Discount:17.0%;March 23 Special:50.0%;Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",33.5,1708.1057
+d305383b-a796-4653-8b4b-f950d2b0004a,2023-05-01,Juice - Orange Concentrate,2023-05-10,11,95.39,1049.29,App,Visa,"Expiration Discount:21.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",18.0,860.4178
+8ccae33a-4b7e-4aaa-943c-2d7168fe2c80,2023-03-15,Bonito Flakes - Toku Katsuo,2023-04-23,12,96.34999999999998,1156.1999999999998,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,1086.8279999999997
+b927f62a-78c5-457a-81cd-4ce37536e89d,2023-04-19,Bread - Bistro White,2023-05-19,15,68.7,1030.5,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",12.5,901.6875
+ac93061f-a820-4d29-b692-3ea7f97c7b77,2023-04-18,Bread - English Muffin,2023-06-08,2,11.09,22.18,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,21.070999999999998
+8e88e682-470d-4b5a-80a1-d1723f517210,2023-04-22,Nantuket Peach Orange,2023-06-12,9,88.17,793.53,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,753.8534999999999
+88e6c8a8-02b5-4f03-b7a3-375aa53de26c,2023-04-09,Currants,2023-06-05,11,87.0,957.0,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,890.01
+7fc1323a-d230-417f-87f9-0e4e9be3e84e,2023-04-19,Wine - Red Gallo Merlot,2023-07-05,14,171.66,2403.24,Store,Cash,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:7.0%",6.0,2259.0455999999995
+a960080f-704d-453d-84f1-7c25234410dd,2023-05-05,Cheese - Camembert,2023-06-19,10,62.27,622.7,App,Visa,"Cheese/Wine Discount:10.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",10.0,560.4300000000001
+19152c04-ea33-4b46-b0cb-4de2efe0f546,2023-04-27,Container - Hngd Cll Blk 7x7x3,2023-06-21,17,247.06999999999996,4200.19,Store,Visa,"Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,3885.17575
+01e7416f-ca42-4a64-a914-e3a8f37a8659,2023-04-04,Tomatoes - Vine Ripe Red,2023-05-09,9,197.06,1773.54,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,1640.5245
+7c69c508-22a7-4be6-b618-6c97f72dbcb7,2023-04-14,Durian Fruit,2023-06-15,5,246.05,1230.25,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,1168.7375
+203edb5a-35dc-4cd0-b76d-661413198aed,2023-03-23,Veal - Shank Pieces,2023-06-01,15,64.0,960.0,Store,Cash,"March 23 Special:50.0%;Bulk Purchase Discount:10.0%",30.0,672.0
+56234365-5e07-4971-ba68-39c42efae1cd,2023-04-23,Container - Clear 32 Oz,2023-05-17,14,201.77,2824.78,Store,Visa,"Expiration Discount:6.0%;Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.5,2641.1693000000005
+0d4e9ad0-b1b8-469d-84e7-15b177309229,2023-05-05,Soup - Campbells - Chicken Noodle,2023-06-17,15,126.29,1894.3500000000001,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",12.5,1657.55625
+58a16ae3-c066-43ae-821a-3e308bbf2562,2023-05-01,Rice - Aborio,2023-07-06,6,16.2,97.19999999999999,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,92.33999999999999
+06431169-db2b-42b2-823e-288c8ec6d91d,2023-03-16,Wine - Fume Blanc Fetzer,2023-06-04,14,93.18999999999998,1304.6599999999999,App,Visa,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,1161.1473999999998
+78593144-f6e0-4723-8a3c-dcac922bd2db,2023-04-21,Beef - Salted,2023-07-11,1,83.46,83.46,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,79.28699999999999
+c5809f7b-8a87-4a68-a711-1f53df97306b,2023-04-09,Pastry - French Mini Assorted,2023-05-05,6,220.43999999999997,1322.6399999999999,Store,Cash,"Expiration Discount:4.0%;Bulk Purchase Discount:5.0%",4.5,1263.1211999999998
+f60b9003-7f1e-44f6-a34e-e7634bd3d8f6,2023-05-11,Liners - Baking Cups,2023-08-05,4,1.45,5.8,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,5.51
+09b5db05-45cd-4d37-a4d6-01fd2cc5184d,2023-04-30,Cookie - Oatmeal,2023-05-13,8,67.93,543.44,App,Visa,"Expiration Discount:17.0%;Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",13.5,470.07560000000007
+662e29ee-dbac-4166-a3b4-f82f33f90b4e,2023-04-09,Pastry - Banana Tea Loaf,2023-05-20,7,174.85999999999999,1224.02,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,1132.2185
+81e43d28-ff40-4517-ac09-2530b052d500,2023-03-23,Broom And Brush Rack Black,2023-03-31,12,236.64,2839.68,Store,Visa,"Expiration Discount:22.0%;March 23 Special:50.0%;Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",36.0,1817.3952
+ae7c559f-64a8-4b9d-b327-262522023ca5,2023-05-05,Fish - Bones,2023-07-06,5,194.87,974.35,Store,Cash,"",0.0,974.35
+49b91bbf-dfe3-468e-83c3-6db41bcde353,2023-04-22,Pie Shell - 5,2023-05-01,7,182.98,1280.86,Store,Visa,"Expiration Discount:21.0%;Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",13.0,1114.3482
+a1a07ebb-ce23-4a9a-abfd-6d924bdf20af,2023-04-05,Wine - White Colubia Cresh,2023-04-23,16,142.82,2285.12,App,Visa,"Expiration Discount:12.0%;Cheese/Wine Discount:5.0%;Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",16.0,1919.5007999999998
+9e4c8104-bcc7-4dec-9850-e8367377bfc0,2023-04-30,Celery Root,2023-05-08,10,6.28,62.800000000000004,App,Visa,"Expiration Discount:22.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",16.0,52.752
+4a937deb-11ae-4a8d-987f-2919a4d9741f,2023-03-22,Longos - Greek Salad,2023-06-11,8,86.7,693.6,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,641.58
+dec15c74-f8c9-49b4-bd42-0cee49f30849,2023-03-13,Puree - Raspberry,2023-03-19,16,13.46,215.36,Store,Cash,"Expiration Discount:24.0%;Bulk Purchase Discount:10.0%",17.0,178.7488
+4d43b9bc-92f2-4400-bcc0-64e571f8cc8e,2023-04-11,Calvados - Boulard,2023-04-13,4,228.68,914.72,App,Visa,"Expiration Discount:28.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",16.5,763.7912
+63a9a039-c532-4581-a99b-193d5413fc7e,2023-04-14,Scampi Tail,2023-06-21,14,187.9,2630.6,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2446.4579999999996
+44937b06-c2d5-4108-ba9d-b617b18b045a,2023-04-20,Island Oasis - Ice Cream Mix,2023-05-15,10,123.17,1231.7,App,Visa,"Expiration Discount:5.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",8.5,1127.0055
+7f5649b8-30db-4fbc-b7f4-8d2d9ee5b636,2023-05-01,Plasticforkblack,2023-07-17,17,162.91,2769.47,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,2492.5229999999997
+841dff29-fee2-46d5-8454-319eed22354f,2023-03-18,Bread - 10 Grain Parisian,2023-04-13,3,228.82000000000002,686.46,Store,Cash,"Expiration Discount:4.0%",4.0,659.0016
+352b93d6-01fe-4af0-8006-877e18e471cb,2023-03-27,Kale - Red,2023-04-11,4,218.31,873.24,Store,Cash,"Expiration Discount:15.0%",15.0,742.254
+3da9a7f0-014c-42e2-a977-a08d0d49041e,2023-03-13,Wine - Casillero Deldiablo,2023-05-27,7,22.82,159.74,Store,Cash,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:5.0%",5.0,151.75300000000001
+4f8d7e5e-6918-4657-9351-a36d91e92620,2023-04-08,Maintenance Removal Charge,2023-05-19,16,197.57,3161.12,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,2845.008
+fa5d6d66-8030-4e5b-b7f6-4eaf520104d7,2023-03-18,Tea - Mint,2023-04-18,13,156.99,2040.8700000000001,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,1898.0091
+4f797ca3-0d1d-43de-9353-62e8f06f3bd6,2023-04-22,Cookie - Oreo 100x2,2023-05-03,16,145.35,2325.6,App,Visa,"Expiration Discount:19.0%;Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",19.5,1872.1079999999997
+60fe923c-6fc0-486a-80c7-0ec0921af06f,2023-05-11,Compound - Pear,2023-06-15,12,16.86,202.32,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,188.15759999999997
+5b11aaf8-eaad-4ed4-8a09-cd4ea4f6d199,2023-04-09,The Pop Shoppe Pinapple,2023-06-24,15,28.4,426.0,Store,Visa,"Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,394.05
+2fb335ab-b324-44d3-b393-1f934a21b4ab,2023-04-11,Tarragon - Primerba Paste,2023-05-04,12,4.44,53.28,Store,Visa,"Expiration Discount:7.0%;Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",7.0,49.550399999999996
+b6595f30-e8f5-40b8-99d6-e3ab244642f2,2023-04-24,Straw - Regular,2023-05-19,13,167.09999999999997,2172.2999999999997,Store,Cash,"Expiration Discount:5.0%;Bulk Purchase Discount:7.0%",6.0,2041.9619999999995
+625810f8-0a1e-40a0-bf44-0257aa9135c9,2023-03-22,Mussels - Cultivated,2023-04-28,9,155.12,1396.08,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,1326.2759999999998
+19f76704-eb62-4a34-a629-b1349e86692a,2023-04-15,Beef - Top Butt Aaa,2023-05-29,7,75.8,530.6,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,490.80500000000006
+f6af05f4-be83-49da-9ad4-ce8e5ec654b9,2023-04-23,Beer - Sleemans Honey Brown,2023-04-28,9,195.62,1760.58,Store,Visa,"Expiration Discount:25.0%;Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",15.0,1496.493
+69e9652e-8348-4bba-828f-608707e96f27,2023-04-26,Bread - Pumpernickle Rounds,2023-04-29,16,30.8,492.8,Store,Cash,"Expiration Discount:27.0%;Bulk Purchase Discount:10.0%",18.5,401.632
+0a5621f6-f8ac-47f6-aae5-b335ab5fd256,2023-04-08,Cheese - Cheddar With Claret,2023-06-09,12,171.33,2055.96,Store,Cash,"Cheese/Wine Discount:10.0%;Bulk Purchase Discount:7.0%",8.5,1881.2034
+1c57780f-33e2-4b42-acd1-3e21f979feda,2023-04-25,Orange Roughy 6/8 Oz,2023-07-06,3,144.86,434.58000000000004,Store,Cash,"",0.0,434.58000000000004
+c891cba4-123c-4e22-87ca-b60998de0a6e,2023-05-11,Quiche Assorted,2023-06-19,13,194.39,2527.0699999999997,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2350.1750999999995
+1a998996-be38-444c-bc75-2fa509024938,2023-05-09,Cherries - Fresh,2023-07-27,9,86.3,776.6999999999999,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,718.4475
+a667a145-dc86-4da5-99bb-e79bcd9d984f,2023-04-01,Appetizer - Cheese Bites,2023-05-24,6,127.16000000000001,762.96,App,Visa,"Cheese/Wine Discount:10.0%;Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",10.0,686.6640000000001
+2f361a65-9009-480c-b452-d52252089544,2023-04-05,Wine - Barossa Valley Estate,2023-07-04,16,166.47,2663.52,Store,Visa,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,2463.7560000000003
+4442db98-f2dc-4424-9a17-29f4f026701b,2023-04-30,External Supplier,2023-06-15,10,177.68,1776.8000000000002,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",8.5,1625.7720000000002
+0ac0407d-fa31-4a92-a4f3-379f7eac32bd,2023-03-17,The Pop Shoppe Pinapple,2023-04-06,1,62.58,62.58,App,Visa,"Expiration Discount:10.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",7.5,57.8865
+3cd5c4ff-5fe0-4b2b-87a2-4072a6a3a08a,2023-04-05,Wine - Red Gallo Merlot,2023-05-10,15,210.55,3158.25,Store,Visa,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,2921.3812500000004
+90341245-4751-4b19-8f76-c1edc7a16f62,2023-03-20,Beef - Top Butt Aaa,2023-05-06,3,103.91000000000001,311.73,Store,Cash,"",0.0,311.73
+69f06c2d-1fa7-45af-b8de-25ea6c58d94c,2023-04-12,Yoghurt Tubes,2023-04-28,3,172.6,517.8,Store,Cash,"Expiration Discount:14.0%",14.0,445.30799999999994
+8498cd03-41b2-418d-b7b7-e85bb3fb4b8e,2023-04-24,Fudge - Chocolate Fudge,2023-07-23,4,9.43,37.72,Store,Visa,"Visa Card Promotion:5.0%",5.0,35.833999999999996
+28530fe8-ec09-44e8-8c57-d632fc84abb7,2023-04-15,Pickles - Gherkins,2023-06-11,3,187.30000000000004,561.9000000000001,Store,Cash,"",0.0,561.9000000000001
+4acf7e3e-7ec5-4ef1-b2f5-cfce1b87a49f,2023-03-25,Chef Hat 25cm,2023-04-02,10,126.80999999999999,1268.1,Store,Visa,"Expiration Discount:22.0%;Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",14.5,1084.2255
+f0d7d79d-bcc8-46b3-a270-c2f8e33ad582,2023-03-20,Wheat - Soft Kernal Of Wheat,2023-05-13,4,132.78,531.12,Store,Cash,"",0.0,531.12
+2aacc60d-c53d-4af3-aad4-f569926f8b5f,2023-03-25,Soup - Campbells Chili Veg,2023-06-02,14,88.34,1236.76,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,1150.1868
+a914ff20-ff67-44dc-a56f-d1e0b8ea3d32,2023-04-01,Bread - Granary Small Pull,2023-05-04,13,149.45,1942.85,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,1826.2789999999998
+9d652d99-c35b-4d0a-bc52-3a5e01629b23,2023-03-26,Bananas,2023-06-05,13,103.36,1343.68,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,1263.0592
+7a9ac512-d558-4c8a-97da-3d571f1271db,2023-04-01,Glaze - Apricot,2023-05-16,16,29.3,468.8,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,421.92
+9c1fda1a-fd3c-4fec-ae9e-10399c642b85,2023-04-02,Wine - Taylors Reserve,2023-06-20,16,51.5,824.0,Store,Visa,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,762.2
+419d05aa-e6ea-4ba6-87c3-543d86d91602,2023-03-31,Cheese - Havarti Salsa,2023-05-09,7,37.1,259.7,Store,Cash,"Cheese/Wine Discount:10.0%;Bulk Purchase Discount:5.0%",7.5,240.2225
+80812c02-159e-4d01-a831-22d265e0cc22,2023-05-11,Nori Sea Weed - Gold Label,2023-06-30,15,217.08,3256.2000000000003,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",12.5,2849.175
+9815c565-a485-4fcb-9c60-b3d7b74a378d,2023-03-23,Wine La Vielle Ferme Cote Du,2023-05-01,16,179.99,2879.84,Store,Cash,"Cheese/Wine Discount:5.0%;March 23 Special:50.0%;Bulk Purchase Discount:10.0%",30.0,2015.888
+cd755949-4d99-4c84-96c9-e1bf91d75423,2023-04-22,Coffee - Frthy Coffee Crisp,2023-06-05,11,155.69,1712.59,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,1524.2051
+6694b3c2-08f9-48d8-b298-b4fa04d069d9,2023-04-20,Marjoram - Dried Rubbed,2023-06-13,2,25.33,50.66,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,48.126999999999995
+a2f6ff8a-faff-46d4-89c0-408f7d3218d3,2023-05-09,The Pop Shoppe Pinapple,2023-05-19,16,148.54,2376.64,Store,Cash,"Expiration Discount:20.0%;Bulk Purchase Discount:10.0%",15.0,2020.1439999999998
+37233d41-8671-4e63-8d0a-2227b0038e35,2023-04-09,Crawfish,2023-04-22,11,173.66,1910.26,Store,Cash,"Expiration Discount:17.0%;Bulk Purchase Discount:7.0%",12.0,1681.0288
+059905e9-b18f-4bfc-82de-8ef31117a65e,2023-04-06,Pork - Bacon Double Smoked,2023-06-22,2,108.18,216.36,Store,Visa,"Visa Card Promotion:5.0%",5.0,205.542
+c0f21b43-0146-4f83-b3fc-f0329064a4be,2023-05-08,Beer - Upper Canada Light,2023-06-09,3,137.12,411.36,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,390.792
+ca7ed31d-2a08-4282-930a-ffe301b7afa3,2023-05-02,Napkin - Beverge White 2 - Ply,2023-06-05,12,133.32,1599.84,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,1423.8576
+ee9963bd-c2dd-448e-8fb7-e23c2a79610e,2023-03-13,Wine - Vineland Estate Semi - Dry,2023-05-23,13,154.59,2009.67,Store,Visa,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,1889.0898
+967100e2-d822-4268-8ae8-031f50b486ca,2023-04-17,Scrubbie - Scotchbrite Hand Pad,2023-06-16,9,130.41,1173.69,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,1115.0055
+eaa70eb9-43ee-4704-9b8c-9c1fe326790b,2023-04-03,Kellogs Raisan Bran Bars,2023-05-04,1,49.13,49.13,Store,Visa,"Visa Card Promotion:5.0%",5.0,46.6735
+080adc01-c00b-47fa-8923-440c14f9686e,2023-04-29,Wine - Rubyport,2023-05-14,10,236.91,2369.1,App,Visa,"Expiration Discount:15.0%;Cheese/Wine Discount:5.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",12.5,2072.9625
+b29a99c7-74e1-489c-98e3-840454d3743d,2023-03-15,Pumpkin,2023-03-24,7,154.67,1082.6899999999998,Store,Visa,"Expiration Discount:21.0%;Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",13.0,941.9402999999999
+d5fdfb6b-b7fd-4f14-b1b6-24406669a9e6,2023-05-11,Brandy Cherry - Mcguinness,2023-06-23,10,118.87,1188.7,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",8.5,1087.6605000000002
+62d825ee-dcbf-4761-9066-603e5518ff72,2023-03-17,Wine - Soave Folonari,2023-03-28,1,123.96,123.96,Store,Cash,"Expiration Discount:19.0%;Cheese/Wine Discount:5.0%",12.0,109.0848
+13bf26cf-ac2d-4285-8784-db001afbd8bc,2023-04-11,Tomatoes - Cherry,2023-06-13,6,22.320000000000004,133.92000000000002,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,127.224
+6d3793e2-bdab-41eb-b39f-289b4fa350da,2023-04-05,Mousse - Banana Chocolate,2023-06-09,9,194.32,1748.8799999999999,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,1617.714
+d29af4aa-ce39-4b19-9c43-3e6c8925728e,2023-03-13,Cheese - Brick With Pepper,2023-03-31,1,122.85,122.85,Store,Cash,"Expiration Discount:12.0%;Cheese/Wine Discount:10.0%",11.0,109.3365
+55d90861-bb64-4fba-acd4-0bb68be98924,2023-04-03,Flour - Chickpea,2023-05-14,4,11.43,45.72,Store,Visa,"Visa Card Promotion:5.0%",5.0,43.434
+b5f30b28-3aec-4c5c-a99c-cd259cc2a82d,2023-04-24,Tart Shells - Savory 2,2023-07-20,8,107.87,862.96,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,819.812
+da62b192-05f9-49f9-b19e-9057abc5c264,2023-04-10,Clams - Bay,2023-04-17,8,225.63,1805.04,App,Visa,"Expiration Discount:23.0%;Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",16.5,1507.2084
+77d3ceeb-c2fb-44ec-9524-0150c6a23b55,2023-05-06,Honey - Comb,2023-06-14,13,122.33,1590.29,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,1478.9696999999999
+e3694ad2-de9e-4c96-9a5b-1a343f7d27c4,2023-04-27,Thyme - Dried,2023-07-20,11,189.65,2086.15,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,1940.1195
+201855ca-2a97-4a26-b525-32a012e62ba8,2023-05-04,V8 Splash Strawberry Kiwi,2023-07-02,12,222.58,2670.96,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2483.9928
+adc62799-43fd-443b-bfb5-93cd8ea608b3,2023-04-13,Jameson Irish Whiskey,2023-06-30,17,100.98,1716.66,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,1459.161
+757d8c83-93f6-4f84-b7ae-f3cdf4a545b2,2023-04-05,Lemonade - Pineapple Passion,2023-05-12,7,59.74,418.18,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,397.271
+4e556f33-ed63-46d9-a95d-1d3a03f52851,2023-03-16,Coconut - Creamed Pure,2023-04-11,14,179.51,2513.14,App,Visa,"Expiration Discount:4.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,2236.6946
+dfea9b8c-1750-4821-92b1-5ae0adaf8674,2023-05-04,Pepper - Chillies Crushed,2023-07-08,14,177.57,2485.98,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,2212.5222
+e91348af-7796-4841-bee1-568fdfe97c83,2023-04-22,Petit Baguette,2023-06-01,2,184.09,368.18,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,349.771
+f2023263-505d-4075-890a-5393521719e7,2023-03-23,Juice - Apple 500 Ml,2023-04-19,1,148.21,148.21,Store,Cash,"Expiration Discount:3.0%;March 23 Special:50.0%",26.5,108.93435000000001
+443f30c5-93dc-40d3-97b4-1aa4ca26cec9,2023-04-02,Onions - Spanish,2023-05-06,15,147.93,2218.9500000000003,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,1997.0550000000003
+3e27703e-c575-424e-9b94-d7edeec6e462,2023-03-16,Wine - Carmenere Casillero Del,2023-04-12,3,64.07,192.20999999999998,App,Visa,"Expiration Discount:3.0%;Cheese/Wine Discount:5.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,182.59949999999998
+c899a036-2f56-4d2c-9cf8-9ddb95f2fab0,2023-05-10,Chips Potato All Dressed - 43g,2023-06-08,16,34.82,557.12,Store,Cash,"Expiration Discount:1.0%;Bulk Purchase Discount:10.0%",5.5,526.4784
+e8c1d666-6112-4cdf-b0cf-ba80b1499c1d,2023-04-30,Pastrami,2023-07-19,1,153.31,153.31,Store,Cash,"",0.0,153.31
+8f9d43b0-38a3-453c-af44-837c3e9a6b4d,2023-04-29,Sobe - Green Tea,2023-07-28,6,43.28,259.68,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,246.696
+5a76a193-a956-4f4c-9fb9-e7fa04b2cd18,2023-04-20,Cheese - La Sauvagine,2023-05-26,15,212.0,3180.0,Store,Cash,"Cheese/Wine Discount:10.0%;Bulk Purchase Discount:10.0%",10.0,2862.0
+538de9b9-12b3-4611-bdeb-0d4dde9e050b,2023-03-15,Jicama,2023-05-05,10,236.22999999999996,2362.2999999999997,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2196.9389999999994
+cbef0216-1ec0-4ca1-939a-fa7fd21b18ca,2023-04-30,Wine - Sicilia Igt Nero Avola,2023-05-28,4,199.37,797.48,App,Visa,"Expiration Discount:2.0%;Cheese/Wine Discount:5.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,757.606
+649779dc-5c76-4d64-85ee-14837b27b557,2023-03-13,Ginger - Crystalized,2023-05-09,6,112.71999999999998,676.3199999999999,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,642.5039999999999
+cd695b78-b1de-4ce2-9d89-bb7b2d8ba210,2023-04-28,Blue Curacao - Marie Brizard,2023-06-05,13,83.43,1084.5900000000001,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,1019.5146000000001
+12107ce6-c590-4b20-b20d-2e81aa8f83b6,2023-05-05,Pail - 15l White With Handle,2023-06-06,11,232.62,2558.82,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,2405.2908
+967e3a9e-09c7-407c-aeaa-d30360ed07f8,2023-04-06,Pork - Kidney,2023-06-01,17,190.32,3235.44,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,2911.896
+12ada77c-12e6-43fa-880b-b985978a8097,2023-04-01,Table Cloth - 53x69 Colour,2023-06-16,3,3.83,11.49,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,10.9155
+8180e517-d44d-4ac8-b0fc-f49c3a481235,2023-04-05,Ostrich - Prime Cut,2023-06-04,13,39.62,515.06,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,458.4034
+df81a556-039c-4359-889b-84fa50413a3c,2023-03-25,Potatoes - Peeled,2023-06-22,3,110.03000000000002,330.09000000000003,Store,Cash,"",0.0,330.09000000000003
+df164f28-90dd-464f-9dab-349308f6c2e2,2023-03-27,Fish - Artic Char Cold Smoked,2023-05-17,1,135.58,135.58,Store,Visa,"Visa Card Promotion:5.0%",5.0,128.80100000000002
+de5acd73-d441-4e3e-9925-548bfb57e260,2023-04-10,Oil - Canola,2023-05-24,12,171.54,2058.48,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,1934.9712
+0d425a8c-aafd-4d08-8340-7a2c698aeb51,2023-04-28,Bread - English Muffin,2023-06-18,7,247.0,1729.0,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,1642.55
+7d3ddf76-5dcb-4934-b5c3-8af4460ccfe4,2023-03-15,Table Cloth 120 Round White,2023-06-02,17,114.51,1946.67,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,1654.6695
+9c7f6378-b926-4960-bb72-2506a75e64c9,2023-05-03,Pork Ham Prager,2023-07-16,11,38.62,424.82,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,378.0898
+c3e15ddc-3822-4725-aa2a-1f02b685d5e6,2023-03-18,Dc - Frozen Momji,2023-04-23,12,228.91,2746.92,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,2444.7588
+83d58b11-28e7-45f6-9b1a-93cfbe08d875,2023-04-06,Yeast Dry - Fermipan,2023-05-14,3,173.93999999999997,521.8199999999999,Store,Cash,"",0.0,521.8199999999999
+8544255d-3051-4549-b0f3-d79cf12ab8da,2023-04-29,Veal Inside - Provimi,2023-07-28,11,4.73,52.03,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,48.387899999999995
+873463d7-513e-4a42-b826-1f22eb1b9f8f,2023-04-07,Pepper - Chillies Crushed,2023-06-01,1,70.85,70.85,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,67.30749999999999
+cd39ad89-1ef1-448f-9be2-cdb41514a1d6,2023-04-24,Chef Hat 20cm,2023-05-25,2,25.15,50.3,Store,Visa,"Visa Card Promotion:5.0%",5.0,47.785
+f75b7e45-8ec1-4cbd-81b7-fa830f5276e2,2023-05-08,Oil - Olive Extra Virgin,2023-07-28,16,24.09,385.44,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,327.62399999999997
+89d3c3cc-04f0-428c-95f6-3c549be02ff8,2023-04-01,Basil - Thai,2023-05-05,4,237.09,948.36,Store,Visa,"Visa Card Promotion:5.0%",5.0,900.942
+5267dd24-ae05-4f7f-a7d9-583b2c182008,2023-04-08,Fennel - Seeds,2023-06-12,6,216.99,1301.94,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,1236.843
+395a2b68-12af-40aa-a108-7f95b924a547,2023-04-12,Gingerale - Schweppes 355 Ml,2023-04-27,3,11.12,33.36,App,Visa,"Expiration Discount:15.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",10.0,30.024
+050bc510-fc7d-4509-8e4d-f9d4c8273324,2023-03-14,Duck - Whole,2023-05-06,17,161.92,2752.64,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,2477.3759999999997
+daccab20-31ce-486d-b38c-89ffab5b36a5,2023-04-23,Truffle - Whole Black Peeled,2023-05-03,7,200.92,1406.4399999999998,Store,Visa,"Expiration Discount:20.0%;Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",12.5,1230.6349999999998
+9940868b-23a8-4ba8-89b5-d577d756fa9a,2023-03-17,Lobak,2023-06-01,1,123.8,123.8,Store,Cash,"",0.0,123.8
+c8908a61-8ba6-45ab-ad64-7b6a86dbc6eb,2023-04-19,Pasta - Linguini Dry,2023-06-25,8,95.68,765.44,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,727.168
+76d335ee-bb49-4508-bdf7-ded2033d04ac,2023-04-29,Plate Foam Laminated 9in Blk,2023-05-13,10,214.18,2141.8,Store,Cash,"Expiration Discount:16.0%;Bulk Purchase Discount:7.0%",11.5,1895.4930000000002
+a65e87f5-c11c-4bc1-a24a-d9b3429c7431,2023-03-14,Pasta - Penne Lisce Dry,2023-05-15,5,83.36,416.8,Store,Cash,"",0.0,416.8
+0c32b209-0ab7-4d69-b613-1b6e8fbe42d8,2023-03-28,Chocolate - Milk Callets,2023-04-24,3,54.68,164.04,Store,Cash,"Expiration Discount:3.0%",3.0,159.1188
+e036a7fc-5202-4f9b-8200-10e99fa420a9,2023-04-01,Bagel - Ched Chs Presliced,2023-05-10,4,143.13,572.52,Store,Cash,"",0.0,572.52
+efc6528f-526c-4ef3-b882-024b525fae8e,2023-03-16,Horseradish Root,2023-03-22,14,140.21,1962.94,App,Visa,"Expiration Discount:24.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",19.5,1580.1667
+7c649f66-9087-4eb4-933a-bf25f6d431c1,2023-04-25,Bamboo Shoots - Sliced,2023-05-22,17,4.37,74.29,App,Visa,"Expiration Discount:3.0%;Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,63.1465
+2da6ca42-095f-4429-9da7-c6cdf3275b15,2023-05-04,Sauce - Oyster,2023-08-02,1,171.96,171.96,Store,Visa,"Visa Card Promotion:5.0%",5.0,163.362
+7b612f34-0b03-4326-9b48-cec3f0c6e01d,2023-03-30,Cotton Wet Mop 16 Oz,2023-05-27,4,206.75,827.0,Store,Cash,"",0.0,827.0
+8ddbabda-9948-4714-b0ba-954b41d3787b,2023-04-13,Cheese - Marble,2023-05-11,11,95.2,1047.2,Store,Cash,"Expiration Discount:2.0%;Cheese/Wine Discount:10.0%;Bulk Purchase Discount:7.0%",8.5,958.1880000000001
+097135e7-814a-41b1-beca-d3936851f149,2023-04-11,Wine - Cotes Du Rhone Parallele,2023-05-04,7,249.5,1746.5,App,Visa,"Expiration Discount:7.0%;Cheese/Wine Discount:5.0%;Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",8.5,1598.0475000000001
+e9f46ba7-b01f-41a3-bf75-ccf36eaa9381,2023-04-14,Mop Head - Cotton 24 Oz,2023-07-09,15,103.03,1545.45,Store,Visa,"Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,1429.5412500000002
+111ee8b6-48ed-4adf-ba1c-b17945bdc5b6,2023-04-24,Eggwhite Frozen,2023-07-15,14,239.98,3359.72,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,3158.1367999999998
+ef88ce5c-49af-4ee4-a113-e93c722c6a22,2023-04-08,Truffle Cups - Brown,2023-05-24,5,151.69,758.45,Store,Visa,"Visa Card Promotion:5.0%",5.0,720.5275
+4ed213b2-a2ec-437c-bcae-12b791f14394,2023-04-17,Muskox - French Rack,2023-06-09,10,61.34000000000001,613.4000000000001,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",8.5,561.2610000000001
+1c04610f-0e1d-4c7d-a0a9-a9b1dcaca024,2023-05-10,Sprite Diet - 355ml,2023-05-15,17,4.52,76.83999999999999,Store,Cash,"Expiration Discount:25.0%;Bulk Purchase Discount:10.0%",17.5,63.39299999999999
+c785397e-17af-4707-afac-01223e32d6f5,2023-03-31,Burger Veggie,2023-06-20,10,119.31999999999998,1193.1999999999998,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,1121.6079999999997
+65f6621e-d96a-4359-8f3f-f10ae56e7554,2023-04-25,Food Colouring - Orange,2023-06-22,12,110.21999999999998,1322.6399999999999,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,1177.1496
+da86697d-6c73-49e4-9f53-bf570f5a1bee,2023-04-09,Truffle Cups - White Paper,2023-05-30,11,191.82,2110.02,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,1877.9178
+2fccf1ea-c690-4ae6-b1fa-4b0c22fbe368,2023-05-04,Ostrich - Prime Cut,2023-07-01,7,249.79,1748.53,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,1617.3902500000002
+cf4801ee-960a-43df-85e3-ca2959cdcb19,2023-04-04,Sole - Iqf,2023-06-24,17,235.06,3996.02,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,3396.6169999999997
+4e3d6998-2a1d-466a-98f0-0de7fe4414ec,2023-05-06,Muffin Batt - Carrot Spice,2023-06-14,3,43.01,129.03,Store,Cash,"",0.0,129.03
+5142a57d-8f3d-4c73-ae0f-cbf6a39d1f6f,2023-03-18,Pork - Chop Frenched,2023-04-29,11,56.66,623.26,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,579.6318
+6516318f-4d38-48e5-8069-ee856fd9d42c,2023-05-07,Bread - Roll Whole Wheat,2023-05-31,9,163.09,1467.81,Store,Visa,"Expiration Discount:6.0%;Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.5,1387.08045
+2d64d362-aeb6-4c45-8f1e-c5cf437a6ba3,2023-04-02,Island Oasis - Peach Daiquiri,2023-05-17,15,199.42,2991.2999999999997,Store,Visa,"Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,2766.9525
+2e531253-126b-4bf1-8eab-83f2e2728c90,2023-04-17,Cheese - Gouda,2023-05-18,1,214.08,214.08,App,Visa,"Cheese/Wine Discount:10.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",7.5,198.02400000000003
+f792205f-8733-4738-9b46-36afe8e2549c,2023-04-06,Food Colouring - Green,2023-06-18,3,244.82000000000002,734.46,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,697.737
+17bcdca0-d45a-4b00-bea9-c498b96363d3,2023-03-27,Bread - White Sliced,2023-06-13,11,3.7,40.7,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,36.223000000000006
+0e1625f2-5491-4479-9838-86843f23ef4b,2023-05-01,Parsley - Fresh,2023-07-20,12,174.57000000000002,2094.84,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,1864.4076000000002
+c7859c11-772f-44c6-a464-a659d1d95674,2023-03-22,Pop - Club Soda Can,2023-04-26,2,199.86,399.72,Store,Cash,"",0.0,399.72
+e53938e6-14a9-4d6a-8fb8-fac97c871d60,2023-04-06,Muffin Hinge 117n,2023-07-03,3,23.570000000000004,70.71000000000001,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,67.17450000000001
+c0912f76-2b04-4aec-a781-d2db39e8585c,2023-03-31,Hipnotiq Liquor,2023-05-10,1,132.92,132.92,Store,Visa,"Visa Card Promotion:5.0%",5.0,126.27399999999999
+64eb9cfd-4b20-4bd3-90aa-02de2c47d63b,2023-03-18,Jameson - Irish Whiskey,2023-04-14,10,94.05,940.5,App,Visa,"Expiration Discount:3.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",8.5,860.5575
+db77c7e8-0963-4b81-9c1c-34a06580619a,2023-03-19,Peas Snow,2023-05-06,12,201.55000000000004,2418.6000000000004,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2249.2980000000002
+2d772db4-9bda-4c7e-b0a2-1e503d5fe552,2023-03-14,Soup - Knorr Ministrone,2023-05-30,7,166.85999999999999,1168.02,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,1080.4185
+cfd1b7b2-baf9-4b3b-a9a3-ba3d6bb68f7f,2023-04-26,Soup Campbells Split Pea And Ham,2023-07-25,6,88.86,533.16,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,493.173
+51a586ff-78b7-4f58-91a0-4243fc366f84,2023-03-17,Beef - Ox Tongue,2023-06-15,9,41.68,375.12,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,356.364
+177d6588-325c-4075-be83-d6a912f386e7,2023-04-14,Water - Aquafina Vitamin,2023-05-05,3,173.65,520.95,Store,Cash,"Expiration Discount:9.0%",9.0,474.06450000000007
+4c9626d3-f9c2-444a-bf9c-fa18bfe876bb,2023-05-12,Sesame Seed,2023-06-22,5,227.34,1136.7,Store,Visa,"Visa Card Promotion:5.0%",5.0,1079.865
+e6308500-b9bb-4d80-9910-7d57ce97ed29,2023-03-17,Wine - Soave Folonari,2023-05-10,11,158.85,1747.35,Store,Visa,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,1642.5089999999998
+c2fdbed1-3f47-44a5-83c9-3d5d41ceab97,2023-04-25,Pork - Ham Hocks - Smoked,2023-07-16,6,142.45,854.6999999999999,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,790.5975
+d6f37a13-7794-45bd-8130-d89c84b4ac26,2023-03-31,Cheese - Woolwich Goat Log,2023-06-02,15,213.3,3199.5,Store,Cash,"Cheese/Wine Discount:10.0%;Bulk Purchase Discount:10.0%",10.0,2879.55
+312e54ed-62e6-49b9-af05-c47cb61c1367,2023-04-14,Bread - Roll Calabrese,2023-07-04,11,21.13,232.42999999999998,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,206.8627
+e0d052ae-44c9-496d-9526-dbff0f18787e,2023-03-27,Pork - Smoked Back Bacon,2023-04-26,10,221.82,2218.2,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",8.5,2029.653
+ff509de6-2eab-4d27-8a7e-94cd0fd70ffd,2023-03-20,Compound - Raspberry,2023-05-17,17,105.46,1792.82,Store,Visa,"Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,1658.3585
+433e04a1-65c6-418c-8c49-81a7a8c5057c,2023-03-15,Mousse - Banana Chocolate,2023-06-04,5,117.79,588.95,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,559.5025
+fc54f52a-df73-48c1-9630-df8a46bd232b,2023-04-20,Flour - Chickpea,2023-05-07,6,175.29,1051.74,Store,Visa,"Expiration Discount:13.0%;Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",9.0,957.0834000000001
+548e1b64-c6a0-4671-8008-aa45efebf448,2023-03-27,Wine - Baron De Rothschild,2023-05-14,16,230.14,3682.24,Store,Cash,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:10.0%",7.5,3406.072
+407e1f65-9a7b-477a-a7de-d969ae1c91a6,2023-05-11,Tart Shells - Savory 3,2023-08-08,10,91.41,914.0999999999999,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",8.5,836.4014999999999
+aaafd9ed-a969-4eac-b817-d7ad38eb0d3a,2023-03-15,Gelatine Leaves - Envelopes,2023-06-07,4,154.74,618.96,Store,Cash,"",0.0,618.96
+602f6f4e-7f6a-4fad-94d6-16ae0afccef8,2023-05-03,Soup - Campbells Beef Barley,2023-05-25,7,11.2,78.39999999999999,App,Visa,"Expiration Discount:8.0%;Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",9.0,71.344
+acf0110f-0fb0-4854-9ff4-9bd828c67806,2023-03-20,Sugar - Sweet N Low Individual,2023-03-24,1,176.87,176.87,Store,Cash,"Expiration Discount:26.0%",26.0,130.8838
+d861e763-e5a6-4e79-8e84-788723508472,2023-04-05,Flour - Fast / Rapid,2023-05-14,3,196.76,590.28,Store,Cash,"",0.0,590.28
+409ec0a1-7f39-4874-a791-43d61d59a369,2023-05-09,Flower - Leather Leaf Fern,2023-07-27,8,108.89,871.12,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,827.564
+f3768ada-a1ae-4376-9393-c7045ab9b75b,2023-03-21,Potatoes - Mini Red,2023-06-14,17,19.03,323.51,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,291.159
+a6949e0a-f44d-423c-b959-48482fb9f7fd,2023-03-16,Cheese - Brick With Pepper,2023-04-10,7,179.52,1256.64,App,Visa,"Expiration Discount:5.0%;Cheese/Wine Discount:10.0%;Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",10.0,1130.976
+d1b4eadb-d307-4a45-b17d-59a41c142441,2023-03-30,Tea - Decaf 1 Cup,2023-04-15,5,44.48,222.39999999999998,Store,Cash,"Expiration Discount:14.0%",14.0,191.26399999999998
+c5ae68f2-5ab4-4569-884a-ebfafdade050,2023-04-02,Wine - Prosecco Valdobienne,2023-04-25,12,175.86,2110.32,App,Visa,"Expiration Discount:7.0%;Cheese/Wine Discount:5.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,1878.1848000000002
+91995cf6-c639-4880-9b93-ecebef6dc832,2023-03-18,Wonton Wrappers,2023-05-06,17,245.20999999999998,4168.57,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,3543.2844999999998
+a1d7cda1-b233-4bd0-85cc-e0aa07ac665c,2023-03-23,Oranges,2023-04-30,16,168.9,2702.4,App,Visa,"March 23 Special:50.0%;Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",35.0,1756.5600000000002
+d3992f95-e556-4a31-8a09-121b8013d934,2023-05-01,Vodka - Smirnoff,2023-05-19,6,22.11,132.66,Store,Cash,"Expiration Discount:12.0%;Bulk Purchase Discount:5.0%",8.5,121.3839
+4f6a55dc-b24e-4d5a-baa0-8a03d315fc4c,2023-05-11,Doilies - 7 Paper,2023-06-20,14,114.09,1597.26,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,1421.5614
+00981652-7e73-4373-81aa-2839f084addc,2023-04-26,Sauce - Vodka Blush,2023-06-17,17,11.78,200.26,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,170.22099999999998
+1be57ced-648b-44ff-bbe0-651977224f9e,2023-03-28,Fruit Salad Deluxe,2023-06-14,12,121.28000000000002,1455.3600000000001,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,1353.4848
+06414a73-e1d1-44c0-a508-3ace02f3629c,2023-03-20,Tray - 16in Rnd Blk,2023-05-09,6,167.8,1006.8000000000001,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,956.46
+9b28730e-8e52-4b55-be11-ee8a2045e811,2023-04-17,Shallots,2023-07-12,6,193.62,1161.72,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,1074.5910000000001
+9da5acb9-3481-4aad-96bd-33c8ae0ad0d7,2023-05-12,Lobak,2023-05-28,2,62.86,125.72,App,Visa,"Expiration Discount:14.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",9.5,113.7766
+59c6d096-1a01-4c99-8418-d48568624a7b,2023-04-24,The Pop Shoppe - Black Cherry,2023-06-03,7,56.81,397.67,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,377.7865
+1c5297a1-24ce-4f08-b1b1-8550985edede,2023-05-12,Cheese - Le Cru Du Clocher,2023-05-22,6,66.27,397.62,Store,Cash,"Expiration Discount:20.0%;Cheese/Wine Discount:10.0%;Bulk Purchase Discount:5.0%",15.0,337.977
+3e1c70b3-4f6d-40e1-812c-f04830b7d826,2023-03-19,Bread - Sticks Thin Plain,2023-04-16,10,187.56,1875.6,App,Visa,"Expiration Discount:2.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",8.5,1716.174
+00a63a9d-2e29-481d-b45e-4f88d5e97fb8,2023-03-14,Assorted Desserts,2023-03-23,7,15.94,111.58,Store,Visa,"Expiration Discount:21.0%;Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",13.0,97.0746
+bc19800c-f703-4d5b-8935-708e7648c43b,2023-03-27,Shrimp - 31/40,2023-06-04,17,127.13,2161.21,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,1837.0285
+f2009c58-81a7-4222-83e4-30e7f11c5fd7,2023-04-02,Appetizer - Shrimp Puff,2023-04-08,16,12.4,198.4,Store,Cash,"Expiration Discount:24.0%;Bulk Purchase Discount:10.0%",17.0,164.672
+d5d9f7e1-773a-4710-bd06-6be06f17bb0f,2023-03-28,Shortbread - Cookie Crumbs,2023-04-28,6,105.46999999999998,632.8199999999999,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,601.1789999999999
+632f71ac-40d3-4044-9307-38bc5f8ecda3,2023-05-11,Sausage - Meat,2023-07-28,1,234.17,234.17,Store,Cash,"",0.0,234.17
+0082209c-b92d-441e-91c5-98e282bdbf1a,2023-04-13,Raspberries - Frozen,2023-05-18,9,193.27,1739.43,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,1652.4585
+de5702c2-7874-4ed4-9bf2-71f6d68f40b7,2023-03-19,Carbonated Water - Lemon Lime,2023-04-03,3,17.15,51.449999999999996,Store,Cash,"Expiration Discount:15.0%",15.0,43.732499999999995
+264e77b1-223b-424b-904f-050a4f473a21,2023-05-08,Cookie Dough - Oatmeal Rasin,2023-05-28,1,221.69,221.69,Store,Visa,"Expiration Discount:10.0%;Visa Card Promotion:5.0%",7.5,205.06325
+7ecf3c1b-c640-4f20-a477-10d37ea8a53e,2023-05-11,Coffee Cup 16oz Foam,2023-07-15,12,188.64,2263.68,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2105.2223999999997
+b3d9a02d-95b1-4560-8d3e-6fe6405eb684,2023-04-14,Cheese - Swiss,2023-05-20,8,197.96,1583.68,Store,Visa,"Cheese/Wine Discount:10.0%;Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",7.5,1464.9040000000002
+b9e1ebdc-5e07-4097-a200-c05af0a98e1c,2023-03-24,Flour - Whole Wheat,2023-06-13,15,230.0,3450.0,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,3105.0
+6a52b061-64f9-4c6f-9058-6830cfbc2d5d,2023-03-26,Tobasco Sauce,2023-04-01,1,158.62,158.62,Store,Visa,"Expiration Discount:24.0%;Visa Card Promotion:5.0%",14.5,135.6201
+ad32ae54-e6e7-46d6-8b29-7e448165c700,2023-04-06,Vegetable - Base,2023-05-19,4,7.2,28.8,Store,Visa,"Visa Card Promotion:5.0%",5.0,27.36
+93b38672-d977-441f-8dea-2e720bd40623,2023-04-12,Macaroons - Two Bite Choc,2023-06-02,4,180.79,723.16,Store,Visa,"Visa Card Promotion:5.0%",5.0,687.002
+f2cf2c20-13d4-43a6-b832-b643286447b9,2023-04-10,Iced Tea - Lemon 460 Ml,2023-04-23,13,7.96,103.48,Store,Cash,"Expiration Discount:17.0%;Bulk Purchase Discount:7.0%",12.0,91.06240000000001
+5a27cedc-c5e9-4506-933a-f489cbaba3c2,2023-04-10,Cookie Chocolate Chip With,2023-05-21,3,101.45,304.35,Store,Cash,"",0.0,304.35
+bd7edce5-4140-41a7-9eab-2e38393e7e25,2023-04-19,Wine - Chardonnay Mondavi,2023-06-11,8,62.95,503.6,App,Visa,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,465.83000000000004
+7246dc6d-72a5-4cef-8329-52c68f12d5dc,2023-03-14,Kale - Red,2023-06-01,17,125.13,2127.21,Store,Visa,"Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,1967.6692500000001
+81bc45e1-5cb4-4208-9d93-bd056dda7502,2023-04-05,Chevere Logs,2023-06-06,6,99.87,599.22,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,554.2785
+c0d80779-fa50-4f0d-ad23-abfb90653480,2023-04-10,Fondant - Icing,2023-06-17,8,161.12,1288.96,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,1224.512
+faa07f17-ade7-4ef9-b185-09156b0eb3d8,2023-04-02,Table Cloth 53x53 White,2023-04-20,8,245.07,1960.56,Store,Cash,"Expiration Discount:12.0%;Bulk Purchase Discount:5.0%",8.5,1793.9124
+053041f6-9691-49b0-93ad-6aff0d14efbd,2023-04-20,Soup - Campbells Asian Noodle,2023-05-14,2,213.54,427.08,Store,Visa,"Expiration Discount:6.0%;Visa Card Promotion:5.0%",5.5,403.59059999999994
+cf774363-cc0a-4a76-88fe-575ace017ccb,2023-04-14,Pate - Cognac,2023-07-13,12,223.77,2685.2400000000002,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2497.2732
+2e1fdbd1-faa1-4eb3-a26c-511d8f0076e6,2023-04-30,Turnip - White,2023-07-12,1,239.67,239.67,Store,Cash,"",0.0,239.67
+d5b2144c-4d4e-4763-bf79-07df507a974b,2023-04-06,Cheese - Woolwich Goat Log,2023-05-10,6,153.26,919.56,Store,Cash,"Cheese/Wine Discount:10.0%;Bulk Purchase Discount:5.0%",7.5,850.593
+54e26594-80bc-48d9-86c2-2f3172377b4e,2023-04-23,Oil - Shortening - All - Purpose,2023-07-13,17,145.27,2469.59,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,2099.1515
+37d4f618-e092-4e84-bc9d-b853cd0f5c97,2023-04-23,Thyme - Fresh,2023-06-20,3,29.72,89.16,Store,Cash,"",0.0,89.16
+a21635d7-c4fa-4200-b11f-21a710e8b8db,2023-05-04,Hagen Daza - Dk Choocolate,2023-05-08,15,122.94,1844.1,Store,Visa,"Expiration Discount:26.0%;Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",18.0,1512.162
+b0fe042d-be7a-4c0c-bec0-98d4c5a44e86,2023-03-26,Yoplait - Strawbrasp Peac,2023-06-15,5,69.06,345.3,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,328.03499999999997
+f396c733-6814-4a57-a109-6bf913d9726d,2023-04-20,Cream - 35%,2023-07-03,7,203.34,1423.38,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,1316.6265
+c4b76649-6d30-4224-bfa2-6c36474c427e,2023-03-18,Lemon Balm - Fresh,2023-05-28,14,58.77,822.7800000000001,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,732.2742000000001
+18e4128d-0f2d-4ce9-bd16-466631fc4d74,2023-04-07,Cheese - Grie Des Champ,2023-05-10,6,40.56,243.36,Store,Visa,"Cheese/Wine Discount:10.0%;Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",7.5,225.10800000000003
+c76f9fd9-fd97-46a2-89cd-a4262b6f3d51,2023-03-30,Stock - Beef White,2023-05-02,9,60.72,546.48,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,519.156
+5d4a089b-a847-4433-ae00-4adbaabcc32c,2023-03-26,Onions - Cippolini,2023-04-10,4,161.28,645.12,App,Visa,"Expiration Discount:15.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",10.0,580.6080000000001
+8cfd30e6-eb27-400f-825a-1d44dc042d97,2023-04-25,Beef - Tender Tips,2023-05-01,3,5.69,17.07,Store,Visa,"Expiration Discount:24.0%;Visa Card Promotion:5.0%",14.5,14.59485
+0aa4bbb6-1e59-43a3-a34f-e047c28e0b85,2023-03-18,Beer - Guiness,2023-03-19,16,232.34,3717.44,Store,Cash,"Expiration Discount:29.0%;Bulk Purchase Discount:10.0%",19.5,2992.5391999999997
+7008e100-69d8-44f8-9297-0d033ee4530e,2023-03-15,Soup - Campbells Beef Stew,2023-05-22,2,208.53,417.06,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,396.207
+1c01cd2f-b1fb-429d-8624-0f08a1a7094c,2023-04-04,Soup - Chicken And Wild Rice,2023-06-17,12,126.06,1512.72,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,1406.8296
+71349812-a8a9-41af-bb19-ec7b894adfde,2023-03-16,Ice Cream - Life Savers,2023-06-14,13,6.12,79.56,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,74.7864
+2f02e2c4-b5f8-43c1-819c-83560e6217c4,2023-05-03,Pork - Backfat,2023-06-06,3,209.35,628.05,Store,Cash,"",0.0,628.05
+02e85423-aeb0-4885-a927-f1e1f4428613,2023-05-08,Pecan Raisin - Tarts,2023-05-27,14,122.75,1718.5,Store,Cash,"Expiration Discount:11.0%;Bulk Purchase Discount:7.0%",9.0,1563.835
+d74e8373-5560-443a-950e-950349ef2381,2023-04-16,Brocolinni - Gaylan Chinese,2023-04-27,6,111.13,666.78,Store,Cash,"Expiration Discount:19.0%;Bulk Purchase Discount:5.0%",12.0,586.7664
+9feb829b-9ffc-43a1-be6e-d0461bee829d,2023-04-25,Cheese - Manchego Spanish,2023-06-02,15,7.6,114.0,App,Visa,"Cheese/Wine Discount:10.0%;Bulk Purchase Discount:10.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",12.5,99.75
+3182ca02-6e0d-41d9-8b34-a9a412dc0f75,2023-04-26,Mustard - Pommery,2023-07-09,14,125.39,1755.46,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,1632.5778
+aef6861d-f06b-4776-b85e-d9db08ecebd5,2023-04-01,Potatoes - Mini Red,2023-06-28,11,225.48,2480.2799999999997,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,2331.4631999999997
+a497a56e-5bbf-49b6-bad3-e25e120fdd5f,2023-03-26,Pastry - Carrot Muffin - Mini,2023-04-24,6,241.17,1447.02,Store,Cash,"Expiration Discount:1.0%;Bulk Purchase Discount:5.0%",3.0,1403.6094
+bd6590d5-8c0f-4322-bd27-63b110813e8c,2023-04-20,Sparkling Wine - Rose Freixenet,2023-04-26,15,245.79,3686.85,Store,Cash,"Expiration Discount:24.0%;Cheese/Wine Discount:5.0%;Bulk Purchase Discount:10.0%",17.0,3060.0854999999997
+4ba694f8-e030-467d-b255-d29df5f9cdd4,2023-04-14,Jam - Blackberry 20 Ml Jar,2023-06-30,14,64.57,903.9799999999999,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,849.7411999999998
+9a328c24-8448-42e3-9161-49ead2acff2d,2023-03-20,Stock - Fish,2023-05-14,12,94.25,1131.0,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,1006.59
+38e23c14-771a-492a-84d9-59cb274973e6,2023-04-10,Poppy Seed,2023-06-10,9,51.14,460.26,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,437.24699999999996
+c9dec8a7-0afa-46de-8df2-a68b88566206,2023-05-04,Fond - Neutral,2023-07-06,15,108.81,1632.15,Store,Visa,"Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,1509.7387500000002
+c72cff74-e05f-47cf-9de6-b8fd23aab988,2023-03-17,Artichoke - Fresh,2023-05-08,14,219.95,3079.2999999999997,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,2740.5769999999998
+0d316d5a-e816-4d1c-a97b-d0e1dc56e6e8,2023-03-13,Muffin - Zero Transfat,2023-04-24,3,127.44,382.32,Store,Cash,"",0.0,382.32
+911a0aa0-5b66-446b-9538-61f057aaa7b0,2023-03-13,Soup - Campbells Bean Medley,2023-06-10,16,162.4,2598.4,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,2208.64
+05523fca-baec-4257-94f8-f30601745bc9,2023-03-22,Canadian Emmenthal,2023-04-10,16,240.98,3855.68,Store,Cash,"Expiration Discount:11.0%;Bulk Purchase Discount:10.0%",10.5,3450.8336
+70d738ce-ced0-4704-a2eb-e02679c3d55c,2023-04-10,Corn - On The Cob,2023-06-04,15,245.09,3676.35,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",12.5,3216.80625
+cc227379-9a55-4553-9ee8-482ed74bb9d6,2023-03-26,Lamb Rack Frenched Australian,2023-05-03,1,138.86,138.86,Store,Visa,"Visa Card Promotion:5.0%",5.0,131.917
+2cd23b62-e7a1-4145-a0bd-d775ba83fab6,2023-03-13,Pastry - Baked Cinnamon Stick,2023-05-13,17,166.51,2830.67,Store,Visa,"Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,2618.3697500000003
+1c318931-5d41-4b51-a866-964ed3eb7700,2023-04-14,Tortillas - Flour 12,2023-05-03,6,49.16,294.96,App,Visa,"Expiration Discount:11.0%;Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",10.5,263.9892
+beab30a1-8280-47fe-b2e4-eb5863e6012f,2023-04-03,Steampan - Lid For Half Size,2023-05-21,15,233.85,3507.75,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,3156.975
+7ae7100c-87c9-4df1-baf9-7a77a0c10f7e,2023-04-05,Capon - Breast Double Wing On,2023-06-08,3,220.85,662.55,Store,Cash,"",0.0,662.55
+7eb042f5-cdf2-4a7e-bc57-87d6ded94669,2023-05-03,Loquat,2023-06-24,14,174.21,2438.94,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2268.2142
+c4400234-0996-4edf-8b61-54c524b4e08b,2023-04-08,Juice - Ocean Spray Cranberry,2023-05-10,7,189.75,1328.25,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,1261.8374999999999
+27293156-6ddb-42b7-947f-ce5e1fac4e81,2023-05-11,Beef - Inside Round,2023-06-23,7,1.36,9.520000000000001,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,9.044
+999e5fad-e8f8-46f3-bfe4-636e2c1485f3,2023-05-12,Pancetta,2023-07-13,6,181.83,1090.98,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,1036.431
+adcef961-722d-43b5-b610-b68511e87b48,2023-04-09,Garlic - Elephant,2023-04-19,17,132.65,2255.05,Store,Cash,"Expiration Discount:20.0%;Bulk Purchase Discount:10.0%",15.0,1916.7925
+d692c179-4598-4f28-8c0b-c03e35d91f55,2023-05-02,Ranchero - Primerba Paste,2023-07-01,8,162.54,1300.32,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,1202.796
+d75589ad-878b-4f24-aba9-39690c41a6e8,2023-04-02,Wine - Charddonnay Errazuriz,2023-05-15,3,92.21,276.63,Store,Visa,"Cheese/Wine Discount:5.0%;Visa Card Promotion:5.0%",5.0,262.7985
+a9793c01-091e-4376-abbb-bf46e54475ca,2023-03-16,Potatoes - Peeled,2023-04-16,5,78.01,390.05,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,370.5475
+d88c2018-4e51-450f-9c8a-e09e01bfce90,2023-04-28,Triple Sec - Mcguinness,2023-05-18,4,44.35,177.4,Store,Cash,"Expiration Discount:10.0%",10.0,159.66
+393aefb2-f3ed-4586-b661-c1ce7f1b4138,2023-04-06,Longos - Penne With Pesto,2023-04-14,15,186.92,2803.7999999999997,Store,Cash,"Expiration Discount:22.0%;Bulk Purchase Discount:10.0%",16.0,2355.1919999999996
+faac3599-b59c-4d34-8560-09f657725411,2023-03-22,Onions - Red Pearl,2023-05-16,2,208.6,417.2,Store,Visa,"Visa Card Promotion:5.0%",5.0,396.34
+577a7e3c-e6ea-43d4-947c-874d4f092290,2023-05-04,Pepper - Black Crushed,2023-07-02,16,152.4,2438.4,Store,Visa,"Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,2255.52
+d01f711a-7b8b-4c76-a16b-c66a8dab0f76,2023-04-01,Fond - Neutral,2023-06-02,11,103.06,1133.66,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,1008.9574000000001
+216d887b-94ed-483f-b5a6-7ee29dafbc4f,2023-04-01,Beer - Paulaner Hefeweisse,2023-06-28,13,37.05,481.65,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,452.751
+8b7453af-59cd-4bdc-9299-785f40b1e82b,2023-04-30,Sage Derby,2023-07-06,12,41.48,497.76,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,443.0064
+950a9652-c58f-46d2-8605-dc1b19e23228,2023-03-14,Pasta - Fusili Tri - Coloured,2023-05-01,17,70.45,1197.65,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,1018.0025
+f6b4a805-a643-4bbb-b9e7-24ddfda79f54,2023-03-25,Lady Fingers,2023-03-28,13,223.14,2900.8199999999997,App,Visa,"Expiration Discount:27.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",21.0,2291.6477999999997
+8e936444-4ef6-481d-9128-005caa848706,2023-03-17,Pop - Club Soda Can,2023-05-06,7,128.83,901.8100000000001,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,856.7195
+65b4f8b8-97fd-41bd-af19-9f12c087617e,2023-05-12,Cardamon Ground,2023-06-19,7,84.84,593.88,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,549.339
+5bf2b7ee-129b-4fd0-b66b-ffb2e37a97c0,2023-04-01,Ice Cream - Life Savers,2023-04-06,5,53.470000000000006,267.35,Store,Visa,"Expiration Discount:25.0%;Visa Card Promotion:5.0%",15.0,227.2475
+18dfa54f-3dad-4715-bdd0-8aac891c5117,2023-03-20,Five Alive Citrus,2023-03-27,4,51.52,206.08,Store,Visa,"Expiration Discount:23.0%;Visa Card Promotion:5.0%",14.0,177.2288
+b89d1a0b-dfe5-4f25-927e-ce5ad5834ec5,2023-03-21,Bagel - 12 Grain Preslice,2023-06-03,7,169.41,1185.87,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,1126.5765
+cd88a7d9-949a-4aa0-818d-1e475d13e4c7,2023-04-28,Cheese - Augre Des Champs,2023-07-16,15,113.75,1706.25,Store,Cash,"Cheese/Wine Discount:10.0%;Bulk Purchase Discount:10.0%",10.0,1535.625
+37e0a639-2ecc-4ede-a4bc-73ceca3ae27c,2023-03-14,Chocolate - Milk Callets,2023-05-09,1,57.02,57.02,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,54.169
+00bb569a-9c8f-48ff-89de-9e5ccd441320,2023-03-15,Tea Leaves - Oolong,2023-03-18,14,75.78,1060.92,Store,Cash,"Expiration Discount:27.0%;Bulk Purchase Discount:7.0%",17.0,880.5636000000001
+b92774c9-dd45-4093-ad70-632e28b2a894,2023-04-14,Chilli Paste Hot Sambal Oelek,2023-05-16,15,20.58,308.7,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,277.83
+ee8e8e1c-157f-467b-8254-b3a79877e724,2023-04-09,Red Cod Fillets - 225g,2023-06-15,14,234.77,3286.78,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,3056.7054
+0545b278-ee55-42a6-a302-aa1f2a472048,2023-03-27,Fuji Apples,2023-05-10,14,130.74,1830.3600000000001,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,1702.2348
+6d321eff-4003-4124-b971-b8a564aa5c53,2023-05-03,Bread - Assorted Rolls,2023-07-01,2,214.24,428.48,Store,Cash,"",0.0,428.48
+ea616bb6-7395-4925-ac5b-fef1586dab96,2023-04-23,Cocktail Napkin Blue,2023-06-11,3,5.02,15.059999999999999,Store,Cash,"",0.0,15.059999999999999
+3d899d8b-b5b2-45bb-b995-33cba2a30718,2023-04-24,Soup - French Onion Dry,2023-06-05,7,157.84,1104.88,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,1049.636
+41c79bf6-3a71-406f-a443-0991406229fd,2023-03-29,Coffee - Irish Cream,2023-04-25,12,201.33,2415.96,Store,Cash,"Expiration Discount:3.0%;Bulk Purchase Discount:7.0%",5.0,2295.162
+5431e082-1c69-4cee-a4ca-67f8004231ce,2023-03-17,Glycerine,2023-06-02,16,240.75,3852.0,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,3274.2
+7a6dcc86-902b-4533-b06d-4bd32fe8e9e5,2023-04-21,Lobster - Base,2023-06-18,6,232.62,1395.72,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,1325.934
+04673a1d-d066-4aef-9de3-79997bf93129,2023-03-21,Milk - Skim,2023-04-01,16,82.01,1312.16,Store,Visa,"Expiration Discount:19.0%;Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",14.5,1121.8968
+971c9463-5b8d-4e56-837d-dc7990e20d4c,2023-04-26,Cookie Choc,2023-06-09,14,236.92,3316.8799999999997,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,3084.6983999999993
+bcc48518-ede9-46e5-97a1-9f4ca8b626f4,2023-04-28,Beer - Steamwhistle,2023-07-26,16,64.97,1039.52,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,883.592
+f814c83f-807c-402b-bb5f-9176cb76ffb1,2023-03-29,Spinach - Spinach Leaf,2023-06-18,4,71.74,286.96,Store,Cash,"",0.0,286.96
+2de9112a-62a5-47cc-b1be-74c59d1ac122,2023-03-15,Chinese Foods - Chicken Wing,2023-06-09,16,215.06,3440.96,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,2924.816
+effc9c86-f9a7-4277-b685-6d560e91cc92,2023-05-03,Cranberries - Frozen,2023-05-11,9,215.56,1940.04,Store,Cash,"Expiration Discount:22.0%;Bulk Purchase Discount:5.0%",13.5,1678.1345999999999
+6871e2fd-33a9-4eac-b293-142980274006,2023-04-13,Soup - Campbells Chili,2023-06-11,15,116.4,1746.0,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,1571.4
+2701e8d0-c67e-4c28-87ea-80ca1c36b9c6,2023-05-11,General Purpose Trigger,2023-05-14,9,243.88,2194.92,Store,Cash,"Expiration Discount:27.0%;Bulk Purchase Discount:5.0%",16.0,1843.7328
+4c01807b-02b2-4a7b-bf2b-b1f6229d8583,2023-03-24,Liqueur Banana Ramazzotti,2023-03-26,13,131.39,1708.0699999999997,App,Visa,"Expiration Discount:28.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",21.5,1340.83495
+cae9b269-a3f2-4674-bce7-7c0e04df5ae4,2023-04-21,Bagelers,2023-06-13,16,202.73,3243.68,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,2919.312
+bb63bccb-c26a-4c5b-b4be-1a94fe2b716c,2023-03-17,Chocolate Bar - Smarties,2023-05-03,6,36.23,217.38,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,206.511
+96fd5185-1a7c-4acf-b562-2faa22495e55,2023-03-23,Longos - Greek Salad,2023-06-03,16,49.18,786.88,Store,Cash,"March 23 Special:50.0%;Bulk Purchase Discount:10.0%",30.0,550.8159999999999
+2c47469a-a3f6-4344-8682-6bce393ca9ee,2023-04-28,Beer - Blue Light,2023-07-04,8,38.44,307.52,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,292.14399999999995
+79daa367-99df-4632-a6db-9e4c62b22be7,2023-05-07,Ice Cream - Super Sandwich,2023-07-07,16,63.29,1012.64,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,860.7439999999999
+9b13ed2c-7b0d-4de8-a7bb-0b50b7a1c6d4,2023-05-05,Bacardi Breezer - Tropical,2023-06-05,11,6.02,66.22,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,58.9358
+64a7404b-4e3d-47ea-a098-364b8e099fd2,2023-04-07,Beef - Montreal Smoked Brisket,2023-05-27,15,214.75,3221.25,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",12.5,2818.59375
+d65f913f-2ffe-40af-8b03-5c97631efaa6,2023-03-24,Sprouts Dikon,2023-05-18,11,198.74000000000004,2186.1400000000003,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2033.1102
+5a3c5214-eb5c-4cf5-8edd-d50eab2280ff,2023-03-13,Pasta - Bauletti Chicken White,2023-05-10,9,210.88,1897.92,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,1803.024
+6d452a18-f365-4c7a-a576-afdbd7a8050b,2023-04-08,Chicken - Ground,2023-04-29,12,91.7,1100.4,Store,Cash,"Expiration Discount:9.0%;Bulk Purchase Discount:7.0%",8.0,1012.3680000000002
+33c1dfc0-8f45-41a2-9b74-f4b0938bc861,2023-04-10,Wine - White French Cross,2023-06-15,14,105.92,1482.88,Store,Cash,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:7.0%",6.0,1393.9072
+6eaa31fc-7899-408c-9d9c-a26a21d2522a,2023-05-05,Appetizer - Tarragon Chicken,2023-06-18,12,217.6,2611.2,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2428.4159999999997
+f5c967f6-1456-4b92-a55d-2f68597e0d5f,2023-05-06,Phyllo Dough,2023-06-18,7,249.92,1749.4399999999998,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,1661.9679999999998
+f7fbe49b-3989-4e82-8955-134026bb81d3,2023-04-14,Cheese - Camembert,2023-05-21,6,75.17,451.02,App,Visa,"Cheese/Wine Discount:10.0%;Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",10.0,405.918
+b2f169bf-a256-4684-9034-626d3ba3e3f7,2023-05-01,Jam - Raspberry,2023-05-30,3,71.6,214.79999999999998,Store,Cash,"Expiration Discount:1.0%",1.0,212.652
+e41c98b0-09c1-4100-9041-417aec6c7c38,2023-05-12,Wine - Pinot Noir Mondavi Coastal,2023-05-16,15,114.42,1716.3,Store,Cash,"Expiration Discount:26.0%;Cheese/Wine Discount:5.0%;Bulk Purchase Discount:10.0%",18.0,1407.366
+b72985bf-e311-4b37-b09f-95cf061e1027,2023-05-04,Creamers - 10%,2023-07-13,16,182.77,2924.32,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,2485.672
+a8790800-7434-486b-b1ae-51262774774c,2023-03-20,Wine - Chablis 2003 Champs,2023-05-26,10,88.12,881.2,Store,Cash,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:7.0%",6.0,828.328
+f519a1fb-7a90-49f7-9f2d-dc727e760f19,2023-03-19,Wine - Rosso Del Veronese Igt,2023-06-17,10,110.96,1109.6,Store,Cash,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:7.0%",6.0,1043.024
+0e882257-988a-4465-98e1-fff0b0bf003f,2023-04-25,Filter - Coffee,2023-06-27,12,48.79,585.48,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,550.3512
+574b612d-0723-4f96-a805-e495190011f9,2023-03-13,Ice Cream Bar - Oreo Sandwich,2023-04-15,7,233.66,1635.62,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,1553.8389999999997
+dcb66b56-0b98-4a50-a52a-3503e1268dba,2023-03-23,Ham - Proscuitto,2023-06-13,14,162.01,2268.14,Store,Visa,"March 23 Special:50.0%;Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",28.5,1621.7201
+205d911a-3520-4ec4-96fd-d24474890cda,2023-04-02,Juice - Apple 341 Ml,2023-04-06,9,65.97,593.73,App,Visa,"Expiration Discount:26.0%;Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",18.0,486.8586
+8605f9fa-cd98-43fe-8a61-e5e4e9ccbf4c,2023-04-23,Magnotta Bel Paese Red,2023-06-28,4,9.69,38.76,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,36.821999999999996
+73f30177-250e-4620-869a-fe70a5285822,2023-04-12,Sauce Bbq Smokey,2023-05-21,1,111.91,111.91,Store,Cash,"",0.0,111.91
+2de94b00-00f7-457d-8cfe-9b1044422aac,2023-03-14,Mix Pina Colada,2023-05-18,11,132.35,1455.85,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,1368.4989999999998
+4c03431d-a6bc-4443-82d6-8d725c082ed5,2023-03-29,Chicken - Whole Roasting,2023-06-09,3,226.77,680.3100000000001,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,646.2945
+1981f32f-be3e-4d8e-9ecc-85a64892b39f,2023-04-29,Sprouts - Peppercress,2023-07-28,15,83.76,1256.4,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",12.5,1099.3500000000001
+7cc67604-a346-47f0-92e5-9f9a212d01c0,2023-03-17,Sugar Thermometer,2023-06-08,9,35.86,322.74,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,306.603
+d0663c1a-635e-4765-b9cf-7802620afed7,2023-05-02,Butter - Pod,2023-05-25,9,6.64,59.76,App,Visa,"Expiration Discount:7.0%;Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",8.5,54.6804
+8b9a415a-166f-4c04-9de5-7ffdc6aef454,2023-05-12,Garam Marsala,2023-06-09,8,42.36,338.88,Store,Cash,"Expiration Discount:2.0%;Bulk Purchase Discount:5.0%",3.5,327.0192
+0871adeb-d345-49ee-990b-309a9184581c,2023-05-08,Mudslide,2023-06-09,7,128.4,898.8000000000001,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,853.86
+14d16967-dcb9-4e17-bbed-f803b049f9ba,2023-03-17,Ecolab - Ster Bac,2023-06-03,7,127.84,894.88,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,850.136
+7939fd9f-1e6e-4abc-98cd-f1493fb59bac,2023-05-01,Noodles - Cellophane Thin,2023-07-14,17,171.0,2907.0,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,2616.3
+14f68460-cd5a-48e4-a81f-3b23338d4645,2023-04-16,Appetizer - Southwestern,2023-06-30,11,124.86,1373.46,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,1277.3178
+a3695c2d-0053-4f18-9536-29e2f68614c1,2023-04-21,Thyme - Dried,2023-06-29,3,85.66000000000001,256.98,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,244.131
+e9b8c598-9be4-40f4-8ce4-7c5ac56deeb2,2023-04-19,Coffee - French Vanilla Frothy,2023-05-03,4,181.44,725.76,Store,Visa,"Expiration Discount:16.0%;Visa Card Promotion:5.0%",10.5,649.5552
+a9a4a98f-6aff-499a-975f-43b2b402229c,2023-04-09,Ecolab - Solid Fusion,2023-07-06,4,11.47,45.88,Store,Cash,"",0.0,45.88
+434c17c1-4ee1-497b-b3ef-4658a6881c6b,2023-04-21,Sour Puss - Tangerine,2023-06-20,9,187.57,1688.1299999999999,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,1603.7234999999998
+13597a19-bee7-4f6f-8547-d26a421c8a4d,2023-03-28,Napkin Colour,2023-06-01,3,95.55,286.65,Store,Cash,"",0.0,286.65
+dd14f804-2fb4-49be-b407-0e0f9cdc77c4,2023-03-16,Passion Fruit,2023-04-13,5,47.25,236.25,Store,Visa,"Expiration Discount:2.0%;Visa Card Promotion:5.0%",3.5,227.98125
+837c722d-9524-483b-82cb-bd35142ce5cf,2023-04-21,Beef - Tenderloin Tails,2023-06-25,6,216.67999999999998,1300.08,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,1202.574
+f9927772-c6f4-4599-91ff-7ac304bc5002,2023-05-06,Calypso - Strawberry Lemonade,2023-05-28,8,136.78,1094.24,App,Visa,"Expiration Discount:8.0%;Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",9.0,995.7584
+6c0884c9-a9f0-4853-94a1-0d64961618fb,2023-05-03,Soupfoamcont12oz 112con,2023-07-21,13,60.32,784.16,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,737.1103999999999
+6bd374ca-4c3b-460c-9f18-94121ae34b3f,2023-03-14,Fudge - Cream Fudge,2023-03-23,12,225.99,2711.88,App,Visa,"Expiration Discount:21.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",18.0,2223.7416000000003
+cabd22e2-dcf6-4849-99c3-9bff3f9e7537,2023-05-10,Gingerale - Diet - Schweppes,2023-05-23,10,193.2,1932.0,Store,Visa,"Expiration Discount:17.0%;Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",12.0,1700.16
+b5ec4477-1ae3-47c8-a69b-4d25b7189d40,2023-05-05,Trueblue - Blueberry 12x473ml,2023-07-19,3,51.38,154.14000000000001,Store,Cash,"",0.0,154.14000000000001
+e573e7cf-a5ee-492d-9769-b8fed24281b5,2023-04-20,Calypso - Black Cherry Lemonade,2023-05-12,12,8.31,99.72,Store,Cash,"Expiration Discount:8.0%;Bulk Purchase Discount:7.0%",7.5,92.241
+3e7002db-9891-4436-9972-8a28c16c7f76,2023-05-07,Puree - Raspberry,2023-05-23,10,134.58,1345.8000000000002,Store,Cash,"Expiration Discount:14.0%;Bulk Purchase Discount:7.0%",10.5,1204.4910000000002
+9407a5f1-e4de-47b4-8176-e721a597c546,2023-03-17,Pate - Cognac,2023-04-28,1,70.2,70.2,Store,Cash,"",0.0,70.2
+c0c82548-c806-4f42-bfd5-4d1c0b1b88a5,2023-04-07,Hipnotiq Liquor,2023-06-04,16,22.23,355.68,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,320.112
+c05385c7-3c32-44bb-b18d-f12026e18ed1,2023-04-04,Icecream - Dstk Cml And Fdg,2023-04-12,3,184.39,553.17,Store,Cash,"Expiration Discount:22.0%",22.0,431.4726
+f0ba1237-53f4-4473-97c7-e600f1f41323,2023-04-23,Muffin Mix - Carrot,2023-05-12,12,228.89,2746.68,Store,Visa,"Expiration Discount:11.0%;Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",9.0,2499.4788
+d78a01f6-128e-4bc9-bc14-27da47a6fe50,2023-04-25,Mushroom - Morels Dry,2023-06-14,15,50.24,753.6,Store,Visa,"Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,697.08
+2e055e80-9bba-4d52-88bd-bb497b2c34b3,2023-04-29,Foie Gras,2023-07-22,6,28.350000000000005,170.10000000000002,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,157.34250000000003
+b8153376-a489-4cd7-aaff-3a3cd5d9094b,2023-04-02,Pepperoni Slices,2023-04-30,8,130.02,1040.16,Store,Visa,"Expiration Discount:2.0%;Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,988.152
+30b0c8d3-7f99-456e-aa49-db2540883b8a,2023-03-13,Cake - Sheet Strawberry,2023-05-03,11,218.23,2400.5299999999997,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2232.4928999999997
+d555c3bd-f6e4-4da9-b0cb-02066dd0b49c,2023-04-25,Mahi Mahi,2023-05-22,6,17.81,106.85999999999999,App,Visa,"Expiration Discount:3.0%;Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,98.84549999999999
+d08e429b-d92b-47bb-9d68-72c9b27fa36f,2023-03-13,Beans - Yellow,2023-04-14,17,138.42,2353.14,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,2117.826
+33886dfc-3fd1-4b71-a130-d26496cd5ce3,2023-04-17,Mushrooms - Honey,2023-06-05,4,144.18,576.72,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,547.884
+76182dd1-01e0-48da-974e-1beddbaec3cf,2023-04-23,Longos - Lasagna Beef,2023-05-27,12,236.92,2843.04,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2644.0272
+f566dd6c-6dc8-45b0-8d9e-ff2c0696a4d3,2023-04-26,Food Colouring - Blue,2023-06-17,3,216.56000000000003,649.6800000000001,Store,Cash,"",0.0,649.6800000000001
+80c61242-6dfa-40ca-973e-e60a440ed2e3,2023-05-04,Veal - Provimi Inside,2023-07-01,14,166.26,2327.64,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2164.7052
+aeb5d3ea-31fb-473d-ab3d-d05554ac3f5a,2023-04-22,Olive - Spread Tapenade,2023-06-03,6,188.99,1133.94,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,1077.243
+be83545b-c4f3-4a08-8ce0-e75fe2726aab,2023-04-04,Foil - Round Foil,2023-04-29,9,135.32,1217.8799999999999,Store,Cash,"Expiration Discount:5.0%;Bulk Purchase Discount:5.0%",5.0,1156.9859999999999
+39ccfbbc-d6bd-4f0c-a22a-9cbb540f0de3,2023-03-23,Scallops - U - 10,2023-04-29,16,15.66,250.56,Store,Cash,"March 23 Special:50.0%;Bulk Purchase Discount:10.0%",30.0,175.392
+09897bb0-a1d2-4666-a819-479d5f9a6f67,2023-04-06,Bag - Bread White Plain,2023-05-10,16,108.67,1738.72,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,1564.848
+23ede46a-7461-4ae1-81d1-5a8d2571a8be,2023-05-06,Carbonated Water - Raspberry,2023-07-21,6,111.15000000000002,666.9000000000001,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,616.8825000000002
+a4c4028e-9391-45d7-abe1-2ad8ab8c3458,2023-03-13,Wine - Segura Viudas Aria Brut,2023-04-12,12,70.29,843.48,Store,Visa,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,792.8711999999999
+2891e055-8209-464b-b5ea-92f4e2459146,2023-04-22,Amarula Cream,2023-04-28,13,50.37,654.81,App,Visa,"Expiration Discount:24.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",19.5,527.12205
+6da7e6ac-a8b6-4e2e-9989-7c330f238af5,2023-04-23,Salmon - Atlantic No Skin,2023-05-31,10,206.7,2067.0,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",8.5,1891.305
+3ceed74a-3d8a-4ef9-aa19-591899e8a10d,2023-04-19,Sugar Thermometer,2023-06-14,14,196.59,2752.26,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2559.6018
+6f0b5e48-75a7-4b88-bc0b-55ce95163fdb,2023-04-03,Liqueur - Melon,2023-04-18,11,212.54,2337.94,Store,Cash,"Expiration Discount:15.0%;Bulk Purchase Discount:7.0%",11.0,2080.7666
+8ca19f73-3452-4186-ad81-cc8f9191430a,2023-04-25,Madeira,2023-07-18,14,129.0,1806.0,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,1679.58
+7ce83d8a-6361-4349-966b-478c89c4119e,2023-04-27,Flower - Commercial Spider,2023-07-09,4,134.57,538.28,Store,Visa,"Visa Card Promotion:5.0%",5.0,511.36599999999993
+1b505d08-1d20-450b-94f4-7a35ff17fdd6,2023-03-19,Capon - Breast Double Wing On,2023-05-23,6,32.99,197.94,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,183.0945
+68dc653f-7013-4faf-a4d6-680cdd5beb5d,2023-04-11,Smoked Tongue,2023-06-19,11,116.12000000000002,1277.3200000000002,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,1200.6808
+9cdd27e0-2483-4ca8-844f-d58df76a9d4d,2023-04-17,Apple - Fuji,2023-05-17,2,236.66,473.32,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,449.654
+ea8d658a-f7bb-4a35-bee5-10fed38c7505,2023-04-20,Pork - Bacon Double Smoked,2023-06-26,17,160.41,2726.97,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,2317.9244999999996
+94518738-53e0-49b8-a218-4c0a08405c3e,2023-04-27,Island Oasis - Peach Daiquiri,2023-06-14,8,21.59,172.72,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,159.76600000000002
+2137173d-204f-4836-86a3-7563609ed9ef,2023-04-29,Pepper - Chipotle Canned,2023-06-15,1,82.75,82.75,Store,Cash,"",0.0,82.75
+4a2c0933-9dd2-439b-bda6-faf37fedecda,2023-04-25,Wine - Duboeuf Beaujolais,2023-07-09,8,231.85,1854.8,Store,Cash,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:5.0%",5.0,1762.06
+b3bd63dc-09dc-4b76-8774-af58974144d0,2023-04-08,Soup - Knorr Classic Can. Chili,2023-05-21,6,75.73,454.38,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,431.661
+da2c0698-0d32-4faa-9f56-44c9d2f62ddd,2023-04-24,Water - Spring Water 355 Ml,2023-07-08,9,246.20999999999998,2215.89,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,2049.69825
+95b58cae-1c20-45dd-ad03-f7e4ede3f6d6,2023-03-23,Onions - Green,2023-05-02,17,71.44,1214.48,App,Visa,"March 23 Special:50.0%;Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",35.0,789.412
+9468e9b2-6d83-437e-a8ee-2262e608ef8f,2023-04-18,Rice - Jasmine Sented,2023-06-24,13,145.71,1894.23,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,1761.6338999999998
+ca7cd133-3393-43c5-8018-cf14b8cf667a,2023-04-29,Snapple Lemon Tea,2023-07-03,13,90.59,1177.67,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,1107.0098
+0fbefb2f-a3f3-49eb-9600-7e089b390de4,2023-05-11,Nut - Cashews Whole Raw,2023-06-06,9,123.19999999999999,1108.8,Store,Visa,"Expiration Discount:4.0%;Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,1053.36
+b4c10d4b-a68e-411b-9088-14950b0f3574,2023-04-07,Bread - Triangle White,2023-05-09,15,181.13,2716.95,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",12.5,2377.3312499999997
+41720dba-cd92-4444-bd36-dbe523480a33,2023-04-26,Pasta - Rotini Colour Dry,2023-07-17,4,200.73,802.92,Store,Visa,"Visa Card Promotion:5.0%",5.0,762.7739999999999
+d5693ca7-b252-4a84-96b4-fcde2f158b87,2023-03-29,Milk - Skim,2023-04-10,4,230.51,922.04,Store,Cash,"Expiration Discount:18.0%",18.0,756.0728
+dbb12159-fc9d-4b21-8fa5-212043bd682e,2023-05-01,Beans - Green,2023-07-05,15,112.62999999999998,1689.4499999999998,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",12.5,1478.2687499999997
+d55d9e46-5a16-4efd-9915-fd7dec9416a0,2023-04-21,Longos - Lasagna Beef,2023-05-14,9,247.62,2228.58,Store,Cash,"Expiration Discount:7.0%;Bulk Purchase Discount:5.0%",6.0,2094.8651999999997
+cfacfd18-050d-4923-aadf-3fe141c1f6a7,2023-04-27,Bread - Olive Dinner Roll,2023-06-04,8,2.23,17.84,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,16.502
+b1c2a529-b69a-4570-bb4b-fcd6bebbacee,2023-03-19,Soup - French Can Pea,2023-06-09,10,86.47,864.7,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,812.818
+a114e6d3-d5eb-44ba-8271-9268a08fc061,2023-03-16,Corn Meal,2023-03-17,16,24.53,392.48,Store,Cash,"Expiration Discount:29.0%;Bulk Purchase Discount:10.0%",19.5,315.9464
+1b268b88-43a2-44f9-b9cd-8bd12a7181fa,2023-04-17,Jerusalem Artichoke,2023-06-15,4,203.16,812.64,Store,Visa,"Visa Card Promotion:5.0%",5.0,772.0079999999999
+32c02fbb-f7ab-419a-ae67-940db0504957,2023-05-12,Ocean Spray - Kiwi Strawberry,2023-07-31,11,175.29,1928.1899999999998,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,1812.4985999999997
+303d5309-8891-408e-8bed-208f8c97d7d7,2023-04-06,Silicone Parch. 16.3x24.3,2023-06-04,2,38.77,77.54,Store,Visa,"Visa Card Promotion:5.0%",5.0,73.663
+1703c14d-c502-48ea-9734-28782252a234,2023-05-06,Sachet,2023-05-14,5,81.34,406.70000000000005,Store,Cash,"Expiration Discount:22.0%",22.0,317.22600000000006
+99b403d7-5861-49ca-8a75-ce4daaacf9d4,2023-03-19,Spaghetti Squash,2023-03-30,9,10.77,96.92999999999999,Store,Cash,"Expiration Discount:19.0%;Bulk Purchase Discount:5.0%",12.0,85.2984
+0001fb2d-56c0-49fb-a725-940077d1b45d,2023-04-11,Coffee Beans - Chocolate,2023-06-02,12,102.37,1228.44,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,1154.7336
+5bf23e98-6e80-4a4d-aa50-c5e0da913f7f,2023-04-26,Bread - Flat Bread,2023-05-29,13,245.48999999999998,3191.37,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,2840.3193
+1c0d1cce-aca1-49f8-affe-15f47b3e2266,2023-04-20,Egg Patty Fried,2023-05-02,7,182.62000000000003,1278.3400000000001,Store,Cash,"Expiration Discount:18.0%;Bulk Purchase Discount:5.0%",11.5,1131.3309000000002
+60cd6bf0-c2c9-485a-bf95-da42a9d860d1,2023-04-09,Grenadillo,2023-07-08,7,70.22,491.53999999999996,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,454.67449999999997
+1b3b50a4-c838-488d-8853-7d358c0fda8b,2023-03-30,Island Oasis - Peach Daiquiri,2023-06-04,13,67.7,880.1,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,818.4929999999999
+ed1f0b66-56dc-4cc0-8348-47118745c001,2023-04-12,Marsala - Sperone Fine D.o.c.,2023-04-22,12,113.77,1365.24,Store,Cash,"Expiration Discount:20.0%;Bulk Purchase Discount:7.0%",13.5,1180.9326
+18a32b7e-1768-4e0e-bc5f-48a53ebd9cb4,2023-04-28,Snapple - Mango Maddness,2023-05-06,1,111.28,111.28,Store,Cash,"Expiration Discount:22.0%",22.0,86.7984
+8ca34ecb-8e1e-48de-9aa1-a1d8a5b8c401,2023-03-21,Wine - Sake,2023-04-09,11,125.98,1385.78,App,Visa,"Expiration Discount:11.0%;Cheese/Wine Discount:5.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",13.0,1205.6286
+2f1230ef-eabf-49d4-b326-bfb377904466,2023-05-07,Bread - Sticks Thin Plain,2023-05-30,16,133.65,2138.4,Store,Cash,"Expiration Discount:7.0%;Bulk Purchase Discount:10.0%",8.5,1956.6360000000002
+9c22c06d-7401-4dc3-843e-3df2a5dce37f,2023-04-28,Sugar - Fine,2023-05-02,12,109.82,1317.84,Store,Cash,"Expiration Discount:26.0%;Bulk Purchase Discount:7.0%",16.5,1100.3963999999999
+0ec37fe0-4bc7-40b6-bab7-0b114752b9e2,2023-04-15,Snapple Lemon Tea,2023-06-16,1,237.89,237.89,Store,Cash,"",0.0,237.89
+8aac2ffe-94f3-4375-9a99-7676ea5b0d98,2023-04-24,Trout - Rainbow Fresh,2023-07-23,12,185.12,2221.44,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2065.9392
+9ac12e8d-e462-428f-89ab-6f0d79886fc6,2023-03-29,Chutney Sauce - Mango,2023-06-13,8,216.72,1733.76,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,1647.072
+c11463ef-8b9f-407e-811b-4c19d5b9bf52,2023-04-01,Wine - Placido Pinot Grigo,2023-06-24,8,176.57,1412.56,App,Visa,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,1306.618
+45c9bd03-d95c-420b-8812-75788730e07f,2023-04-02,Lobster - Live,2023-04-29,13,186.23,2420.99,Store,Cash,"Expiration Discount:3.0%;Bulk Purchase Discount:7.0%",5.0,2299.9404999999997
+19e11362-1f67-4ec4-a4c4-840c593d09f5,2023-03-15,Pastry - Key Limepoppy Seed Tea,2023-03-20,4,112.38,449.52,Store,Visa,"Expiration Discount:25.0%;Visa Card Promotion:5.0%",15.0,382.092
+3549bfc0-8f99-494d-bccc-547da5d772ba,2023-03-19,Pepper - Julienne Frozen,2023-04-19,2,236.64,473.28,Store,Visa,"Visa Card Promotion:5.0%",5.0,449.61599999999993
+6231e8b4-b1dd-4aaf-a34c-4aedc4352d84,2023-04-28,Tomatoes,2023-06-16,14,8.53,119.41999999999999,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,106.28379999999999
+64555c70-30bf-4867-b0b5-a39e82c9cfe0,2023-03-20,Water - Evian 355 Ml,2023-04-04,17,143.49,2439.33,Store,Visa,"Expiration Discount:15.0%;Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",12.5,2134.4137499999997
+dc9d40ad-3c14-4189-8bff-a33718dd01c6,2023-04-13,Beer - Maudite,2023-07-11,15,176.36,2645.4,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,2380.86
+89df66d1-585a-4233-ae1c-67b66e3388fd,2023-05-01,Bouillion - Fish,2023-07-30,6,91.44,548.64,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,521.208
+2bbe7bff-4fbc-43dd-8f4a-c74fcb1fb34d,2023-04-13,Edible Flower - Mixed,2023-06-17,11,58.36000000000001,641.96,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,571.3444000000001
+ff5efba9-ed87-4d6f-866e-aab7fd138afb,2023-04-13,Split Peas - Green Dry,2023-04-19,2,204.16,408.32,App,Visa,"Expiration Discount:24.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",14.5,349.11359999999996
+fabc8be4-1b69-4f42-a25a-f35b25d95419,2023-05-05,Fib N9 - Prague Powder,2023-07-09,1,4.5,4.5,Store,Cash,"",0.0,4.5
+e7fdb2d4-5a9a-4f1d-9bcf-ee5f0dae5f7d,2023-04-09,Pickle - Dill,2023-04-22,13,130.2,1692.6,App,Visa,"Expiration Discount:17.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",16.0,1421.7839999999999
+adcda1a2-bf81-4e0a-affe-2a5d6a98eb41,2023-03-30,Truffle Cups - Red,2023-04-04,13,143.75,1868.75,App,Visa,"Expiration Discount:25.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",20.0,1495.0
+4118f80f-0e96-4c93-b26e-a1345bfb4f0a,2023-04-13,Broom - Angled,2023-06-23,17,243.87,4145.79,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,3731.2110000000002
+eefaf075-d4a2-40c7-a988-99c844001783,2023-03-30,Juice - Tomato 48 Oz,2023-06-26,6,15.79,94.74,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,90.00299999999999
+361163fd-b921-4ce9-9f49-13adf8d1a159,2023-04-12,Sauce - Plum,2023-07-04,13,83.88000000000001,1090.44,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,1014.1092
+91a5c6d2-a60e-460a-aac0-fa3d8e8d2441,2023-04-16,Wine - Red Cabernet Merlot,2023-05-26,5,185.28,926.4,Store,Visa,"Cheese/Wine Discount:5.0%;Visa Card Promotion:5.0%",5.0,880.0799999999999
+a9242b5b-34c0-43d1-8c72-5459ff16ab73,2023-05-02,Cheese - Brie Cups 125g,2023-05-30,14,96.63,1352.82,App,Visa,"Expiration Discount:2.0%;Cheese/Wine Discount:10.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",12.5,1183.7175
+333917b1-2169-4ba5-b0bf-7e4ee3e92c6e,2023-03-26,Horseradish Root,2023-06-05,15,10.34,155.1,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",12.5,135.7125
+446510a7-d4cc-4a42-bd51-d65716d56bd3,2023-04-23,Turnip - Wax,2023-06-15,15,94.8,1422.0,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,1279.8
+9d445ac7-e004-41e4-9bdc-b4ac528518d4,2023-03-23,Cumin - Ground,2023-06-20,9,20.97,188.73,Store,Visa,"March 23 Special:50.0%;Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",27.5,136.82925
+762579ad-3188-4609-ad8a-70c4061bd273,2023-04-02,Yogurt - Blueberry 175 Gr,2023-07-01,8,27.4,219.2,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,208.23999999999998
+030355e4-fd82-4e34-95e4-df5b2119a250,2023-04-06,Cinnamon Rolls,2023-04-17,5,71.47,357.35,Store,Visa,"Expiration Discount:19.0%;Visa Card Promotion:5.0%",12.0,314.468
+d0ef4a5a-796b-4c33-94dc-92270393314c,2023-05-12,Wine - Vineland Estate Semi - Dry,2023-05-19,11,127.04,1397.44,Store,Cash,"Expiration Discount:23.0%;Cheese/Wine Discount:5.0%;Bulk Purchase Discount:7.0%",15.0,1187.824
+f39194f3-3cc8-432e-8e3d-54ef7bc1e0bd,2023-03-30,Dome Lid Clear P92008h,2023-04-19,2,122.41,244.82,Store,Cash,"Expiration Discount:10.0%",10.0,220.338
+df3c477d-bb5f-4fff-8ea7-3652518b7a34,2023-03-19,Beef - Cow Feet Split,2023-04-24,7,151.37000000000003,1059.5900000000001,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,1006.6105000000001
+f0a4e9b3-9bd3-4530-b185-aef2f75c8bcf,2023-04-02,Mahi Mahi,2023-05-03,1,134.35,134.35,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,127.6325
+45e5d07c-d649-4f5e-b301-79179afdb2a8,2023-03-27,Horseradish Root,2023-04-18,6,190.46,1142.76,Store,Visa,"Expiration Discount:8.0%;Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",6.5,1068.4806
+bb0d5dd3-8254-426f-b947-a953fe612f2a,2023-04-21,Bread - Sour Batard,2023-07-14,5,140.94,704.7,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,669.465
+cdebd9d3-454a-418f-916e-03331c081970,2023-04-15,Sprite Diet - 355ml,2023-06-11,16,135.29,2164.64,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,1839.9439999999997
+2c1cdb60-995e-4a22-907e-120de73ec15a,2023-03-20,Eggplant Italian,2023-04-11,16,141.4,2262.4,Store,Cash,"Expiration Discount:8.0%;Bulk Purchase Discount:10.0%",9.0,2058.784
+2adfb773-b620-476b-9ec6-bbc629d02d36,2023-04-13,Pasta - Bauletti Chicken White,2023-06-05,8,233.12,1864.96,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,1771.712
+33b9c805-b332-4c57-8bda-f751ff0bca53,2023-05-01,Pastry - Key Limepoppy Seed Tea,2023-05-21,8,15.42,123.36,Store,Cash,"Expiration Discount:10.0%;Bulk Purchase Discount:5.0%",7.5,114.108
+b69a81ae-91f1-4ecb-86a2-7de47c348411,2023-04-17,Veal - Tenderloin Untrimmed,2023-05-10,14,191.97,2687.58,Store,Cash,"Expiration Discount:7.0%;Bulk Purchase Discount:7.0%",7.0,2499.4494
+011ff76b-7caf-4db4-9389-b94b27be8361,2023-05-12,Bag - Regular Kraft 20 Lb,2023-07-03,11,24.42,268.62,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,239.0718
+453f6c4f-fa3c-4346-a2ad-9d5d885429c5,2023-04-11,Crackers - Soda / Saltins,2023-06-12,13,54.93,714.09,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,664.1037
+e0165746-02cd-4c68-b4b9-a97ed384c3ce,2023-03-29,Oysters - Smoked,2023-06-01,17,103.28,1755.76,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,1580.184
+b1976252-b2f2-4cc4-9163-b5ca6fc9dc83,2023-05-06,Water - Mineral Natural,2023-05-24,5,169.85,849.25,Store,Cash,"Expiration Discount:12.0%",12.0,747.34
+fbf8e4d0-11cc-4657-9caf-18fa7a38b977,2023-03-21,Beef - Salted,2023-06-12,4,71.58,286.32,Store,Cash,"",0.0,286.32
+f362990b-06dd-4300-8cd0-a3091d0a55c7,2023-04-07,Wine - Baron De Rothschild,2023-05-25,1,62.44,62.44,App,Visa,"Cheese/Wine Discount:5.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,59.318
+93caa5d7-fbf7-4143-82db-25490d284b6f,2023-05-12,Juice - Pineapple 341 Ml,2023-08-04,2,146.2,292.4,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,277.78
+b5722bee-d259-41b1-8853-dffc61aa53a4,2023-05-04,Ice Cream Bar - Oreo Sandwich,2023-05-18,5,111.87,559.35,Store,Visa,"Expiration Discount:16.0%;Visa Card Promotion:5.0%",10.5,500.61825000000005
+77439c68-5f0c-4e8b-8d0e-f3042e544019,2023-04-07,Beef - Roasted Cooked,2023-05-11,14,41.46,580.44,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,539.8092
+9fedd073-63ae-4f43-892b-f265bd2284ad,2023-03-29,Dates,2023-06-06,1,191.02,191.02,Store,Cash,"",0.0,191.02
+09d9db46-c0bf-481d-9639-23871b14cc3b,2023-04-19,Spice - Onion Powder Granulated,2023-07-18,6,43.22,259.32,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,246.35399999999998
+7a9874a9-8f5e-42b4-bc52-0421014aac3e,2023-04-11,Creme De Cacao White,2023-05-07,13,71.63,931.1899999999999,Store,Visa,"Expiration Discount:4.0%;Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,875.3186
+ddc76087-406d-4b25-9280-12738a9f39db,2023-03-23,Oil - Olive,2023-05-30,7,11.72,82.04,Store,Cash,"March 23 Special:50.0%;Bulk Purchase Discount:5.0%",27.5,59.479
+1cdf9eaf-d34e-4f9f-9d58-8b133505204f,2023-03-29,Wine - White Concha Y Toro,2023-04-14,8,116.44,931.52,Store,Visa,"Expiration Discount:14.0%;Cheese/Wine Discount:5.0%;Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",9.5,843.0256
+343ddaed-d08b-43b4-ad67-f2870f21e5ce,2023-03-24,Wine - Bourgogne 2002 La,2023-05-03,2,164.81,329.62,Store,Cash,"Cheese/Wine Discount:5.0%",5.0,313.139
+ae1728d3-75f1-44a9-b38a-5dc0b20e52d7,2023-04-17,Bread - Rye,2023-05-08,12,158.12,1897.44,App,Visa,"Expiration Discount:9.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",12.0,1669.7472
+25162c28-f980-4ed6-a150-da58c78629ba,2023-03-24,Filter - Coffee,2023-04-19,10,103.78,1037.8,App,Visa,"Expiration Discount:4.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",8.5,949.587
+81352a66-b226-4051-bbef-7829943370fc,2023-05-12,Pasta - Lasagne Fresh,2023-06-30,16,179.14,2866.24,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,2579.616
+9517f8b7-306e-4963-b5e1-7f9e46cfd6a8,2023-05-07,Gherkin,2023-06-15,5,176.37,881.85,Store,Cash,"",0.0,881.85
+9a082d88-02d3-40a7-ab9c-428694493764,2023-04-22,Swordfish Loin Portions,2023-05-08,11,14.82,163.02,Store,Cash,"Expiration Discount:14.0%;Bulk Purchase Discount:7.0%",10.5,145.90290000000002
+0c5c1089-7782-4ede-a9ff-731e1de9f6b5,2023-05-02,Sausage - Chorizo,2023-07-31,15,38.38,575.7,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",12.5,503.73750000000007
+0dd097db-d2ac-409a-8b8c-8a870f78d75c,2023-04-21,Sauce - Soy Low Sodium - 3.87l,2023-05-24,17,112.69,1915.73,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,1724.1570000000002
+fd9d1b1a-9252-4aa2-8504-2e0d87f57ada,2023-04-18,Hinge W Undercut,2023-05-07,15,116.7,1750.5,Store,Visa,"Expiration Discount:11.0%;Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",10.5,1566.6975
+3e55266e-f010-4d6d-9d2c-3329e895873a,2023-04-15,Wine - Fino Tio Pepe Gonzalez,2023-07-08,11,121.46,1336.06,App,Visa,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,1189.0934
+1d0b0925-964b-4a14-a4bc-6f026ede2df5,2023-04-06,Container - Foam Dixie 12 Oz,2023-05-05,3,187.58,562.74,App,Visa,"Expiration Discount:1.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,534.603
+026cef94-71cf-4d0d-bcd2-686bdfa2354e,2023-04-10,Pastry - Baked Cinnamon Stick,2023-05-04,11,226.12,2487.32,Store,Cash,"Expiration Discount:6.0%;Bulk Purchase Discount:7.0%",6.5,2325.6442
+63e9a483-c83e-448d-a9a1-04bd748f80ef,2023-04-28,Appetizer - Crab And Brie,2023-07-16,10,87.97,879.7,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,818.121
+751bcda1-5d80-4c84-8c7c-f6b863936da3,2023-05-07,Carbonated Water - White Grape,2023-05-28,14,241.26,3377.64,Store,Cash,"Expiration Discount:9.0%;Bulk Purchase Discount:7.0%",8.0,3107.4288
+92c6b6c7-4301-4d69-8bff-29885d7f1832,2023-03-25,Wine - Vineland Estate Semi - Dry,2023-06-14,3,211.55000000000004,634.6500000000001,App,Visa,"Cheese/Wine Discount:5.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,602.9175
+70287948-8432-404e-a9b2-b76bcabea21d,2023-04-02,Tomatoes - Yellow Hot House,2023-04-27,1,247.74,247.74,Store,Visa,"Expiration Discount:5.0%;Visa Card Promotion:5.0%",5.0,235.353
+c70a21e6-7370-4391-9d3f-5babe90e167e,2023-04-27,Ice Cream - Turtles Stick Bar,2023-06-03,4,21.62,86.48,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,82.156
+98e78acd-bd21-4720-9a22-acbb8556c2e2,2023-05-01,Lobster - Canned Premium,2023-05-22,3,213.03,639.09,App,Visa,"Expiration Discount:9.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",7.0,594.3537
+53027841-6d90-4d23-a3a9-03806403e5e6,2023-03-26,Tomatoes - Heirloom,2023-05-28,7,36.839999999999996,257.88,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,244.986
+de30ba2a-1f02-4c96-9422-3a7259313dcc,2023-05-03,Bread - Sour Batard,2023-05-12,4,233.47,933.88,Store,Cash,"Expiration Discount:21.0%",21.0,737.7652
+21ff4cce-77e7-4e43-89fd-4531e348336e,2023-04-27,Cheese - Briedanish,2023-05-31,17,138.49,2354.33,Store,Cash,"Cheese/Wine Discount:10.0%;Bulk Purchase Discount:10.0%",10.0,2118.897
+22db01ef-c53d-4130-9556-10e49113ce5c,2023-05-10,Oil - Sunflower,2023-05-26,14,38.56,539.84,Store,Visa,"Expiration Discount:14.0%;Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",10.5,483.15680000000003
+31669d5c-c00e-483c-a2d8-7f4164b9fc75,2023-04-27,Milkettes - 2%,2023-07-11,17,166.49,2830.33,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,2547.297
+28bd8cb1-3662-4207-8c9b-d704874a605d,2023-03-25,Mushroom - Shitake Dry,2023-05-11,6,205.6,1233.6,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,1171.9199999999998
+3a6034c9-d208-4900-b124-5c940ba7ce4e,2023-03-24,Langers - Ruby Red Grapfruit,2023-06-04,17,238.93,4061.81,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,3655.629
+b6c87381-4d7f-4bad-ad65-95801bfc2090,2023-05-07,Coffee - Frthy Coffee Crisp,2023-05-20,14,227.66,3187.24,Store,Cash,"Expiration Discount:17.0%;Bulk Purchase Discount:7.0%",12.0,2804.7711999999997
+26fff421-7e37-42e9-bb2f-f49cff47cc35,2023-03-30,Wine - Touraine Azay - Le - Rideau,2023-04-12,9,199.39,1794.5099999999998,Store,Visa,"Expiration Discount:17.0%;Cheese/Wine Discount:5.0%;Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",11.0,1597.1138999999998
+9155edf7-233e-44ad-a50c-1f507a00f5e2,2023-03-25,Nantucket - 518ml,2023-05-26,13,164.42000000000002,2137.46,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,1902.3394
+aa60e411-7152-45f3-9aaf-a13759c5f492,2023-04-23,Bar Mix - Lime,2023-06-01,10,86.94,869.4,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,808.5419999999999
+fc669a53-df85-424e-b8ff-9051cc4a3261,2023-04-02,Brandy Apricot,2023-06-27,5,94.28,471.4,Store,Cash,"",0.0,471.4
+305d3d4a-b98e-4fff-ae40-6b7e02f8bc17,2023-05-09,Bread - English Muffin,2023-05-15,12,140.76,1689.12,Store,Cash,"Expiration Discount:24.0%;Bulk Purchase Discount:7.0%",15.5,1427.3064
+2e71eb90-20ee-4512-b419-f8939996232d,2023-04-03,Chevril,2023-05-29,11,49.01,539.11,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,479.8079
+a85d23e9-c05e-40b7-b9f3-0217dc96bf31,2023-04-28,Cocoa Feuilletine,2023-05-19,4,47.61,190.44,Store,Cash,"Expiration Discount:9.0%",9.0,173.3004
+0ec5012c-8bf8-4174-8304-e96f736b12f4,2023-03-18,Spinach - Packaged,2023-04-10,2,227.38,454.76,Store,Cash,"Expiration Discount:7.0%",7.0,422.92679999999996
+f3eb4c8c-099a-40a4-82f2-a9873cac3867,2023-05-11,Tea - Jasmin Green,2023-07-05,6,67.86,407.15999999999997,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,386.80199999999996
+384f0d29-60e1-4484-b575-22fffef26433,2023-05-06,The Pop Shoppe - Root Beer,2023-07-07,4,235.13,940.52,Store,Cash,"",0.0,940.52
+eb8e6877-0b33-4c9f-bcbb-d166f1e46795,2023-03-27,Onions - Cippolini,2023-06-02,15,178.41,2676.15,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",12.5,2341.63125
+067ee0d8-ff28-4cd7-bff4-572b967ff176,2023-03-21,Wine - Magnotta - Cab Franc,2023-05-14,17,177.36,3015.1200000000003,Store,Cash,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:10.0%",7.5,2788.9860000000003
+67ed3a11-3774-405e-a3ed-65d6da697e5f,2023-03-25,Chicken - Tenderloin,2023-04-26,15,96.03,1440.45,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,1296.405
+3a016f8a-354d-40b1-96e1-985978319b37,2023-04-15,Scallops - 10/20,2023-07-10,4,34.29,137.16,Store,Cash,"",0.0,137.16
+1cc78ae2-764a-4878-b6bb-d96776ef1905,2023-03-20,Wine - Vovray Sec Domaine Huet,2023-05-12,3,156.18,468.54,Store,Cash,"Cheese/Wine Discount:5.0%",5.0,445.113
+3cb33827-f004-463a-975b-c95038fe9e57,2023-04-05,Lime Cordial - Roses,2023-05-19,11,207.53,2282.83,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,2031.7187
+091499d4-1392-4dbe-a31f-356c2ccb20ef,2023-05-10,Muffin Hinge 117n,2023-07-12,8,211.66,1693.28,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,1608.616
+1e2401f9-213e-4b00-aa1d-1268f1c41bf6,2023-04-28,Beer - True North Lager,2023-05-15,17,189.56,3222.52,Store,Cash,"Expiration Discount:13.0%;Bulk Purchase Discount:10.0%",11.5,2851.9302
+6a359f78-ab7d-4741-b258-67370f68ead4,2023-03-19,Wine - Red Pinot Noir Chateau,2023-05-09,6,194.58,1167.48,Store,Cash,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:5.0%",5.0,1109.106
+5ff4a171-9fa3-40f7-9f32-947fbc28a834,2023-03-28,Tomato Puree,2023-06-05,17,85.62,1455.54,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,1309.986
+d12686e8-9fb2-4553-b915-c1940f3e44e5,2023-04-17,Pork - Ham Virginia,2023-07-01,17,137.5,2337.5,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,1986.875
+afdba36d-c744-4c89-ad5f-523a26d9dbab,2023-04-03,Jerusalem Artichoke,2023-06-15,16,105.14,1682.24,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,1429.904
+a6b6c76e-d5ca-4ce3-8717-a5eeeba3cb20,2023-04-20,Wine - Touraine Azay - Le - Rideau,2023-06-08,7,64.66,452.62,App,Visa,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,418.67350000000005
+10b905cd-fb78-483d-b8a8-4d8c709b7b6e,2023-04-20,Corn - Cream Canned,2023-06-14,7,39.27,274.89000000000004,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,261.1455
+eb4bd396-904f-4b5d-a8fb-e2e7ad07c10f,2023-03-15,Banana - Green,2023-05-13,1,125.19,125.19,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,118.9305
+3ac0266b-54ab-4ac7-ae02-5f2ace5887b3,2023-03-26,Wine - White Ej,2023-05-29,15,212.16,3182.4,App,Visa,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:10.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",12.5,2784.6
+6252cdac-b93b-416a-8b83-1fea2a074f5c,2023-04-14,Beer - Fruli,2023-06-27,13,246.13,3199.69,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,2847.7241
+ab536f41-a218-44a8-b7cb-2f6deec9dd20,2023-03-26,Wine - Casillero Del Diablo,2023-04-03,2,56.7,113.4,App,Visa,"Expiration Discount:22.0%;Cheese/Wine Discount:5.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",13.5,98.09100000000001
+2967119f-051f-4457-8cdb-ba7d7e7e826f,2023-03-13,Whmis Spray Bottle Graduated,2023-04-20,10,140.94,1409.4,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",8.5,1289.601
+254f250a-8f80-4a36-80c5-11114052eed9,2023-04-02,Shrimp - 16 - 20 Cooked Peeled,2023-05-27,10,220.53000000000003,2205.3,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2050.929
+e5306968-3be4-46db-ad5e-e4d1fc6a7953,2023-04-15,Water - Mineral Natural,2023-07-09,14,142.72,1998.08,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,1878.1951999999999
+87d02f08-7c45-4a0e-860f-d394561ac34a,2023-03-30,Versatainer Nc - 8288,2023-06-22,7,82.05,574.35,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,545.6325
+14c7dfd1-9bbc-4a43-af4a-bedb31a61881,2023-05-06,Wine - Tribal Sauvignon,2023-07-17,15,57.09,856.35,Store,Visa,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,792.1237500000001
+f80792f4-e2e7-46e5-a473-797f8c422719,2023-04-16,Beef - Diced,2023-05-17,12,210.30000000000004,2523.6000000000004,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2346.9480000000003
+5966c1a5-6363-4c96-a062-51bfa683bfe8,2023-05-06,Wine - Shiraz South Eastern,2023-07-31,16,172.34,2757.44,Store,Cash,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:10.0%",7.5,2550.632
+dd619a30-34a1-41e3-8baf-44bbca9f2d08,2023-04-07,Fruit Salad Deluxe,2023-06-11,14,141.24,1977.3600000000001,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,1759.8504
+10c6eac1-95de-4db3-92f2-9c545ead4f9e,2023-04-06,Pepper - Paprika Spanish,2023-05-28,7,72.15,505.05000000000007,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,467.1712500000001
+999e8a16-16b5-4446-9aa2-432dff34b990,2023-04-29,Squid - Breaded,2023-06-07,6,2.65,15.899999999999999,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,15.104999999999999
+38d792f9-2272-4c86-934f-62dab678b623,2023-03-19,Beef - Kobe Striploin,2023-04-29,5,229.72999999999996,1148.6499999999999,Store,Cash,"",0.0,1148.6499999999999
+1f253eeb-6aec-4771-8b6f-379eb734d8d2,2023-04-28,Salmon - Atlantic No Skin,2023-07-09,13,83.34,1083.42,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,1018.4148
+30024d62-868d-44ec-9527-ee661447dbe3,2023-04-24,Juice - Cranberry 341 Ml,2023-07-09,6,31.89,191.34,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,176.98950000000002
+87650648-d291-4493-8cd8-9206f933ec0a,2023-04-26,Skirt - 29 Foot,2023-07-02,7,6.35,44.449999999999996,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,41.11625
+239c3ab5-98fa-42bf-a1f2-371e21b448c7,2023-03-17,Lamb - Whole Frozen,2023-04-04,9,240.20999999999998,2161.89,Store,Cash,"Expiration Discount:12.0%;Bulk Purchase Discount:5.0%",8.5,1978.12935
+dd58c1d6-dae6-4dfb-a215-ddaa44fc0a50,2023-04-10,Cheese - Havarti Roasted Garlic,2023-05-15,3,239.62,718.86,App,Visa,"Cheese/Wine Discount:10.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",7.5,664.9455
+7f3b79bf-a9cb-4916-9a64-71310c2fcc88,2023-05-10,Cheese - Goat,2023-05-15,14,65.09,911.26,App,Visa,"Expiration Discount:25.0%;Cheese/Wine Discount:10.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",20.0,729.008
+2c6e5e2e-7fcb-43ff-b54f-8b4020cef78e,2023-03-27,Temperature Recording Station,2023-04-03,13,156.91,2039.83,Store,Visa,"Expiration Discount:23.0%;Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",15.0,1733.8555
+d3ab71be-afef-4a2f-8506-76d34feb267a,2023-05-07,Blueberries - Frozen,2023-07-04,2,213.94,427.88,Store,Cash,"",0.0,427.88
+1c0acf34-17f0-4d0e-84e7-a81165f339d1,2023-03-18,Shallots,2023-05-22,4,245.4,981.6,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,932.52
+2ad331b1-9bf6-4f9e-a565-8a3891b833b3,2023-05-05,Bar Mix - Lemon,2023-05-30,6,109.11,654.66,Store,Visa,"Expiration Discount:5.0%;Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,621.9269999999999
+cd3f6b96-0524-4839-8b52-b06331a1753e,2023-04-16,Vinegar - Balsamic White,2023-05-18,3,128.55,385.65000000000003,Store,Visa,"Visa Card Promotion:5.0%",5.0,366.3675
+0898bf09-56d6-4c12-835d-bdd3f474e13d,2023-03-28,Pepper - Chipotle Canned,2023-05-05,9,163.06,1467.54,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,1394.163
+26c4f6a6-150f-4b6b-b1e3-2b29f1f1f9ff,2023-04-22,Cheese - Marble,2023-05-12,3,40.72,122.16,Store,Cash,"Expiration Discount:10.0%;Cheese/Wine Discount:10.0%",10.0,109.944
+d938ad3d-c58e-49a6-9c49-5dff88c18acc,2023-04-02,Sauce - Ranch Dressing,2023-04-05,5,138.93,694.6500000000001,App,Visa,"Expiration Discount:27.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",16.0,583.5060000000001
+86e1280f-e62a-45fe-bc0a-41ef90d1f0ee,2023-03-17,Milk - Chocolate 250 Ml,2023-05-24,1,138.04,138.04,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,131.13799999999998
+42eadee4-c541-4e00-95a0-4089cf84fe10,2023-04-11,Soup - Base Broth Chix,2023-04-13,9,226.77,2040.93,Store,Cash,"Expiration Discount:28.0%;Bulk Purchase Discount:5.0%",16.5,1704.17655
+4f856c4f-c822-4170-95e4-6957140eabec,2023-03-13,Beef - Kindney Whole,2023-04-04,11,175.49,1930.39,App,Visa,"Expiration Discount:8.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.5,1708.39515
+bc97b7ed-d55a-4bfe-94eb-dbae0c9b71b0,2023-05-07,Bread - White Sliced,2023-06-21,15,89.84,1347.6000000000001,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,1212.8400000000001
+0d4a77b3-eee3-4f5f-93a8-a000133777b3,2023-05-08,Wine - Pinot Noir Stoneleigh,2023-06-03,14,88.48,1238.72,App,Visa,"Expiration Discount:4.0%;Cheese/Wine Discount:5.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,1102.4608
+2eda88da-ade2-401f-a425-a13234b29eea,2023-03-19,Soup Campbells Split Pea And Ham,2023-03-24,16,220.6,3529.6,Store,Cash,"Expiration Discount:25.0%;Bulk Purchase Discount:10.0%",17.5,2911.9199999999996
+ff3fb9a8-0406-49ca-a5ce-109e026ff60f,2023-04-19,Pike - Frozen Fillet,2023-07-17,3,246.97,740.91,Store,Cash,"",0.0,740.91
+51423770-d8d2-4165-873e-958dac4d789e,2023-05-04,Edible Flower - Mixed,2023-07-18,6,27.77,166.62,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,158.289
+339b2586-a3b6-456d-b6fa-fbfccf11303f,2023-04-16,Bread - Corn Muffaleta Onion,2023-05-28,12,54.51,654.12,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,614.8728
+d27df5c1-152b-4464-89d4-eed329016f7f,2023-04-07,Ginger - Fresh,2023-04-20,11,129.22,1421.42,App,Visa,"Expiration Discount:17.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",16.0,1193.9928
+db6a7066-8832-4c23-974a-5059990da73d,2023-03-26,Doilies - 7 Paper,2023-06-19,10,118.43000000000002,1184.3000000000002,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",8.5,1083.6345000000001
+d8b1181b-4331-42d2-855c-5666492ea850,2023-05-07,Onions - White,2023-07-25,9,41.21,370.89,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,352.34549999999996
+044490a5-a4f4-40ed-ad18-f1fc58e50202,2023-04-12,Container - Hngd Cll Blk 7x7x3,2023-06-20,14,115.98,1623.72,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,1510.0595999999998
+2e8de310-0d52-470f-97ed-198309dcf8c7,2023-05-06,Oxtail - Cut,2023-07-19,15,53.93,808.95,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,728.0550000000001
+a0316dae-7527-485a-b1aa-980e15bdce3b,2023-03-17,Juice Peach Nectar,2023-03-27,15,236.75,3551.25,Store,Visa,"Expiration Discount:20.0%;Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",15.0,3018.5625
+189efc78-c52e-447d-8066-4304668cd7bb,2023-04-01,Lamb Shoulder Boneless Nz,2023-04-24,2,44.85,89.7,Store,Cash,"Expiration Discount:7.0%",7.0,83.42099999999999
+7bc9686d-a53e-4a0c-aab3-2eeab134f7fc,2023-04-02,Crab - Claws Snow 16 - 24,2023-05-08,6,53.38,320.28000000000003,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,296.259
+048f8dda-eddd-4fde-bd1e-a041a0e01f35,2023-05-06,Muffin - Mix - Mango Sour Cherry,2023-05-21,1,120.46,120.46,Store,Cash,"Expiration Discount:15.0%",15.0,102.39099999999999
+41ee2f6d-0c6d-4412-ad1d-45bb453458fa,2023-04-16,Soup - French Can Pea,2023-05-06,14,105.55,1477.7,Store,Visa,"Expiration Discount:10.0%;Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",8.5,1352.0955000000001
+4b974689-1019-4f1c-9010-850d1f21140a,2023-04-06,Pepper - Gypsy Pepper,2023-06-18,10,124.43000000000002,1244.3000000000002,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",8.5,1138.5345000000002
+c32e1c78-3fe2-4570-a2af-c8f98b3c258e,2023-05-08,Wooden Mop Handle,2023-07-16,17,221.12,3759.04,Store,Visa,"Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,3477.112
+398e463d-cb61-4b34-b439-f8ad8f0f5d4b,2023-04-10,Chilli Paste Ginger Garlic,2023-07-05,2,25.07,50.14,Store,Cash,"",0.0,50.14
+8b844663-0faf-4126-bf69-4db9ebff5f54,2023-03-24,Tomatoes - Roma,2023-05-11,14,65.78,920.9200000000001,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,819.6188000000001
+a40df020-2352-4e28-a4a6-56264971fb21,2023-04-18,Dried Peach,2023-04-29,15,218.55,3278.25,Store,Cash,"Expiration Discount:19.0%;Bulk Purchase Discount:10.0%",14.5,2802.90375
+b4b2abb5-6ba8-4311-a3aa-db0d777fd097,2023-05-06,Lumpfish Black,2023-05-15,5,196.47,982.35,App,Visa,"Expiration Discount:21.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",13.0,854.6445
+3486b973-1168-44a6-906c-775a57500300,2023-05-01,Lettuce Romaine Chopped,2023-07-09,13,141.92,1844.9599999999998,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,1734.2623999999996
+6e1c0c02-311a-411c-9e76-45c258fc3661,2023-03-14,Danishes - Mini Raspberry,2023-05-06,12,163.31,1959.72,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,1822.5395999999998
+f6515e8e-f4aa-4825-97ba-687cd1de11a3,2023-04-15,Crush - Cream Soda,2023-05-15,1,174.23,174.23,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,165.5185
+12af26d0-0786-463e-a9a4-13a0b4ce042a,2023-04-29,Cream - 35%,2023-05-11,10,105.22999999999999,1052.3,Store,Cash,"Expiration Discount:18.0%;Bulk Purchase Discount:7.0%",12.5,920.7624999999999
+b0503cd3-899a-4c31-9a34-17e56a663fe2,2023-04-08,Sauerkraut,2023-05-14,14,164.65,2305.1,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,2051.5389999999998
+f3bd784f-492d-4122-ae5a-08a91f8a5be8,2023-04-05,Cup Translucent 9 Oz,2023-04-20,15,173.74000000000004,2606.1000000000004,App,Visa,"Expiration Discount:15.0%;Bulk Purchase Discount:10.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",15.0,2215.1850000000004
+a8117d1b-567a-4697-a59d-797e63ee8c94,2023-04-08,Cheese - Parmesan Grated,2023-05-29,5,204.0,1020.0,Store,Visa,"Cheese/Wine Discount:10.0%;Visa Card Promotion:5.0%",7.5,943.5
+b181e866-8318-4ae2-9954-e66ed4f7d3fc,2023-04-22,Pastry - Mini French Pastries,2023-05-23,5,128.64,643.1999999999999,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,611.0399999999998
+cdf341c6-4cd2-41ed-91a0-61f7b08d9fff,2023-04-26,Cape Capensis - Fillet,2023-05-05,7,36.43,255.01,App,Visa,"Expiration Discount:21.0%;Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",15.5,215.48344999999998
+356fd0a5-37df-4891-91c1-0f3be5be49b4,2023-04-21,Ocean Spray - Ruby Red,2023-06-28,7,82.37,576.59,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,547.7605
+be4300af-8722-449e-a34d-08e47e596ed8,2023-04-23,Veal - Insides Grains,2023-07-04,9,194.02,1746.18,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,1658.871
+a3ee6412-4525-48bc-89c4-02fdf9922920,2023-04-03,Squid - Breaded,2023-04-25,2,131.02,262.04,Store,Cash,"Expiration Discount:8.0%",8.0,241.07680000000002
+e0c893b5-e898-4d27-9c8d-3cbb91b9a296,2023-04-01,Initation Crab Meat,2023-05-26,6,98.29,589.74,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,560.2529999999999
+5666e39a-c06b-433f-9d38-0890fef1ed13,2023-03-30,Pate - Liver,2023-05-31,17,92.53,1573.01,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,1337.0584999999999
+549e0fcf-67d3-4bed-830c-fac688f91848,2023-05-06,Pasta - Penne Rigate Dry,2023-05-16,16,221.46,3543.36,Store,Cash,"Expiration Discount:20.0%;Bulk Purchase Discount:10.0%",15.0,3011.856
+eb91b802-17f0-44d2-835f-a013bfb9c334,2023-04-07,Samosa - Veg,2023-06-19,13,233.69,3037.97,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2825.3120999999996
+3dcf220c-6594-487a-8d12-a32a62f3b271,2023-03-15,Trueblue - Blueberry 12x473ml,2023-05-11,9,72.06,648.54,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,599.8995
+39d3f415-0a74-43e4-9fe8-7058f8d60d4a,2023-04-17,Wine - German Riesling,2023-04-20,13,248.89,3235.5699999999997,App,Visa,"Expiration Discount:27.0%;Cheese/Wine Discount:5.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",21.0,2556.1003
+3f499f35-3a43-46ba-aba0-e28e39a6f05a,2023-04-07,Amarula Cream,2023-04-16,2,239.54,479.08,Store,Cash,"Expiration Discount:21.0%",21.0,378.4732
+344c4872-d1ef-430f-8556-73db5cce9278,2023-04-17,Pastrami,2023-05-17,3,35.53,106.59,Store,Cash,"",0.0,106.59
+1c432ffa-dda2-4142-9d47-553e5c2818a6,2023-04-10,Blue Curacao - Marie Brizard,2023-06-28,3,175.6,526.8,Store,Cash,"",0.0,526.8
+ce29efca-709d-4051-b3eb-e5481e79be3f,2023-03-20,Straws - Cocktale,2023-03-26,10,3.8899999999999997,38.9,Store,Visa,"Expiration Discount:24.0%;Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",15.5,32.8705
+ef7c64c1-06e0-4949-9564-feb8333aa05c,2023-04-12,Rabbit - Frozen,2023-04-22,13,149.54,1944.02,App,Visa,"Expiration Discount:20.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",17.5,1603.8165
+2321e24f-a8c2-47ff-855d-b956e8345f85,2023-04-25,Wine - Domaine Boyar Royal,2023-05-20,5,144.9,724.5,Store,Visa,"Expiration Discount:5.0%;Cheese/Wine Discount:5.0%;Visa Card Promotion:5.0%",5.0,688.275
+8b2c5f6a-5393-49cd-9449-606a807d1a58,2023-03-24,Tomatoes - Roma,2023-04-30,5,192.52,962.6,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,914.47
+e5546ea1-0c0e-48ee-9c3e-4e0e207170ea,2023-03-25,Pork - Loin Bone - In,2023-06-16,17,29.49,501.33,Store,Visa,"Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,463.73025
+4aa79664-976b-4072-86c6-e17e6431523d,2023-04-04,Beef - Ox Tongue Pickled,2023-04-09,15,203.57,3053.5499999999997,Store,Cash,"Expiration Discount:25.0%;Bulk Purchase Discount:10.0%",17.5,2519.1787499999996
+dbc95336-b728-46c7-a5d1-e0bfcf51be4d,2023-03-14,Cup - Translucent 7 Oz Clear,2023-06-02,3,42.68,128.04,Store,Cash,"",0.0,128.04
+88d56b72-7cf7-440b-ab48-91f054fd22e1,2023-04-12,Canadian Emmenthal,2023-04-29,11,35.42,389.62,Store,Visa,"Expiration Discount:13.0%;Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",10.0,350.658
+658e0f6f-7221-4383-a03f-c7d63ae02b02,2023-04-10,Propel Sport Drink,2023-07-09,10,221.83,2218.3,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2063.0190000000002
+0f4ea9c4-2238-48fd-9d9e-f1d4849e9de0,2023-04-26,Langers - Mango Nectar,2023-05-24,16,101.45,1623.2,App,Visa,"Expiration Discount:2.0%;Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,1379.72
+fe60b856-6ab1-4297-a8bb-0cafeceeceab,2023-04-07,Sour Puss Sour Apple,2023-05-24,1,236.57,236.57,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,224.74149999999997
+eec78d56-ead0-49a7-8422-519683719092,2023-04-11,Pomello,2023-06-04,13,60.39,785.07,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,730.1151
+cff52663-eecc-405c-bb65-38969477c491,2023-03-27,Cheese Cloth No 100,2023-05-25,17,186.2,3165.3999999999996,App,Visa,"Cheese/Wine Discount:10.0%;Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,2690.5899999999997
+26e30bf6-b675-4afe-b66f-666271e9039c,2023-03-20,Bread Base - Italian,2023-06-01,9,238.44,2145.96,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,1985.0130000000001
+4f74dcba-474f-424f-8982-99c44eda444c,2023-05-12,Soup - Campbells Lentil,2023-05-15,3,22.39,67.17,App,Visa,"Expiration Discount:27.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",16.0,56.4228
+51d95991-4817-4c42-a38e-4c3e73d923f9,2023-03-13,Pepper - Black Crushed,2023-04-30,13,102.36999999999999,1330.81,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,1237.6533
+8e0ad43d-347a-4559-b48c-3971e962fee3,2023-05-04,Salt - Seasoned,2023-05-08,6,24.64,147.84,Store,Cash,"Expiration Discount:26.0%;Bulk Purchase Discount:5.0%",15.5,124.9248
+2a64d486-038e-42ee-aac6-8597522556c7,2023-03-30,Cheese - La Sauvagine,2023-05-17,10,205.45999999999998,2054.6,Store,Cash,"Cheese/Wine Discount:10.0%;Bulk Purchase Discount:7.0%",8.5,1879.959
+d897d7d4-b05f-4372-9562-966e5fc8959f,2023-04-10,Wine - Pinot Noir Latour,2023-05-03,1,120.14,120.14,Store,Cash,"Expiration Discount:7.0%;Cheese/Wine Discount:5.0%",6.0,112.93159999999999
+e8ad5e90-2428-4447-8dc2-92ae83b02186,2023-03-14,Sprouts - Peppercress,2023-06-03,5,2.57,12.85,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,12.2075
+a7dbba78-d7c8-47de-9c4d-4ae4cf38e7b3,2023-03-26,Numi - Assorted Teas,2023-05-14,10,88.54,885.4000000000001,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,823.422
+7bcc3888-0ebb-446c-a30c-07bea26713d5,2023-03-29,Sambuca Cream,2023-05-05,12,75.83,909.96,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,809.8644
+0e770662-4c43-4ae8-9439-6c1f0c70ecee,2023-05-08,Lemonade - Mandarin 591 Ml,2023-06-16,15,137.07,2056.0499999999997,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,1850.4449999999997
+8816089e-e4b6-4293-933b-9b4cda63b0ff,2023-03-22,Melon - Watermelon Seedless,2023-06-19,10,41.32,413.2,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,384.27599999999995
+6362d20b-1a92-4aba-a762-617f78d62665,2023-04-24,Rice Paper,2023-05-15,12,59.57,714.84,App,Visa,"Expiration Discount:9.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",12.0,629.0592
+dc7b47d2-1eec-48df-8d08-87fd188f0274,2023-04-18,Fruit Salad Deluxe,2023-06-22,8,238.06,1904.48,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,1809.2559999999999
+158dfa84-8b5d-42b4-ae72-637e2eca92e5,2023-04-20,Mortadella,2023-06-11,6,230.36,1382.16,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,1278.498
+5b77dd2a-567b-48b7-ae16-c123ed54b820,2023-03-25,Sausage - Meat,2023-04-18,4,30.89,123.56,App,Visa,"Expiration Discount:6.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.5,116.7642
+7abee6ec-ae60-451c-8f06-8b1fecb34e4b,2023-05-01,Wine - Fino Tio Pepe Gonzalez,2023-06-01,9,131.13,1180.17,App,Visa,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,1091.6572500000002
+dfd023fd-9433-4e8b-bad6-ccd5a85aee8d,2023-03-18,Cheese - St. Andre,2023-06-16,7,167.82,1174.74,App,Visa,"Cheese/Wine Discount:10.0%;Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",10.0,1057.266
+2ce3ce96-7035-4520-9617-c9bfeced985b,2023-03-17,Oil - Coconut,2023-05-02,17,121.19,2060.23,Store,Visa,"Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,1905.7127500000001
+f2844002-db8a-4fac-814a-fae119d3e8a4,2023-04-08,Soup - Campbells Broccoli,2023-06-22,1,144.03,144.03,Store,Visa,"Visa Card Promotion:5.0%",5.0,136.8285
+15048fd8-0bea-4a1c-94a1-062d6011cdd2,2023-04-19,Cranberries - Dry,2023-07-09,3,139.58,418.74,Store,Visa,"Visa Card Promotion:5.0%",5.0,397.803
+1872b97c-2074-409f-8f39-ff294d935de2,2023-05-11,Ezy Change Mophandle,2023-06-09,8,129.63,1037.04,Store,Cash,"Expiration Discount:1.0%;Bulk Purchase Discount:5.0%",3.0,1005.9287999999999
+9dd891ca-e3aa-442f-9562-cfa194a1044d,2023-05-04,Gherkin,2023-07-08,8,37.53,300.24,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,277.72200000000004
+8a057ec5-87c1-46b5-a792-d50e9078bcd8,2023-04-17,Carbonated Water - Raspberry,2023-04-24,12,87.07,1044.84,Store,Cash,"Expiration Discount:23.0%;Bulk Purchase Discount:7.0%",15.0,888.1139999999999
+b6abf78d-4f73-4882-8feb-eb0ff0952ec5,2023-04-13,Cornstarch,2023-05-14,8,245.26,1962.08,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,1863.9759999999999
+07d587b1-dd7e-4edc-8fa7-7dc122e6f3fb,2023-04-19,Iced Tea Concentrate,2023-06-12,6,163.04,978.24,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,904.8720000000001
+c7499272-4b0a-480e-b255-a71a760a2000,2023-04-18,Pasta - Rotini Colour Dry,2023-04-24,4,20.13,80.52,Store,Cash,"Expiration Discount:24.0%",24.0,61.1952
+74e4d5f3-2b3a-4fce-9f31-fdb051b98b62,2023-04-14,Sour Puss Raspberry,2023-06-07,8,38.32,306.56,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,283.56800000000004
+724474cc-dfd3-4a7d-90c6-901dec6a5ff7,2023-04-24,Bread Country Roll,2023-05-19,2,75.17,150.34,Store,Cash,"Expiration Discount:5.0%",5.0,142.823
+5b28eafe-2630-4fd5-9e81-b6393b319c4c,2023-03-16,Apple - Fuji,2023-05-21,15,16.35,245.25000000000003,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",12.5,214.59375000000003
+a9fea7ce-ebcc-4346-99c3-ef815fae2fff,2023-04-27,Soup - Boston Clam Chowder,2023-06-07,6,148.72,892.3199999999999,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,847.704
+57338983-1eeb-41ba-8497-3b223c78f153,2023-04-14,Trout - Smoked,2023-07-08,4,143.96,575.84,Store,Cash,"",0.0,575.84
+03fb3b31-1996-4e05-8712-69994ae53698,2023-04-09,Beer - Camerons Cream Ale,2023-05-21,10,57.34000000000001,573.4000000000001,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",8.5,524.6610000000001
+e0a0f97b-7bde-48fa-be60-4f394ac7a890,2023-04-25,Juice - Orange 341 Ml,2023-06-14,17,178.63,3036.71,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,2733.039
+eed41fe1-33fe-4e68-89db-f07d1ed43ce5,2023-04-09,Pike - Frozen Fillet,2023-06-22,2,119.96,239.92,Store,Cash,"",0.0,239.92
+b850f1b5-4a88-4c49-93f2-91bfead17598,2023-05-02,Crab - Imitation Flakes,2023-05-05,1,206.65,206.65,Store,Cash,"Expiration Discount:27.0%",27.0,150.8545
+f65c4818-7b3c-4143-83ec-97ed55302613,2023-03-19,Bag Clear 10 Lb,2023-04-08,13,41.04,533.52,Store,Cash,"Expiration Discount:10.0%;Bulk Purchase Discount:7.0%",8.5,488.1708
+366b7cb2-3288-4bc8-9ee4-e0a6ffcead8b,2023-05-10,Wine - Mas Chicet Rose Vintage,2023-07-15,10,102.28,1022.8,Store,Cash,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:7.0%",6.0,961.4319999999999
+6f5cee97-5d5c-454b-9481-c922143c4f33,2023-05-04,Yoghurt Tubes,2023-06-10,17,150.47,2557.99,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,2174.2915
+0c4697dd-0f1c-4804-81ef-a449b7392161,2023-03-17,Milk - Skim,2023-04-19,13,75.7,984.1,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,915.213
+c270288f-dab1-4a4a-9c99-ce5e8195bfb2,2023-05-03,Toothpick Frilled,2023-05-06,2,249.77,499.54,App,Visa,"Expiration Discount:27.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",16.0,419.6136
+59fffe1c-937f-4510-9d53-f3321536baa5,2023-04-06,Table Cloth 120 Round White,2023-06-07,5,126.5,632.5,Store,Cash,"",0.0,632.5
+e0b5b4d7-52c4-4d1e-8300-0bd2b196385a,2023-04-09,Vinegar - Balsamic,2023-07-08,14,218.9,3064.6,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,2727.494
+21aae74f-6d98-49b8-bbad-7b9a75c7f62e,2023-03-24,Canadian Emmenthal,2023-05-10,15,226.6,3399.0,Store,Visa,"Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,3144.0750000000003
+a5779dd0-b933-434e-84ad-9b70e0e9ef08,2023-03-16,Cookies - Oreo 4 Pack,2023-05-26,2,167.88,335.76,Store,Cash,"",0.0,335.76
+66bd7d30-1b7b-49ae-8b25-96c54ca880b4,2023-05-10,Wine - Red Cooking,2023-06-08,12,117.64,1411.68,Store,Cash,"Expiration Discount:1.0%;Cheese/Wine Discount:5.0%;Bulk Purchase Discount:7.0%",6.0,1326.9792
+afd522ac-165a-4348-974e-f607f9e14a12,2023-04-09,Appetizer - Asian Shrimp Roll,2023-06-16,12,16.79,201.48,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,179.31719999999999
+ffd16e39-395a-4250-bb05-46de886c476e,2023-03-30,Rum - Cream Amarula,2023-06-13,1,134.62,134.62,Store,Visa,"Visa Card Promotion:5.0%",5.0,127.889
+f1f9f181-558a-4460-9778-f1bb4328db30,2023-03-15,Lettuce - Frisee,2023-03-21,9,55.73,501.57,Store,Cash,"Expiration Discount:24.0%;Bulk Purchase Discount:5.0%",14.5,428.84235
+1b44d000-d35f-4601-99c7-dbd8d391a1e0,2023-04-20,Broom And Broom Rack White,2023-07-19,6,104.25,625.5,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,594.225
+a669bbdb-30cc-4732-be25-d8188c98f234,2023-03-14,Squash - Acorn,2023-06-05,11,128.64,1415.04,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,1315.9871999999998
+037ed7df-09bf-4589-b5d2-7607408cf049,2023-04-25,Water - Spring Water 355 Ml,2023-07-16,14,221.91,3106.74,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2889.2681999999995
+be18bc22-085d-4fd7-8964-d1c1063ab5cc,2023-04-02,Beans - Black Bean Dry,2023-05-19,17,27.22,462.74,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,416.466
+b7ac47d0-85af-4754-acec-aee344df5980,2023-04-26,Gatorade - Orange,2023-06-09,16,89.79,1436.64,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,1292.976
+79a6a7d9-50dc-47d9-b470-e250eb0d0ae7,2023-04-13,Beer - Labatt Blue,2023-05-13,6,39.62,237.71999999999997,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,225.83399999999997
+40e4613c-4800-4d72-8fe3-bacaeb7f66ea,2023-05-08,Soup - Campbells Beef Strogonoff,2023-07-19,9,198.75,1788.75,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,1699.3125
+b025c79a-2a3d-4dd6-af52-b04d1f00f622,2023-04-21,Pears - Fiorelle,2023-05-08,12,214.24,2570.88,Store,Cash,"Expiration Discount:13.0%;Bulk Purchase Discount:7.0%",10.0,2313.7920000000004
+db200578-c1fc-413c-af47-c37b2cea3002,2023-05-03,Pumpkin - Seed,2023-05-20,12,207.73,2492.7599999999998,Store,Cash,"Expiration Discount:13.0%;Bulk Purchase Discount:7.0%",10.0,2243.484
+b73e19d7-a137-4fc4-8b9e-14476e726141,2023-04-27,Cookie Dough - Peanut Butter,2023-05-20,13,209.91,2728.83,App,Visa,"Expiration Discount:7.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,2428.6587
+72c64338-94c8-49a0-957c-7af1a8165f56,2023-04-03,Cheese - Le Cheve Noir,2023-06-01,15,30.15,452.25,App,Visa,"Cheese/Wine Discount:10.0%;Bulk Purchase Discount:10.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",12.5,395.71875
+6da1d0a7-2884-4cca-b06a-8c47914a7457,2023-03-17,Seaweed Green Sheets,2023-06-07,5,92.83,464.15,Store,Visa,"Visa Card Promotion:5.0%",5.0,440.94249999999994
+877da8bd-3284-46b4-8da0-10c3bc6ff032,2023-05-01,Truffle Paste,2023-05-16,13,56.91,739.8299999999999,App,Visa,"Expiration Discount:15.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",15.0,628.8554999999999
+529a47a3-bdb7-464e-b13d-f0b708f8009c,2023-04-24,Mcguinness - Blue Curacao,2023-06-08,17,101.32,1722.4399999999998,Store,Visa,"Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,1593.2569999999998
+9ca0166f-fcee-4c42-812b-b9776be64462,2023-03-21,Sugar - White Packet,2023-06-18,7,74.82000000000001,523.74,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,497.553
+3122985d-2c07-407e-8e83-5c58407445f8,2023-03-20,Mushroom - Porcini Frozen,2023-04-15,1,168.44,168.44,Store,Cash,"Expiration Discount:4.0%",4.0,161.70239999999998
+20dac3f8-a2ac-4c01-bde9-48f2e6211126,2023-04-09,Bread - Multigrain Loaf,2023-06-17,1,26.95,26.95,Store,Cash,"",0.0,26.95
+76fce381-5cbd-4b90-88bf-0b4cfbdcd24a,2023-04-11,Wine - Magnotta White,2023-05-25,9,165.52,1489.68,App,Visa,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,1377.9540000000002
+edf7cc5f-ed92-44bf-87e1-cd2351d00b2e,2023-05-04,Southern Comfort,2023-05-19,12,209.5,2514.0,Store,Cash,"Expiration Discount:15.0%;Bulk Purchase Discount:7.0%",11.0,2237.46
+0638b246-c2e5-4254-a2a4-2e009f7e5c97,2023-04-02,Bread Base - Italian,2023-04-30,12,215.82000000000002,2589.84,Store,Cash,"Expiration Discount:2.0%;Bulk Purchase Discount:7.0%",4.5,2473.2972
+1a5f6bad-ce5a-4a47-a10d-4d302c57a207,2023-03-19,Wine - Ruffino Chianti,2023-04-23,12,249.0,2988.0,Store,Cash,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:7.0%",6.0,2808.72
+c42a0122-4b1c-47d8-90fa-ac5f78cd7c91,2023-03-21,Rice - 7 Grain Blend,2023-05-25,3,92.48,277.44,Store,Visa,"Visa Card Promotion:5.0%",5.0,263.568
+b21479ec-a946-468b-9581-a27a90cc05de,2023-05-09,Split Peas - Yellow Dry,2023-06-24,5,45.82,229.1,Store,Cash,"",0.0,229.1
+b0164414-ab0f-4e53-9386-e6c234c0cb81,2023-04-27,Oil - Olive Bertolli,2023-07-10,8,27.11,216.88,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,206.03599999999997
+2d282498-ce2e-4f18-b72f-c73ced6f5286,2023-03-26,Lamb - Whole Head Off,2023-04-01,16,43.78,700.48,Store,Cash,"Expiration Discount:24.0%;Bulk Purchase Discount:10.0%",17.0,581.3984
+720efdbc-5fe5-4184-9157-eae4719da32d,2023-03-29,Basil - Dry Rubbed,2023-06-22,14,62.45,874.3000000000001,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,813.099
+3080ec05-9493-4d09-b604-ec3cf093b77c,2023-05-01,Kiwi Gold Zespri,2023-07-01,4,8.94,35.76,Store,Cash,"",0.0,35.76
+7d19b1e3-1b7d-4a6d-b1fd-6b2f8ad8ad62,2023-04-08,Cheese - Marble,2023-04-30,1,123.76,123.76,App,Visa,"Expiration Discount:8.0%;Cheese/Wine Discount:10.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",9.0,112.62160000000002
+61482c96-d0d0-4702-b019-95de8c10418e,2023-03-21,Maple Syrup,2023-05-21,10,94.95,949.5,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,892.53
+167c3d08-9a0b-43b6-bc42-ea9fc234025d,2023-04-21,Mushroom - Shitake Fresh,2023-07-09,8,142.17,1137.36,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,1080.492
+16a066b7-2a87-425a-b9e9-8faa07546100,2023-04-27,Wine - Tio Pepe Sherry Fino,2023-06-06,8,200.62,1604.96,Store,Cash,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:5.0%",5.0,1524.712
+cc7d2b29-727a-4d98-b8da-1f9786e001b8,2023-03-19,Bread - Italian Roll With Herbs,2023-04-14,4,89.82,359.28,Store,Cash,"Expiration Discount:4.0%",4.0,344.9088
+b7f1a597-c536-47ca-89f4-7d8c7ca982d7,2023-03-16,Sausage - Meat,2023-05-28,3,78.98,236.94,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,225.093
+6052fecb-e7d7-4eb3-9815-d921404677d2,2023-03-21,Cheese - Stilton,2023-04-14,10,151.5,1515.0,Store,Cash,"Expiration Discount:6.0%;Cheese/Wine Discount:10.0%;Bulk Purchase Discount:7.0%",8.5,1386.2250000000001
+152b8918-9cc7-406c-a76e-59242e5d3a37,2023-03-19,Coconut - Whole,2023-04-28,5,82.22,411.1,Store,Visa,"Visa Card Promotion:5.0%",5.0,390.545
+08f57314-2436-4e6d-b251-2d776c209870,2023-05-01,Sauce Bbq Smokey,2023-05-04,8,214.28,1714.24,Store,Cash,"Expiration Discount:27.0%;Bulk Purchase Discount:5.0%",16.0,1439.9615999999999
+40766522-c277-4300-8a90-6ae8694e9f14,2023-03-21,Soup - Campbells Beef Noodle,2023-04-13,4,37.25,149.0,Store,Cash,"Expiration Discount:7.0%",7.0,138.57
+be97bb81-fb19-4ef0-8425-1ecf7ff52413,2023-03-30,Pop - Club Soda Can,2023-05-22,7,44.56,311.92,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,296.324
+3a97290d-6716-4832-b511-ee5d78083136,2023-05-05,Vinegar - Balsamic,2023-06-22,3,69.39,208.17000000000002,Store,Visa,"Visa Card Promotion:5.0%",5.0,197.7615
+f16956e8-9d51-4295-ba6e-b1862e9d56d4,2023-05-01,Soup - Verve - Chipotle Chicken,2023-05-27,12,110.58999999999999,1327.08,Store,Cash,"Expiration Discount:4.0%;Bulk Purchase Discount:7.0%",5.5,1254.0905999999998
+9a1eaad9-8338-4bc8-8b3f-ed0cb2d408f1,2023-05-01,Wasabi Powder,2023-07-15,1,150.94,150.94,Store,Visa,"Visa Card Promotion:5.0%",5.0,143.393
+8df393db-0d20-4173-a7ab-2ec78c3e893e,2023-04-20,Beans - Turtle Black Dry,2023-06-18,16,30.29,484.64,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,436.176
+d36c1631-3805-48f8-b30d-10cd2b42de09,2023-04-25,Pastry - Mini French Pastries,2023-07-04,1,224.65,224.65,Store,Cash,"",0.0,224.65
+126fdafc-e43b-4a07-acba-9d448bad4239,2023-04-22,Muffin Mix - Oatmeal,2023-05-22,4,149.11,596.44,Store,Cash,"",0.0,596.44
+f3d2bebd-ffb6-469e-ad11-e27b99910306,2023-04-02,Pasta - Cheese / Spinach Bauletti,2023-06-09,10,8.58,85.8,App,Visa,"Cheese/Wine Discount:10.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",10.0,77.22
+2463232e-687b-4899-9510-1ebd69fe590d,2023-04-24,7up Diet 355 Ml,2023-05-17,6,9.96,59.760000000000005,Store,Cash,"Expiration Discount:7.0%;Bulk Purchase Discount:5.0%",6.0,56.1744
+0dd6f2bd-eb2f-4c2f-be02-b6f2213b68e9,2023-05-06,Soup Campbells Turkey Veg.,2023-06-23,5,59.82000000000001,299.1,Store,Cash,"",0.0,299.1
+25c79bc8-1a6b-4629-83ca-318ac2e0333d,2023-03-23,Muffin - Zero Transfat,2023-04-20,11,66.71,733.81,App,Visa,"Expiration Discount:2.0%;March 23 Special:50.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",32.5,495.32175
+8732cb6b-6fce-4e8f-aee7-9e2dd41e31b4,2023-04-27,Rum - White Gg White,2023-07-06,17,230.88,3924.96,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,3532.464
+dd24fef5-11c5-4b34-8641-a454df5e0122,2023-04-02,Arizona - Green Tea,2023-06-05,16,229.55,3672.8,Store,Visa,"Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,3397.34
+bb69bf46-6111-41d8-965d-0708c083d789,2023-04-05,Tart Shells - Sweet 4,2023-05-06,3,67.73,203.19,Store,Cash,"",0.0,203.19
+816234de-79e4-4d04-b4f7-92517cf37cba,2023-05-02,Bread - Malt,2023-05-15,14,144.88,2028.32,Store,Cash,"Expiration Discount:17.0%;Bulk Purchase Discount:7.0%",12.0,1784.9216
+5e75e684-2985-42f7-8269-950a8a35e813,2023-04-03,Milk - Buttermilk,2023-04-27,4,166.99,667.96,Store,Cash,"Expiration Discount:6.0%",6.0,627.8824
+2d5bd46c-676c-4a0d-b95d-ed9ee9b2f78b,2023-04-03,Brandy - Orange Mc Guiness,2023-05-03,7,130.18,911.26,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,842.9155000000001
+cab2fd24-0e48-4680-a802-f0cbba3499f4,2023-04-11,Wheat - Soft Kernal Of Wheat,2023-06-04,5,124.96,624.8,Store,Cash,"",0.0,624.8
+d9f5dc27-60f8-4deb-85bb-7c60748aaa20,2023-04-04,Snails - Large Canned,2023-04-25,14,24.1,337.40000000000003,App,Visa,"Expiration Discount:9.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",12.0,296.91200000000003
+427e07d0-4662-4f04-84be-c7614c6987d6,2023-04-11,Garbag Bags - Black,2023-05-20,12,77.24,926.8799999999999,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,871.2671999999999
+bf1d60ce-de9c-4586-b642-8735ccfc3ff8,2023-03-29,Persimmons,2023-05-09,5,136.79,683.9499999999999,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,649.7524999999999
+df481f9a-2a84-4609-9c2b-3adb927db1ae,2023-03-14,Salmon Atl.whole 8 - 10 Lb,2023-04-20,8,156.61,1252.88,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,1158.9140000000002
+4a5b2b2f-b7a8-4a6c-804d-76ba51544695,2023-03-30,Soup - Campbells Mushroom,2023-04-27,7,109.53,766.71,App,Visa,"Expiration Discount:2.0%;Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,709.20675
+de6c6e48-44c2-4163-a415-1450489fa4c6,2023-04-29,Soup - Campbells Cream Of,2023-05-21,4,112.28,449.12,Store,Cash,"Expiration Discount:8.0%",8.0,413.1904
+7aca9971-9c9f-4010-a2e0-81abf4f40ebb,2023-04-10,Stainless Steel Cleaner Vision,2023-07-08,16,189.18,3026.88,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,2724.192
+1b35c3ff-b788-41a9-ac1d-5fde41b3147e,2023-05-01,Juice - Ocean Spray Cranberry,2023-05-27,7,166.35,1164.45,Store,Cash,"Expiration Discount:4.0%;Bulk Purchase Discount:5.0%",4.5,1112.04975
+cfd03243-8934-48bf-b814-3fce4ffbe7e2,2023-03-31,Beets,2023-04-29,16,147.22,2355.52,App,Visa,"Expiration Discount:1.0%;Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,2002.192
+e085bae4-8942-438c-9d77-cf9e84daaded,2023-04-04,Fish - Base Bouillion,2023-05-10,4,118.02,472.08,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,448.47599999999994
+e17a4fb9-4726-4bac-b70e-d699172c9497,2023-03-26,Bread - Crumbs Bulk,2023-06-02,13,43.03,559.39,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,497.8571
+c8394e23-9c40-4536-9f52-d336f85d28f6,2023-03-16,Sauce Bbq Smokey,2023-03-21,12,10.45,125.39999999999999,Store,Visa,"Expiration Discount:25.0%;Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",16.0,105.33599999999998
+98853557-e316-4382-8cac-d7a81e7286fe,2023-03-17,Basil - Pesto Sauce,2023-05-09,2,68.81,137.62,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,130.739
+13e7106f-04b1-41f2-8e7a-54eb52031c7f,2023-04-17,Macaroons - Two Bite Choc,2023-04-19,4,16.93,67.72,App,Visa,"Expiration Discount:28.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",16.5,56.5462
+9963823c-e705-4b7f-addc-36155cd1f7dc,2023-04-22,Plaintain,2023-07-07,11,238.69000000000003,2625.59,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,2468.0546
+88933c16-8fd6-4e32-9799-891775f9702a,2023-04-04,Cookies Almond Hazelnut,2023-06-12,5,38.24,191.20000000000002,Store,Visa,"Visa Card Promotion:5.0%",5.0,181.64000000000001
+c6ad0c61-70c1-4cbe-a3db-b87dc2267e75,2023-04-27,Pear - Asian,2023-07-20,14,243.82,3413.48,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,3037.9972000000002
+696c6f29-5db5-4a91-80c7-37faa4830978,2023-04-23,Long Island Ice Tea,2023-04-30,3,104.64,313.92,Store,Visa,"Expiration Discount:23.0%;Visa Card Promotion:5.0%",14.0,269.9712
+76220d1c-61c4-4fb9-b63f-e52cf82e941f,2023-03-14,Cheese - St. Paulin,2023-05-22,5,8.91,44.55,Store,Cash,"Cheese/Wine Discount:10.0%",10.0,40.095
+5769be7b-6eb3-4a19-ba23-c1de9635d5c9,2023-04-10,Plate Pie Foil,2023-05-13,13,214.06,2782.78,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,2615.8132
+67c8ad56-6b25-4657-be6c-04dfb8741da8,2023-03-22,Scallops - 20/30,2023-05-24,14,202.69,2837.66,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2639.0237999999995
+25305f15-cd3a-43b1-bd42-684b63e78d6c,2023-04-16,Lettuce - Spring Mix,2023-06-24,15,156.02,2340.3,Store,Visa,"Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,2164.7775
+c99c34d3-1bf3-4376-aad6-813af62aa16a,2023-03-27,Rosemary - Dry,2023-04-06,11,108.69,1195.59,App,Visa,"Expiration Discount:20.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",17.5,986.3617499999999
+7653e8d8-2f8b-4c76-85bd-0299243e8a18,2023-04-13,Chicken Breast Halal,2023-04-28,1,178.75,178.75,Store,Cash,"Expiration Discount:15.0%",15.0,151.9375
+07fe78f3-576a-4374-b07e-ac2aa66afbd0,2023-04-01,Nescafe - Frothy French Vanilla,2023-05-05,12,39.98,479.76,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,446.17679999999996
+5b26d809-35b7-46af-829e-08f80cbad0c6,2023-03-18,Bread - Raisin Walnut Oval,2023-03-30,5,137.17,685.8499999999999,Store,Cash,"Expiration Discount:18.0%",18.0,562.3969999999999
+0b53da64-6b85-4ddb-993f-3d95c22b0307,2023-04-13,Kahlua,2023-04-24,7,46.35,324.45,App,Visa,"Expiration Discount:19.0%;Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",14.5,277.40475
+8fcebc7d-e325-4f16-9e31-d443fa87d77b,2023-04-07,Bread - Roll Soft White Round,2023-04-09,7,196.49,1375.43,Store,Cash,"Expiration Discount:28.0%;Bulk Purchase Discount:5.0%",16.5,1148.48405
+bc8703d8-542a-4bf9-8600-a38ac3f895e5,2023-04-14,7up Diet 355 Ml,2023-06-20,15,123.85,1857.75,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,1671.9750000000001
+e40fcd90-e196-4456-813a-177da8b3326e,2023-03-21,Chinese Foods - Plain Fried Rice,2023-03-30,16,227.83,3645.28,Store,Cash,"Expiration Discount:21.0%;Bulk Purchase Discount:10.0%",15.5,3080.2616000000003
+7c4e5178-ea71-4ad6-bd8c-1ab28acc3c62,2023-04-10,Chicken - Whole,2023-06-20,15,2.58,38.7,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,34.830000000000005
+219bc953-78f2-4551-b878-fd535d85f18d,2023-04-17,Goldschalger,2023-06-08,1,210.04,210.04,Store,Cash,"",0.0,210.04
+6a9904a3-4259-43c8-b9c5-9f68f1bcb323,2023-04-11,External Supplier,2023-05-31,5,142.72,713.6,Store,Cash,"",0.0,713.6
+93ff4114-cd45-41b1-8a0d-48ff5bf7be22,2023-04-02,Wine - Coteaux Du Tricastin Ac,2023-06-04,14,150.4,2105.6,App,Visa,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,1873.984
+ae7f0776-78cd-4f50-8d7c-52914e300dce,2023-03-19,Vol Au Vents,2023-05-26,1,182.95,182.95,Store,Cash,"",0.0,182.95
+628fbe34-ea25-4b1b-b70b-6b415dc9c5f1,2023-04-30,Mushrooms - Honey,2023-05-18,15,129.55,1943.2500000000002,Store,Cash,"Expiration Discount:12.0%;Bulk Purchase Discount:10.0%",11.0,1729.4925000000003
+b32bb21a-9a9d-460c-a712-3301cd25d253,2023-05-08,Tomatoes Tear Drop Yellow,2023-07-15,12,157.22,1886.6399999999999,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,1773.4415999999999
+bd8f0e40-2b57-4367-8852-8f5a3c2a9a99,2023-04-24,Nut - Pecan Halves,2023-06-18,14,153.77,2152.78,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2002.0854000000002
+53444ce9-9308-4fa8-84f5-a5b5b366029b,2023-03-25,Yoplait Drink,2023-04-15,4,104.59,418.36,App,Visa,"Expiration Discount:9.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",7.0,389.0748
+db1687a1-6671-45b6-9991-aafa9eae3ad8,2023-04-01,Wine - Magnotta - Cab Franc,2023-06-16,1,130.59,130.59,App,Visa,"Cheese/Wine Discount:5.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,124.06049999999999
+4c7fd8b8-7e54-4d47-93be-364deea7d784,2023-04-18,Goat - Whole Cut,2023-05-03,1,151.8,151.8,Store,Cash,"Expiration Discount:15.0%",15.0,129.03
+36546fc1-24e0-4537-84d3-4cc97e30c570,2023-04-01,Oil - Pumpkinseed,2023-06-09,1,237.3,237.3,Store,Cash,"",0.0,237.3
+276d0471-3468-4c0e-bbc6-7b9be6176e5f,2023-04-13,Cookie Trail Mix,2023-05-19,14,172.87999999999997,2420.3199999999997,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2250.8976
+88786c4a-d8c2-44b5-b53c-505f6bbd19c6,2023-04-25,Veal - Bones,2023-05-20,5,138.77,693.85,App,Visa,"Expiration Discount:5.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,659.1575
+fc562029-2544-433e-9cbe-309c66464a7b,2023-05-01,Goulash Seasoning,2023-06-15,15,164.89,2473.35,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",12.5,2164.18125
+ed906620-e1ff-4541-844e-3cd0c9cbe7d9,2023-04-27,Buffalo - Striploin,2023-07-24,2,101.45,202.9,Store,Visa,"Visa Card Promotion:5.0%",5.0,192.755
+3bf97e71-becc-4819-bc68-020f6c9c9c57,2023-04-29,Juice - Lagoon Mango,2023-06-30,13,234.01000000000002,3042.13,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2829.1809
+583bc5ad-82a2-4191-af17-74aefbd64917,2023-03-30,Milk - Chocolate 250 Ml,2023-04-05,12,133.88,1606.56,App,Visa,"Expiration Discount:24.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",19.5,1293.2807999999998
+bcd0aced-6db1-4cbc-8099-f309663b3f15,2023-05-10,Flower - Leather Leaf Fern,2023-07-19,10,245.38000000000002,2453.8,Store,Visa,"Bulk Purchase Discount:7.0%;Visa Card Promotion:5.0%",6.0,2306.572
+195e654d-e237-44b0-b389-d8c27bda21a2,2023-04-04,Fish - Soup Base Bouillon,2023-04-28,9,95.57,860.1299999999999,App,Visa,"Expiration Discount:6.0%;Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",8.0,791.3195999999999
+38ddd520-f526-4e9a-af2c-5277c1e8300a,2023-05-12,Silicone Paper 16.5x24,2023-07-08,11,145.99,1605.89,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,1429.2421000000002
+5f34b243-c107-4658-88d8-ae4450e5ebc8,2023-05-12,Red Currants,2023-07-11,17,208.22,3539.74,Store,Visa,"Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,3274.2595
+e9129999-50d0-429e-ba65-7078d62d71cd,2023-05-01,Lamb - Shanks,2023-05-14,14,205.98,2883.72,App,Visa,"Expiration Discount:17.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",16.0,2422.3248
+6ebee89f-3574-4ac8-ab89-483b5b918c35,2023-03-17,Coriander - Seed,2023-04-16,15,60.88,913.2,Store,Visa,"Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,844.71
+8746ef5d-3b25-4f5a-9494-a44c42e93bcb,2023-03-24,Pepper - Sorrano,2023-05-28,7,198.12999999999997,1386.9099999999999,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,1317.5644999999997
+7ca5a469-ee02-436c-9a4c-1168e931fcf2,2023-03-30,Ecolab - Hobart Upr Prewash Arm,2023-05-22,16,11.52,184.32,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,165.888
+3bef62e3-915e-4253-9a17-e886fa9efe9c,2023-04-17,Oil - Coconut,2023-06-11,13,227.47,2957.11,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,2750.1123
+57f9e2f1-b045-45a0-a4dd-4f6ef670c69e,2023-04-14,Juice - Orange 1.89l,2023-04-17,16,246.62,3945.92,Store,Visa,"Expiration Discount:27.0%;Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",18.5,3215.9248
+c102bb3b-5790-40c5-9255-c13f2dbe2762,2023-04-03,Fennel - Seeds,2023-04-12,10,25.65,256.5,Store,Cash,"Expiration Discount:21.0%;Bulk Purchase Discount:7.0%",14.0,220.59
+f8e5bde2-4084-4247-85f4-7794f172b18e,2023-03-22,Lotus Rootlets - Canned,2023-05-15,17,11.33,192.61,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,173.34900000000002
+92eeb5b7-96fb-4cce-bc90-9d96a8bdddca,2023-03-21,Chocolate - Chips Compound,2023-05-13,9,2.21,19.89,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,18.8955
+15cb8779-39d0-4284-8f4d-ed3cba0fa08d,2023-05-08,Bagel - Everything,2023-07-14,14,14.0,196.0,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,182.28
+33395d9a-1332-4c58-ab16-f6dcf68c4ea5,2023-03-23,Beef - Sushi Flat Iron Steak,2023-05-08,3,165.0,495.0,Store,Visa,"March 23 Special:50.0%;Visa Card Promotion:5.0%",27.5,358.875
+cb952446-922f-4e6d-ba51-46f2ad45fc65,2023-04-08,Cheese - Colby,2023-05-20,2,178.87,357.74,App,Visa,"Cheese/Wine Discount:10.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",7.5,330.90950000000004
+ec6d57d4-fd35-4e26-9b1e-8d4d96b536ed,2023-03-27,Bagel - Sesame Seed Presliced,2023-04-23,14,56.25,787.5,Store,Cash,"Expiration Discount:3.0%;Bulk Purchase Discount:7.0%",5.0,748.125
+2947eb1a-928b-4566-8c10-4c38a9bea414,2023-04-03,Tomatoes - Cherry,2023-04-16,15,149.69,2245.35,App,Visa,"Expiration Discount:17.0%;Bulk Purchase Discount:10.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",16.0,1886.0939999999998
+cd568044-67c1-4db4-b661-fb4f02061052,2023-03-26,Pastry - Banana Muffin - Mini,2023-05-19,4,113.46,453.84,Store,Visa,"Visa Card Promotion:5.0%",5.0,431.14799999999997
+2cb7637e-dc22-42da-b514-ef4e7ab436d7,2023-03-23,Cheese - Cream Cheese,2023-06-10,9,76.68,690.1200000000001,Store,Cash,"Cheese/Wine Discount:10.0%;March 23 Special:50.0%;Bulk Purchase Discount:5.0%",30.0,483.08400000000006
+8c4f573c-ab2a-4760-9cdb-c44181bb75f5,2023-04-18,Pork Casing,2023-06-29,2,18.75,37.5,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,35.625
+99f2d2c4-a38a-44dc-94ac-8832102bee12,2023-04-05,Wine - Puligny Montrachet A.,2023-06-08,2,99.6,199.2,App,Visa,"Cheese/Wine Discount:5.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,189.23999999999998
+766744dd-5884-45b4-aa86-5c5bdf4c5ae2,2023-04-29,Soup - Clam Chowder Dry Mix,2023-05-14,17,93.42,1588.14,App,Visa,"Expiration Discount:15.0%;Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",17.5,1310.2155
+409747c6-b29b-4e50-a2ae-8e82a83c5e88,2023-03-20,Pork - Smoked Kassler,2023-05-28,15,3.52,52.8,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,47.519999999999996
+82d81967-2027-4b65-b0db-c385a3f906a8,2023-04-23,Cardamon Ground,2023-07-09,3,117.79,353.37,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,335.7015
+bb98b951-2a6e-4767-b73a-bb04f59246cc,2023-05-12,Island Oasis - Lemonade,2023-05-16,7,30.26,211.82000000000002,App,Visa,"Expiration Discount:26.0%;Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",18.0,173.69240000000002
+fffc90f0-d68b-48f0-a4cd-7034e556f021,2023-04-21,Coffee Beans - Chocolate,2023-04-26,9,19.46,175.14000000000001,App,Visa,"Expiration Discount:25.0%;Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",17.5,144.4905
+d0e99e40-af11-4499-81d4-9822ab6f8ab8,2023-03-21,Glucose,2023-06-04,11,60.92,670.12,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,596.4068
+265f0023-b956-4783-985c-226b56c808d6,2023-04-20,Beef - Tongue Cooked,2023-05-13,15,13.78,206.7,Store,Visa,"Expiration Discount:7.0%;Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",8.5,189.13049999999998
+1551929a-028d-43ee-a111-658657129e57,2023-03-25,Table Cloth 62x120 Colour,2023-05-15,17,26.57,451.69,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,383.93649999999997
+524fe9e5-3d79-48fe-81e4-295a284f1e7b,2023-03-31,Gatorade - Orange,2023-05-15,4,154.15,616.6,Store,Cash,"",0.0,616.6
+071f76a1-5274-46db-8819-e6344176ddef,2023-05-07,Pasta - Lasagna Dry,2023-07-31,7,80.81000000000002,565.6700000000001,Store,Cash,"Bulk Purchase Discount:5.0%",5.0,537.3865000000001
+317a5188-1b42-4a52-8a0a-e53dd7fac74b,2023-04-19,Soup - Cream Of Broccoli,2023-05-03,15,162.25999999999996,2433.8999999999996,Store,Visa,"Expiration Discount:16.0%;Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",13.0,2117.4929999999995
+464caae2-2df3-442d-990f-385fda9a633d,2023-04-06,Sambuca - Ramazzotti,2023-07-05,11,191.82,2110.02,App,Visa,"Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,1877.9178
+82c03d14-c316-41a0-bb5c-9bed98c1e55d,2023-04-28,Wine - Kwv Chenin Blanc South,2023-06-16,10,8.87,88.69999999999999,App,Visa,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",8.5,81.1605
+2fcdd8f1-9d57-4051-a817-ca7f1c72a4ba,2023-04-06,Wine - Manischewitz Concord,2023-04-16,1,5.39,5.39,App,Visa,"Expiration Discount:20.0%;Cheese/Wine Discount:5.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",12.5,4.71625
+90f2adc1-90d7-48c3-8785-1acc98a9ddcb,2023-05-02,Cookie Dough - Double,2023-06-18,11,169.19,1861.09,Store,Cash,"Bulk Purchase Discount:7.0%",7.0,1730.8136999999997
+2bf13c51-ea4f-454b-9980-04edb7dd57b9,2023-05-03,Beef - Bresaola,2023-05-09,6,91.29,547.74,App,Visa,"Expiration Discount:24.0%;Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",17.0,454.6242
+80872030-9319-4988-b52e-fac8a101a9e3,2023-04-13,Smoked Paprika,2023-06-22,1,202.23,202.23,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,192.11849999999998
+7bc0fba0-24e5-47ec-99a3-ff8c44bf34a0,2023-04-22,Puree - Blackcurrant,2023-07-07,15,10.48,157.20000000000002,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,141.48000000000002
+378de775-1820-4b93-97df-0cdda25bff2d,2023-05-03,Pepper - Chillies Crushed,2023-06-19,17,72.58,1233.86,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,1048.781
+1582d3e3-9ba1-4d77-9ef9-730f3fcb9b60,2023-04-22,Tea - English Breakfast,2023-06-21,16,6.63,106.08,Store,Visa,"Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,98.12400000000001
+ecd3d964-35a7-4b53-be88-4ae30bff7384,2023-04-23,Mustard - Individual Pkg,2023-07-04,7,198.68,1390.76,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,1286.453
+76a62c02-f559-4a40-b5a8-f7e3906f7ce3,2023-04-01,Cheese - Goat,2023-05-25,5,213.05,1065.25,Store,Cash,"Cheese/Wine Discount:10.0%",10.0,958.725
+05185e63-f940-4356-b315-97298dfa486e,2023-04-25,Swiss Chard,2023-05-25,1,242.97,242.97,Store,Cash,"",0.0,242.97
+6cd01050-e82a-4caf-b477-bcbebc17611c,2023-03-26,Juice - Apple 284ml,2023-04-22,17,30.02,510.34,Store,Cash,"Expiration Discount:3.0%;Bulk Purchase Discount:10.0%",6.5,477.16790000000003
+55b03c04-3f88-4e3c-82d4-5273d2e76df4,2023-04-08,Dip - Tapenade,2023-05-15,15,188.33,2824.9500000000003,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",12.5,2471.83125
+5de1a6e5-097f-45e9-aa48-4490bf72ee3c,2023-04-18,Horseradish - Prepared,2023-05-06,6,164.86,989.1600000000001,App,Visa,"Expiration Discount:12.0%;Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",11.0,880.3524000000001
+80e5ab22-0bdb-4b7d-95ef-e2ed5043bf23,2023-04-27,Bar Mix - Pina Colada 355 Ml,2023-07-12,15,86.4,1296.0,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",12.5,1134.0
+12e87594-c050-4d47-ae41-34c7753589a7,2023-03-22,Wine - White Riesling Semi - Dry,2023-06-08,1,102.32,102.32,App,Visa,"Cheese/Wine Discount:5.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,97.204
+c79f26f9-b95f-40b4-8106-5411773ee402,2023-03-25,Chicken - Leg / Back Attach,2023-06-20,7,38.089999999999996,266.63,Store,Visa,"Bulk Purchase Discount:5.0%;Visa Card Promotion:5.0%",5.0,253.2985
+8b03c7d6-a72b-4fbf-bc3d-c5b30b59f24e,2023-05-07,Radish - Pickled,2023-06-01,16,243.4,3894.4,Store,Visa,"Expiration Discount:5.0%;Bulk Purchase Discount:10.0%;Visa Card Promotion:5.0%",7.5,3602.32
+ab7ddf78-4069-4b17-a406-e796658a9a11,2023-03-23,Mushroom - Chantrelle Fresh,2023-04-06,5,19.92,99.60000000000001,App,Visa,"Expiration Discount:16.0%;March 23 Special:50.0%;App Usage Promotion:5.0%;Visa Card Promotion:5.0%",33.0,66.732
+01540ddc-2c52-4b46-8af7-a345a7181244,2023-04-11,Chicken - White Meat With Tender,2023-07-01,9,69.71,627.39,App,Visa,"Bulk Purchase Discount:5.0%;App Usage Promotion:10.0%;Visa Card Promotion:5.0%",7.5,580.33575
+c828f35a-2804-4a85-8bcb-3e0f9e1d48a2,2023-04-21,Shrimp - Black Tiger 13/15,2023-07-10,17,101.43,1724.3100000000002,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,1551.8790000000001
+14a1a9e8-e6f6-4a14-ba41-c9d46d925090,2023-04-14,Food Colouring - Pink,2023-05-27,4,91.88,367.52,Store,Cash,"",0.0,367.52
+5c0ce1ed-1fde-4991-a591-7eae6afb59fd,2023-04-27,Chicken - Breast 5 - 7 Oz,2023-06-15,15,192.27,2884.05,Store,Cash,"Bulk Purchase Discount:10.0%",10.0,2595.6450000000004
+c85855e3-da1e-4d2f-98ac-e3aba7d49daf,2023-03-24,Blueberries,2023-05-27,3,16.26,48.78,Store,Cash,"",0.0,48.78
+012c2d7a-6e4c-4cbe-9bce-d097ff032f1d,2023-04-25,Wine - Charddonnay Errazuriz,2023-05-27,12,109.45,1313.4,App,Visa,"Cheese/Wine Discount:5.0%;Bulk Purchase Discount:7.0%;App Usage Promotion:15.0%;Visa Card Promotion:5.0%",11.0,1168.9260000000002
+6942bd32-a532-4298-8a0c-6d1ba1b59247,2023-04-24,Veal - Round Eye Of,2023-06-18,17,206.63,3512.71,App,Visa,"Bulk Purchase Discount:10.0%;App Usage Promotion:20.0%;Visa Card Promotion:5.0%",15.0,2985.8035
+0a17bc43-21b0-4fea-b73e-2982eb692be1,2023-04-27,Veal - Leg,2023-07-02,3,152.74,458.22,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,435.309
+5ac490b7-8b71-4cf6-bfcc-d4f801eb8c86,2023-03-31,Gin - Gilbeys London Dry,2023-05-09,4,234.71,938.84,Store,Visa,"Visa Card Promotion:5.0%",5.0,891.898
+e02f9987-1ec2-4f94-91ca-37e8e5adaa69,2023-04-14,Creme De Banane - Marie,2023-06-04,1,9.05,9.05,App,Visa,"App Usage Promotion:5.0%;Visa Card Promotion:5.0%",5.0,8.5975
